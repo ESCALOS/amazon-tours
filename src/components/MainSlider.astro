@@ -1,0 +1,33 @@
+---
+import MainSliderItem from "./MainSliderItem.astro";
+const slides = [
+  "Bienvenidos a la Amazonía",
+  "Monos y aves en su habitat",
+  "Descubramos Pacaya Samiria",
+  "Exploremos el río amazónas",
+  "Heliconia Amazon Lodge",
+  "Irapay Amazon Lodge",
+];
+---
+
+<swiper-container
+  class="h-[52rem] min-[2560px]:h-[70rem] w-full"
+  loop="true"
+  pagination="true"
+  pagination-clickable="true"
+>
+  {
+    slides.map((title, index) => (
+      <MainSliderItem
+        title={title}
+        imagePath={`/src/images/slide/${index + 1}.png`}
+      />
+    ))
+  }
+</swiper-container>
+
+<script>
+  import { register } from "swiper/element/bundle";
+
+  register();
+</script>

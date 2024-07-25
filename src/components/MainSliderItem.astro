@@ -1,0 +1,43 @@
+---
+import type { ImageMetadata } from "astro";
+import { Image } from "astro:assets";
+import { Icon } from "astro-icon/components";
+
+interface Props {
+  imagePath: string;
+  title: string;
+}
+const { imagePath, title } = Astro.props;
+const images = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/images/slide/*.png"
+);
+if (!images[imagePath])
+  throw new Error(
+    `"${imagePath}" does not exist in glob: "src/images/slide/*.{png}"`
+  );
+---
+
+<swiper-slide class="relative flex justify-center items-center">
+  <Image
+    src={images[imagePath]()}
+    alt=""
+    class:list={["object-cover w-full h-full"]}
+    loading="eager"
+  />
+  <div class="absolute inset-0 bg-black opacity-50 mix-blend-multiply"></div>
+  <div
+    class="flex flex-wrap justify-center items-center uppercase absolute max-w-2xl text-center"
+  >
+    <h5 class="block font-bold text-white text-7xl">
+      {title}
+    </h5>
+    <a
+      target="_blank"
+      href="https://www.google.com"
+      class="flex items-center justify-center w-64 py-4 mt-24 border-white border text-white text-lg font-bold bg-secondary-500 opacity-90 transition-opacity hover:opacity-100 rounded-md"
+    >
+      Consultar ahora
+      <Icon name="whatsapp" size={24} class="ml-2" />
+    </a>
+  </div>
+</swiper-slide>
