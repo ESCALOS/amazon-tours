@@ -1,5 +1,5 @@
 import { useForm, type SubmitHandler } from "react-hook-form"
-import { programsOptions } from "src/constans"
+import { activityOptions, programsOptions } from "src/constans"
 import { formatDate } from "src/logic/formatter"
 import { getURLToSendMessageToWhatsapp } from "src/logic/utils"
 import { validateCheckoutDate, validateDate } from "src/logic/validate"
@@ -31,14 +31,15 @@ export default function AvailabilityForm() {
             <p className="mb-8">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id odio repellendus quam quo, tenetur quis dignissimos sequi earum ab numquam vero, ad eveniet. Consequatur eos modi veniam deserunt. Repellat, architecto.</p>
             <form onSubmit={handleSubmit(onSubmit)} className="grid grid-cols-2 md:grid-cols-3 items-start justify-start gap-4">
                 <div className="col-span-2 md:col-span-1">
-                    <label className="block font-bold mb-2 text-gray-400" htmlFor="name">
+                    <label className="availability-label" htmlFor="name">
                         Nombres y Apellidos
                     </label>
                     <input
-                        className="rounded-md px-4 py-3 border w-full bg-gray-100 text-zinc-500 outline-secondary-500"
+                        className="availability-input"
                         type="text"
                         placeholder="Ingresa tus datos..."
                         autoComplete="name"
+                        id="name"
                         {...register("name", {
                             required: {
                                 value: true,
@@ -52,31 +53,58 @@ export default function AvailabilityForm() {
                     />
                     {errors.name && <span className="text-sm text-red-500">{errors.name.message}</span>}
                 </div>
-                <div>
-                    <label className="block font-bold mb-2 text-gray-400" htmlFor="program">
+                <div className="relative">
+                    <label className="availability-label" htmlFor="program">
                         Programa
                     </label>
                     <select
                         id="program"
-                        className="rounded-md px-4 py-3 border w-full bg-gray-100 text-zinc-500"
+                        className="availability-input"
                         {...register("program", { required: 'El programa es requerido' })}
                     >
                         {
                             programsOptions.map((program, index) => <option key={index}>{program}</option>)
                         }
                     </select>
+                    <span className="absolute right-4 text-gray-500 translate-y-4 font-bold">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="size-5">
+                            <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                        </svg>
+                    </span>
                     {
                         errors.program && <span className="text-sm text-red-500">{errors.program.message}</span>
                     }
                 </div>
+                <div className="relative">
+                    <label className="availability-label" htmlFor="activity">
+                        Actividad
+                    </label>
+                    <select
+                        id="activity"
+                        className="availability-input relative"
+                        {...register("activity", { required: 'La actividad es requerida' })}
+                    >
+                        {
+                            activityOptions.map((activity, index) => <option key={index}>{activity}</option>)
+                        }
+                    </select>
+                    <span className="absolute right-4 text-gray-500 translate-y-4 font-bold">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="size-5">
+                            <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                        </svg>
+                    </span>
+                    {
+                        errors.activity && <span className="text-sm text-red-500">{errors.activity.message}</span>
+                    }
+                </div>
                 <div>
-                    <label className="block font-semibold mb-2" htmlFor="checkin">
+                    <label className="availability-label" htmlFor="checkin">
                         Fecha de Ingreso
                     </label>
                     <input
                         type="date"
                         id="checkin"
-                        className="rounded-md px-4 py-3 border border-gray-400 w-full"
+                        className="availability-input"
                         {...register("checkin", { required: 'La fecha de ingreso es requerida', validate: validateDate })}
                     />
                     {
@@ -84,13 +112,13 @@ export default function AvailabilityForm() {
                     }
                 </div>
                 <div>
-                    <label className="block font-semibold mb-2" htmlFor="checkout">
+                    <label className="availability-label" htmlFor="checkout">
                         Fecha de Salida
                     </label>
                     <input
                         type="date"
                         id="checkout"
-                        className="rounded-md px-4 py-3 border border-gray-400 w-full"
+                        className="availability-input"
                         {...register("checkout", { required: 'La fecha de salida es requerida', validate: (checkout) => validateCheckoutDate(getValues("checkin"), checkout) })}
                     />
                     {
@@ -98,7 +126,7 @@ export default function AvailabilityForm() {
                     }
                 </div>
                 <div className="col-span-2 md:col-span-1">
-                    <p className="md:block font-semibold mb-2 hidden">
+                    <p className="md:block font-bold mb-2 text-gray-400 hidden">
                         Consultar Ahora
                     </p>
                     <button
