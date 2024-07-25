@@ -1,11 +1,16 @@
 ---
 import BaseHead from "@components/BaseHead.astro";
 import "@styles/global.css";
+import { ViewTransitions } from "astro:transitions";
 ---
 
 <!doctype html>
 <html lang="es">
   <head>
     <BaseHead title="Amazon Trips" description="Cool amazon trips" />
-  </head><body><slot /></body>
+    <ViewTransitions />
+  </head>
+  <body>
+    <slot />
+  </body>
 </html>
