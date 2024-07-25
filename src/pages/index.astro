@@ -6,6 +6,7 @@ import Layout from "src/layouts/Layout.astro";
 import BrandLogo from "@images/logo.svg";
 import { getImage } from "astro:assets";
 import Destinations from "@components/Destinations.astro";
+import TourCards from "@components/TourCards.astro";
 
 const logo = await getImage({
   src: BrandLogo,
@@ -20,4 +21,5 @@ const logo = await getImage({
   <MainSlider />
   <AvailabilityForm client:visible />
   <Destinations />
+  <TourCards />
 </Layout>

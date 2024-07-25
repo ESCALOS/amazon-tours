@@ -70,3 +70,26 @@ export const navItems = [
     text: "Contactos"
   },
 ]
+
+export const tourCardItems = [
+  {
+    id: 1,
+    imgPath: "/src/images/slide/1.png",
+    title: "Pacaya Samira"
+  },
+  {
+    id: 2,
+    imgPath: "/src/images/slide/2.png",
+    title: "Pacaya Samira"
+  },
+  {
+    id: 3,
+    imgPath: "/src/images/slide/3.png",
+    title: "Pacaya Samira"
+  },
+  {
+    id: 4,
+    imgPath: "/src/images/slide/4.png",
+    title: "Pacaya Samira"
+  }
+]

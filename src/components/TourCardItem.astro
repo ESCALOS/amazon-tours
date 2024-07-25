@@ -1,0 +1,26 @@
+---
+import TourImage from "@images/slide/4.png";
+import { Icon } from "astro-icon/components";
+import { Image } from "astro:assets";
+---
+
+<div class="bg-gray-100 rounded-md p-4">
+  <Image
+    src={TourImage}
+    alt="Pacaya Samiria"
+    height={128}
+    class="w-full object-cover rounded-lg"
+  />
+  <div class="pt-8">
+    <h3 class="text-xl text-primary-500 font-bold">South Island</h3>
+    <div class="flex justify-between items-center">
+      <div>
+        <Icon name="clock" size={20} class="text-gray-400 inline-block" />
+        <span class="text-gray-500">2 days</span>
+      </div>
+      <div>
+        <Icon name="clock" size={16} class="text-gray-400" />
+      </div>
+    </div>
+  </div>
+</div>
