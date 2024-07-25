@@ -1,0 +1,33 @@
+---
+import DestinationItem from "@components/DestinationItem.astro";
+---
+
+<section class="relative grid grid-cols-1 md:grid-cols-2 my-12 h-[80vh]">
+  <DestinationItem
+    altText="pacaya sarima"
+    containerTextClass="top-1/2 -translate-y-1/2 left-8"
+    titleClass="text-2xl"
+    imagePath="/src/images/slide/1.png"
+  />
+  <div class="grid grid-cols-1 md:grid-cols-2">
+    <DestinationItem
+      altText="pacaya sarima"
+      imagePath="/src/images/slide/2.png"
+      imgClass="object-right"
+    />
+    <DestinationItem
+      altText="pacaya sarima"
+      imagePath="/src/images/slide/3.png"
+    />
+    <DestinationItem
+      altText="pacaya sarima"
+      imagePath="/src/images/slide/4.png"
+    />
+    <DestinationItem
+      altText="pacaya sarima"
+      imagePath="/src/images/slide/5.png"
+    />
+  </div>
+  <div class="absolute inset-0 bg-primary-500 opacity-70 mix-blend-multiply">
+  </div>
+</section>

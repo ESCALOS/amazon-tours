@@ -1,0 +1,44 @@
+---
+import type { ImageMetadata } from "astro";
+import { Image } from "astro:assets";
+interface Props {
+  imagePath: string;
+  altText: string;
+  imgClass?: string;
+  containerTextClass?: string;
+  titleClass?: string;
+  paragraphClass?: string;
+}
+const {
+  imagePath,
+  altText,
+  imgClass = "",
+  containerTextClass = "bottom-8 -translate-y-1/2 left-4",
+  titleClass = "text-lg",
+  paragraphClass = "text-sm",
+} = Astro.props;
+const images = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/images/slide/*.png"
+);
+if (!images[imagePath])
+  throw new Error(
+    `"${imagePath}" does not exist in glob: "src/images/slide/*.png"`
+  );
+---
+
+<div class="relative">
+  <Image
+    src={images[imagePath]()}
+    alt={altText}
+    class:list={["w-full h-full object-cover", imgClass]}
+    loading="eager"
+  />
+  <div class:list={["absolute z-50", containerTextClass]}>
+    <h5 class:list={["uppercase font-bold text-white", titleClass]}>
+      Irapay amazon
+    </h5>
+    <p class:list={["text-white font-normal", paragraphClass]}>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+    </p>
+  </div>
+</div>
