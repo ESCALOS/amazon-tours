@@ -1,4 +1,5 @@
 ---
+import { tourCardItems } from "src/constans";
 import TourCardItem from "./TourCardItem.astro";
 ---
 
@@ -14,10 +15,8 @@ import TourCardItem from "./TourCardItem.astro";
         dolores, sed porro temporibus! Nemo quis, dolorum suscipit ea ex in?
       </p>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-      <TourCardItem />
-      <TourCardItem />
-      <TourCardItem />
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      {tourCardItems.map((item) => <TourCardItem {...item} />)}
     </div>
   </div>
 </section>

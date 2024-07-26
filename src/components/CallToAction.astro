@@ -1,0 +1,30 @@
+---
+import { Image } from "astro:assets";
+import ActionImage from "@images/slide/1.png";
+import { Icon } from "astro-icon/components";
+---
+
+<section class="h-[40rem] relative flex justify-center items-center">
+  <Image
+    src={ActionImage}
+    alt=""
+    class:list={["object-cover w-full h-full"]}
+    loading="eager"
+  />
+  <div class="absolute inset-0 bg-black opacity-50 mix-blend-multiply"></div>
+  <div
+    class="flex flex-wrap justify-center items-center uppercase absolute max-w-3xl text-center px-4"
+  >
+    <h5 class="font-bold text-white text-5xl md:text-7xl">
+      Los mejores tours de la Amazonía
+    </h5>
+    <a
+      target="_blank"
+      href="https://www.google.com"
+      class="flex items-center justify-center w-64 py-4 mt-24 border-white border text-white text-lg font-bold bg-secondary-500 opacity-90 transition-opacity hover:opacity-100 rounded-md"
+    >
+      Consultar ahora
+      <Icon name="whatsapp" size={24} class="ml-2" />
+    </a>
+  </div>
+</section>

@@ -1,13 +1,6 @@
 ---
 import MainSliderItem from "./MainSliderItem.astro";
-const slides = [
-  "Bienvenidos a la Amazonía",
-  "Monos y aves en su habitat",
-  "Descubramos Pacaya Samiria",
-  "Exploremos el río amazónas",
-  "Heliconia Amazon Lodge",
-  "Irapay Amazon Lodge",
-];
+import { mainSlides } from "src/constans";
 ---
 
 <swiper-container
@@ -15,9 +8,10 @@ const slides = [
   loop="true"
   pagination="true"
   pagination-clickable="true"
+  autoplay-delay="2500"
 >
   {
-    slides.map((title, index) => (
+    mainSlides.map((title, index) => (
       <MainSliderItem
         title={title}
         imagePath={`/src/images/slide/${index + 1}.png`}

@@ -1,0 +1,118 @@
+---
+import { Icon } from "astro-icon/components";
+import { Image } from "astro:assets";
+import { socialMedias, relatedLinks, otherInterests } from "src/constans";
+import Slide1 from "@images/slide/1.png";
+import Slide2 from "@images/slide/2.png";
+import Slide3 from "@images/slide/3.png";
+import Slide4 from "@images/slide/4.png";
+import Slide5 from "@images/slide/5.png";
+import Slide6 from "@images/slide/6.png";
+---
+
+<footer class="bg-primary-600">
+  <div
+    class="max-w-7xl mx-auto px-4 py-12 flex justify-center items-start gap-8"
+  >
+    <div class="w-80">
+      <h3 class="text-xl text-white font-bold">Contáctanos</h3>
+      <div
+        class="my-4 text-gray-400 flex flex-col items-start justify-center flex-wrap gap-4"
+      >
+        <div class="flex">
+          <Icon name="s-map-pin" size={40} />
+          <span class="ml-2"
+            >California, #32841 block, #221DRS 75 West Rock, Maple Building, UK.</span
+          >
+        </div>
+        <a href="tel:+51999999999" class="flex justify-center items-start">
+          <Icon name="phone" size={20} />
+          <span class="ml-2">+(21)-255-999-8888</span>
+        </a>
+        <a
+          href="mailto:example@amazonas.com"
+          class="flex justify-center items-start"
+        >
+          <Icon name="envelope-open" size={20} />
+          <span class="ml-2">example@support.com</span>
+        </a>
+      </div>
+      <div class="flex gap-4">
+        {
+          socialMedias.map((social) => (
+            <a href={social.link}>
+              <Icon
+                name={social.icon}
+                size={40}
+                class="bg-secondary-500 p-2 text-white rounded-md"
+              />
+            </a>
+          ))
+        }
+      </div>
+    </div>
+    <div class="w-40">
+      <h3 class="text-xl text-white font-bold">Links relacionados</h3>
+      <ul class="space-y-4 text-gray-400 mt-4">
+        {
+          relatedLinks.map((related) => (
+            <li>
+              <a href={related.link} target="_blank">
+                {related.title}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+    <div class="w-80">
+      <h3 class="text-xl text-white font-bold">Atractivos turísticos</h3>
+      <div class="grid grid-cols-2 gap-2 mt-8">
+        <Image
+          src={Slide1}
+          alt="Pacaya Samira"
+          class="w-full h-full object-cover rounded-md"
+        />
+        <Image
+          src={Slide2}
+          alt="Pacaya Samira"
+          class="w-full h-full object-cover rounded-md"
+        />
+        <Image
+          src={Slide3}
+          alt="Pacaya Samira"
+          class="w-full h-full object-cover rounded-md"
+        />
+        <Image
+          src={Slide4}
+          alt="Pacaya Samira"
+          class="w-full h-full object-cover rounded-md"
+        />
+        <Image
+          src={Slide5}
+          alt="Pacaya Samira"
+          class="w-full h-full object-cover rounded-md"
+        />
+        <Image
+          src={Slide6}
+          alt="Pacaya Samira"
+          class="w-full h-full object-cover rounded-md"
+        />
+      </div>
+    </div>
+    <div class="w-40">
+      <h3 class="text-xl text-white font-bold">También te Podría Interesar</h3>
+      <ul class="space-y-4 text-gray-400 mt-4">
+        {
+          otherInterests.map((interest) => (
+            <li>
+              <a href={interest.link} target="_blank">
+                {interest.title}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </div>
+</footer>
