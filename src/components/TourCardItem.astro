@@ -1,6 +1,5 @@
 ---
 import type { ImageMetadata } from "astro";
-import TourImage from "@images/slide/4.png";
 import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
 
@@ -51,7 +50,7 @@ if (!images[imgPath])
   <div class="border border-gray-300 my-4"></div>
   <div class="flex justify-between items-center">
     <p class="text-secondary-500 font-bold">{price}</p>
-    <a href="/">
+    <a href="/" aria-label={title}>
       <Icon
         name="angle-right"
         size={28}

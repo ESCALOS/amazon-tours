@@ -40,7 +40,7 @@ import Slide6 from "@images/slide/6.png";
       <div class="flex gap-4">
         {
           socialMedias.map((social) => (
-            <a href={social.link}>
+            <a href={social.link} aria-label={social.icon}>
               <Icon
                 name={social.icon}
                 size={40}
