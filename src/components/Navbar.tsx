@@ -27,7 +27,7 @@ export default function Navbar({ logoPath }: Props) {
 
     return (
         <header className={`fixed top-0 w-full z-50 transition-all duration-500 ${openNav ? 'bg-primary-400' : (scrolled ? 'bg-white text-gray-400' : 'bg-transparent text-white backdrop-blur-md')}`}>
-            <nav className={`p-4 max-w-7xl mx-auto ${openNav && 'h-screen'}`}>
+            <nav className={`p-4 max-w-7xl mx-auto ${openNav ? 'h-screen' : 'h-auto'}`}>
                 <div className="flex items-center justify-between">
                     <a href="/" className='text-primary-500'>
                         <img src={logoPath} className='h-16' alt="Logo Amazon" />
