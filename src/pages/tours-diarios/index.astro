@@ -11,7 +11,11 @@ const dailyTours = await getCollection("dailyTours");
     {
       dailyTours.map((tour) => (
         <li class="border-extra-soft-white text-soft-white hover:bg-soft-light rounded-xl border transition-colors duration-200">
-          <Article {...tour.data} slug={tour.slug} />
+          <div transition:name={tour.id}>
+            <a href={`/tours-diarios/${tour.slug}`}>
+              <Article {...tour.data} />
+            </a>
+          </div>
         </li>
       ))
     }

@@ -1,6 +1,7 @@
 ---
 import Article from "@components/Article.astro";
 import type { GetStaticPaths } from "astro";
+import { Icon } from "astro-icon/components";
 import { getCollection } from "astro:content";
 import TourLayout from "src/layouts/TourLayout.astro";
 
@@ -20,7 +21,22 @@ const { Content } = await tour.render();
 ---
 
 <TourLayout>
-  <Article {...tour.data} slug={tour.slug}>
-    <Content />
-  </Article>
+  <div class="max-w-article-size mx-auto w-full space-y-4 mt-6">
+    <a
+      class="text-soft-white border-extra-soft-white inline-flex cursor-pointer items-center gap-2 self-start rounded-full border px-6 py-2 transition-colors duration-200 hover:border-primary-500 hover:text-primary-500"
+      href="/tours-diarios"
+    >
+      <Icon name="arrow-left" size={20} />
+
+      Back to blog
+    </a>
+    <div
+      class="border-extra-soft-white w-full max-w-[none] rounded-xl border"
+      transition:name={tour.id}
+    >
+      <Article {...tour.data}>
+        <Content />
+      </Article>
+    </div>
+  </div>
 </TourLayout>
