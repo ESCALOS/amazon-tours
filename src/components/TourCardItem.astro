@@ -10,10 +10,9 @@ interface Props {
   description: string;
   duration: string;
   members: string;
-  price: string;
 }
 
-const { imgPath, title, description, duration, members, price } = Astro.props;
+const { imgPath, title, description, duration, members } = Astro.props;
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/slide/*.png"
@@ -48,14 +47,21 @@ if (!images[imgPath])
     </p>
   </div>
   <div class="border border-gray-300 my-4"></div>
-  <div class="flex justify-between items-center">
-    <p class="text-secondary-500 font-bold">{price}</p>
-    <a href="/" aria-label={title}>
-      <Icon
-        name="angle-right"
-        size={28}
-        class="text-gray-300 bg-white p-1 rounded-full"
-      />
-    </a>
-  </div>
+  <a
+    href={import.meta.env.PUBLIC_WHATSAPP_LINK}
+    aria-label={`Guía turística por ${title}`}
+    target="_blank"
+    class="flex justify-between items-center group"
+  >
+    <p
+      class="text-secondary-500 font-bold group-hover:text-primary-500 transition-colors"
+    >
+      Consultar
+    </p>
+    <Icon
+      name="angle-right"
+      size={28}
+      class="text-gray-300 bg-white p-1 rounded-full group-hover:text-primary-500 group-hover:border transition-colors group-hover:border-primary-500"
+    />
+  </a>
 </div>
