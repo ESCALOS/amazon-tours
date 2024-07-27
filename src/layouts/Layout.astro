@@ -3,15 +3,30 @@ import BaseHead from "@components/BaseHead.astro";
 import Footer from "@components/Footer.astro";
 import "@styles/global.css";
 import { ViewTransitions } from "astro:transitions";
+import Navbar from "@components/Navbar";
+import { getImage } from "astro:assets";
+import BrandLogo from "@images/logo.svg";
+
+const logo = await getImage({
+  src: BrandLogo,
+  width: 64,
+  height: 64,
+  format: "svg",
+});
+const isIndexPath = Astro.url.pathname === "/";
 ---
 
 <!doctype html>
 <html lang="es">
   <head>
-    <BaseHead title="Amazon Trips" description="Cool amazon trips" />
+    <BaseHead
+      title="Iquitos Expedition"
+      description="Descubre los mejores Paquetes Turísticos, junto a nosotros.  Somos tu mejor opción en tus viajes en Pareja, En Familia y amigos. Celebra junto a nosotros tu viaje de Luna de miel, viajes de Cumpleaños, aniversarios. En los Mejores hoteles y Lodge en la Selva."
+    />
     <ViewTransitions />
   </head>
   <body>
+    <Navbar logoPath={logo.src} isIndexPath={isIndexPath} client:load />
     <slot />
     <Footer />
   </body>

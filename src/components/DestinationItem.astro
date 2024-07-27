@@ -6,23 +6,23 @@ interface Props {
   altText: string;
   imgClass?: string;
   containerTextClass?: string;
+  title?: string;
   titleClass?: string;
-  paragraphClass?: string;
 }
 const {
   imagePath,
   altText,
   imgClass = "",
   containerTextClass = "bottom-8 -translate-y-1/2 left-4",
+  title = "Sin título",
   titleClass = "text-lg",
-  paragraphClass = "text-sm",
 } = Astro.props;
 const images = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/images/slide/*.png"
+  "/src/images/card/*.jpg"
 );
 if (!images[imagePath])
   throw new Error(
-    `"${imagePath}" does not exist in glob: "src/images/slide/*.png"`
+    `"${imagePath}" does not exist in glob: "src/images/card/*.jpg"`
   );
 ---
 
@@ -35,10 +35,7 @@ if (!images[imagePath])
   />
   <div class:list={["absolute z-30", containerTextClass]}>
     <h5 class:list={["uppercase font-bold text-white", titleClass]}>
-      Irapay amazon
+      {title}
     </h5>
-    <p class:list={["text-white font-normal", paragraphClass]}>
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-    </p>
   </div>
 </div>

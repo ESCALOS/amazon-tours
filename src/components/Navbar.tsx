@@ -3,10 +3,11 @@ import { navItems } from 'src/constans'
 import { motion } from "framer-motion";
 
 type Props = {
-    logoPath: string
+    logoPath: string,
+    isIndexPath?: boolean
 }
 
-export default function Navbar({ logoPath }: Props) {
+export default function Navbar({ logoPath, isIndexPath = false }: Props) {
     const [openNav, setOpenNav] = useState(false)
     const [scrolled, setScrolled] = useState(false)
 
@@ -19,7 +20,9 @@ export default function Navbar({ logoPath }: Props) {
 
     useEffect(() => {
         const handleScroll = () => {
-            setScrolled(window.scrollY > window.innerHeight)
+            const navbarHeight = 96;
+            const breakpointHeight = isIndexPath ? window.innerHeight : 256
+            setScrolled(window.scrollY > (breakpointHeight - navbarHeight))
         }
         window.addEventListener("scroll", handleScroll)
         return () => window.removeEventListener("scroll", handleScroll)
@@ -62,7 +65,7 @@ export default function Navbar({ logoPath }: Props) {
                     animate={{
                         height: openNav ? 'auto' : 0,
                     }}
-                    transition={{ duration: 0.5 }}
+                    transition={{ duration: 0.3 }}
                     style={{ overflow: 'hidden' }}
                 >
                     <div className={`flex gap-8 items-center justify-center flex-col py-8 h-full`}>

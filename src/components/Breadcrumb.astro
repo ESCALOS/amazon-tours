@@ -1,0 +1,24 @@
+---
+import { Image } from "astro:assets";
+import BreadcrumbImage from "@images/slide/4.png";
+
+interface Props {
+  title: string;
+  subtitle: string;
+}
+
+const { title, subtitle } = Astro.props;
+---
+
+<section class="relative flex items-end justify-start h-64 flex-wrap">
+  <Image
+    src={BreadcrumbImage}
+    alt="Iquitos tours"
+    class="absolute object-cover w-full h-full"
+  />
+  <div class="absolute inset-0 bg-black opacity-80 mix-blend-multiply"></div>
+  <div class="relative z-20 px-6 pb-12 text-white max-w-7xl w-full mx-auto">
+    <h3 class="text-4xl font-black">{title}</h3>
+    <p>Inicio <span class="font-bold">➔</span> {subtitle}</p>
+  </div>
+</section>

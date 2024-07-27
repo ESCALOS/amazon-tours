@@ -1,24 +1,13 @@
 ---
 import AvailabilityForm from "@components/AvailabilityForm";
 import MainSlider from "@components/MainSlider.astro";
-import Navbar from "@components/Navbar";
 import Layout from "src/layouts/Layout.astro";
-import BrandLogo from "@images/logo.svg";
-import { getImage } from "astro:assets";
 import Destinations from "@components/Destinations.astro";
 import TourCards from "@components/TourCards.astro";
 import CallToAction from "@components/CallToAction.astro";
-
-const logo = await getImage({
-  src: BrandLogo,
-  width: 64,
-  height: 64,
-  format: "svg",
-});
 ---
 
 <Layout>
-  <Navbar logoPath={logo.src} client:load />
   <MainSlider />
   <AvailabilityForm client:visible />
   <Destinations />

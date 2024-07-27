@@ -31,7 +31,7 @@ export const navItems = [
   },
   {
     id: 2,
-    path: "/",
+    path: "/nosotros",
     text: "Nosotros"
   },
   {
