@@ -1,0 +1,17 @@
+---
+import { getCollection } from "astro:content";
+import Article from "@components/Article.astro";
+import Breadcrumb from "@components/Breadcrumb.astro";
+import Layout from "src/layouts/Layout.astro";
+
+const dailyTours = await getCollection("dailyTours");
+---
+
+<Layout>
+  <Breadcrumb title="Tours diarios" />
+  <section class="bg-white my-24">
+    <div class="max-w-7xl mx-auto">
+      <slot />
+    </div>
+  </section>
+</Layout>

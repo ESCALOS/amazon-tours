@@ -1,0 +1,26 @@
+---
+import Article from "@components/Article.astro";
+import type { GetStaticPaths } from "astro";
+import { getCollection } from "astro:content";
+import TourLayout from "src/layouts/TourLayout.astro";
+
+export const getStaticPaths = (async () => {
+  const tours = await getCollection("dailyTours");
+  return tours.map((tour) => ({
+    params: {
+      slug: tour.slug,
+    },
+    props: tour,
+  }));
+}) satisfies GetStaticPaths;
+
+const tour = Astro.props;
+
+const { Content } = await tour.render();
+---
+
+<TourLayout>
+  <Article {...tour.data} slug={tour.slug}>
+    <Content />
+  </Article>
+</TourLayout>

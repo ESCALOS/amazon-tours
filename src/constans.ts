@@ -8,11 +8,11 @@ export const mainSlides = [
 ]
 
 export const programsOptions = [
-  "Programa 1",
-  "Programa 2",
-  "Programa 3",
-  "Programa 4",
-  "Programa 5",
+  "Irapay Amazon",
+  "Heliconia Lodge",
+  "Cumaceba Lodge",
+  "Pacaya Samiria",
+  "Tours Diarios",
 ]
 
 export const activityOptions = [
@@ -56,7 +56,7 @@ export const navItems = [
   },
   {
     id: 7,
-    path: "/",
+    path: "/tours-diarios",
     text: "Tours Diarios"
   },
   {
@@ -132,27 +132,17 @@ export const socialMedias = [
   {
     id: 1,
     icon: "facebook",
-    link: "https://www.facebook.com/"
+    link: "https://www.facebook.com/profile.php?id=100094933690034&mibextid=ZbWKwL"
   },
   {
     id: 2,
-    icon: "twitter",
-    link: "https://twitter.com/"
+    icon: "instagram",
+    link: "https://www.instagram.com/iquitosexpeditionperu?igsh=dGtpeGZhbnZ5cTV4"
   },
   {
     id: 3,
-    icon: "instagram",
-    link: "https://www.instagram.com/"
-  },
-  {
-    id: 4,
-    icon: "google-plus",
-    link: "https://www.google.com/"
-  },
-  {
-    id: 5,
-    icon: "linkedin",
-    link: "https://www.linkedin.com/"
+    icon: "tiktok",
+    link: "https://www.tiktok.com/@iquitos.expedition?is_from_webapp=1&sender_device=pc"
   }
 ]
 

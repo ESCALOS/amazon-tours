@@ -8,6 +8,8 @@ import Slide3 from "@images/slide/3.png";
 import Slide4 from "@images/slide/4.png";
 import Slide5 from "@images/slide/5.png";
 import Slide6 from "@images/slide/6.png";
+
+const phoneNumber = import.meta.env.PUBLIC_WHATSAPP_NUMBER.slice(2);
 ---
 
 <footer class="bg-primary-600">
@@ -20,21 +22,19 @@ import Slide6 from "@images/slide/6.png";
         class="my-4 text-gray-400 flex flex-col items-start justify-center flex-wrap gap-4"
       >
         <div class="flex">
-          <Icon name="s-map-pin" size={40} />
-          <span class="ml-2"
-            >California, #32841 block, #221DRS 75 West Rock, Maple Building, UK.</span
-          >
+          <Icon name="s-map-pin" size={20} />
+          <span class="ml-2">Jr. Napo 565, Iquitos, Perú</span>
         </div>
-        <a href="tel:+51999999999" class="flex justify-center items-start">
+        <a href={`tel:${phoneNumber}`} class="flex justify-center items-start">
           <Icon name="phone" size={20} />
-          <span class="ml-2">+(21)-255-999-8888</span>
+          <span class="ml-2">{phoneNumber}</span>
         </a>
         <a
-          href="mailto:example@amazonas.com"
+          href="mailto:reservas@iquitosexpedition.com"
           class="flex justify-center items-start"
         >
           <Icon name="envelope-open" size={20} />
-          <span class="ml-2">example@support.com</span>
+          <span class="ml-2">reservas@iquitosexpedition.com</span>
         </a>
       </div>
       <div class="flex gap-4">

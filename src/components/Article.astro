@@ -1,0 +1,22 @@
+---
+import { Image } from "astro:assets";
+import { type CollectionEntry } from "astro:content";
+type Props = CollectionEntry<"dailyTours">["data"] & { slug: string };
+const { heroImage, title, slug } = Astro.props;
+---
+
+<div transition:name={slug}>
+  <a href={`/tours-diarios/${slug}`}>
+    <Image
+      src={heroImage}
+      alt={title}
+      class="w-full h-96 rounded-t-xl object-cover"
+    />
+    <div class="w-full">
+      <div class="flex flex-col px-12 py-4">
+        <h4 class="text-3xl font-bold">{title}</h4>
+        <slot />
+      </div>
+    </div>
+  </a>
+</div>

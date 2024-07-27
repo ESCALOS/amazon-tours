@@ -13,7 +13,7 @@ const {
   iconSize = 24,
   bgColor = "bg-secondary-500",
   padding = "px-12 py-4",
-  textColor = "text-white",
+  textColor = "text-white hover:text-primary-500",
   textSize = "text-lg",
 } = Astro.props;
 ---
@@ -22,7 +22,7 @@ const {
   target="_blank"
   href={import.meta.env.PUBLIC_WHATSAPP_LINK}
   class:list={[
-    "inline-flex items-center justify-center border-white border font-bold opacity-90 transition-opacity hover:opacity-100 rounded-md",
+    "inline-flex items-center justify-center border-2 border-white hover:border-primary-500 font-bold hover:bg-white rounded-md",
     bgColor,
     textColor,
     textSize,

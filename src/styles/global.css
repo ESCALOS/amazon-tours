@@ -7,5 +7,5 @@
 }
 
 .availability-input {
-  @apply appearance-none rounded-md px-4 py-3 border w-full bg-gray-100 text-zinc-500 outline-secondary-500
+  @apply appearance-none rounded-md px-4 py-3 border w-full bg-gray-100 text-zinc-500 outline-primary-500
 }
