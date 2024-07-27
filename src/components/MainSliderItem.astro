@@ -6,8 +6,9 @@ import WhatsappButton from "./WhatsappButton.astro";
 interface Props {
   imagePath: string;
   title: string;
+  description: string;
 }
-const { imagePath, title } = Astro.props;
+const { imagePath, title, description } = Astro.props;
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/slide/*.png"
 );
@@ -32,9 +33,7 @@ if (!images[imagePath])
       {title}
     </h5>
     <p class="text-white font-medium text-lg my-12">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Est voluptates
-      sit, vel repellendus dolor dolore eius odio qui facilis et nemo? Ipsum
-      obcaecati ad ex illo consequatur tenetur qui voluptas!
+      {description}
     </p>
     <WhatsappButton />
   </div>

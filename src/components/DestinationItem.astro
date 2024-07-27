@@ -8,6 +8,7 @@ interface Props {
   containerTextClass?: string;
   title?: string;
   titleClass?: string;
+  description: string;
 }
 const {
   imagePath,
@@ -16,6 +17,7 @@ const {
   containerTextClass = "bottom-8 -translate-y-1/2 left-4",
   title = "Sin título",
   titleClass = "text-lg",
+  description,
 } = Astro.props;
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/card/*.jpg"
@@ -37,6 +39,8 @@ if (!images[imagePath])
     <h5 class:list={["uppercase font-bold text-white", titleClass]}>
       {title}
     </h5>
-    <slot />
+    <p class="text-sm lg:text-base text-white pt-4">
+      {description}
+    </p>
   </div>
 </div>

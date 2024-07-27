@@ -1,10 +1,34 @@
 export const mainSlides = [
-  "Bienvenidos a la Amazonía",
-  "Monos y aves en su habitat",
-  "Descubramos Pacaya Samiria",
-  "Exploremos el río amazonas",
-  "Heliconia Amazon Lodge",
-  "Irapay Amazon Lodge",
+  {
+    title: "Bienvenidos a la Amazonía",
+    description:
+      "Descubre la Amazonía peruana, un mundo lleno de vida y aventuras. Sumérgete en la selva, navega por ríos y conecta con la naturaleza en su forma más pura.",
+  },
+  {
+    title: "Monos y aves en su habitat",
+    description:
+      "Observa monos y aves en su hábitat natural en la Amazonía peruana, desde aulladores ruidosos hasta coloridos tucanes y guacamayos en su entorno salvaje.",
+  },
+  {
+    title: "Descubramos Pacaya Samiria",
+    description:
+      'La Reserva Nacional Pacaya Samiria, la "selva de los espejos", te invita a descubrir su biodiversidad en expediciones guiadas por una de las reservas más grandes de Perú.',
+  },
+  {
+    title: "Exploremos el río amazonas",
+    description:
+      "Navega por el majestuoso río Amazonas, descubre la vida silvestre y las comunidades ribereñas, y sumérgete en la magia de la Amazonía peruana.",
+  },
+  {
+    title: "Heliconia Amazon Lodge",
+    description:
+      "Heliconia Amazon Lodge ofrece lujo y aventura en la selva amazónica. Explora la selva, navega por ríos y observa la vida silvestre con servicio excepcional.",
+  },
+  {
+    title: "Irapay Amazon Lodge",
+    description:
+      "Irapay Amazon Lodge combina comodidad y naturaleza en la Amazonía. Disfruta de caminatas guiadas, paseos en bote y visitas a comunidades nativas en un entorno de lujo.",
+  },
 ];
 
 export const programsOptions = [
