@@ -2,7 +2,7 @@ export const mainSlides = [
   "Bienvenidos a la Amazonía",
   "Monos y aves en su habitat",
   "Descubramos Pacaya Samiria",
-  "Exploremos el río amazónas",
+  "Exploremos el río amazonas",
   "Heliconia Amazon Lodge",
   "Irapay Amazon Lodge",
 ];
