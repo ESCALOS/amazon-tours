@@ -1,0 +1,35 @@
+---
+import { Icon } from "astro-icon/components";
+
+interface Props {
+  iconSize?: number;
+  bgColor?: string;
+  padding?: string;
+  textColor?: string;
+  textSize?: string;
+}
+
+const {
+  iconSize = 24,
+  bgColor = "bg-secondary-500",
+  padding = "px-12 py-4",
+  textColor = "text-white",
+  textSize = "text-lg",
+} = Astro.props;
+---
+
+<a
+  target="_blank"
+  href={import.meta.env.PUBLIC_WHATSAPP_LINK}
+  class:list={[
+    "inline-flex items-center justify-center border-white border font-bold opacity-90 transition-opacity hover:opacity-100 rounded-md",
+    bgColor,
+    textColor,
+    textSize,
+    padding,
+  ]}
+  aria-label="Contacto de WhatsApp"
+>
+  Consultar ahora
+  <Icon name="whatsapp" size={iconSize} class="ml-2" />
+</a>

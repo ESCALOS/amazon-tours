@@ -2,6 +2,7 @@
 import type { ImageMetadata } from "astro";
 import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
+import WhatsappButton from "./WhatsappButton.astro";
 
 interface Props {
   imagePath: string;
@@ -26,18 +27,16 @@ if (!images[imagePath])
   />
   <div class="absolute inset-0 bg-black opacity-50 mix-blend-multiply"></div>
   <div
-    class="flex flex-wrap justify-center items-center uppercase absolute max-w-2xl text-center px-4"
+    class="flex flex-wrap justify-center items-center absolute max-w-2xl text-center px-4"
   >
-    <h5 class="font-bold text-white text-5xl md:text-7xl">
+    <h5 class="uppercase font-bold text-white text-5xl md:text-7xl">
       {title}
     </h5>
-    <a
-      target="_blank"
-      href="https://www.google.com"
-      class="flex items-center justify-center w-64 py-4 mt-24 border-white border text-white text-lg font-bold bg-secondary-500 opacity-90 transition-opacity hover:opacity-100 rounded-md"
-    >
-      Consultar ahora
-      <Icon name="whatsapp" size={24} class="ml-2" />
-    </a>
+    <p class="text-white font-medium text-lg my-12">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Est voluptates
+      sit, vel repellendus dolor dolore eius odio qui facilis et nemo? Ipsum
+      obcaecati ad ex illo consequatur tenetur qui voluptas!
+    </p>
+    <WhatsappButton />
   </div>
 </swiper-slide>

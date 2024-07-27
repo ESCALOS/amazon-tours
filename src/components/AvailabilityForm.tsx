@@ -26,7 +26,7 @@ export default function AvailabilityForm() {
     }
 
     return (
-        <section id="checkForm" className="max-w-7xl mx-auto py-12 px-6">
+        <section id="checkForm" className="max-w-7xl mx-auto py-32 px-6">
             <h3 className="text-4xl font-semibold mb-4">Get the best holiday By Experts</h3>
             <p className="mb-8">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id odio repellendus quam quo, tenetur quis dignissimos sequi earum ab numquam vero, ad eveniet. Consequatur eos modi veniam deserunt. Repellat, architecto.</p>
             <form onSubmit={handleSubmit(onSubmit)} className="grid grid-cols-2 md:grid-cols-3 items-start justify-start gap-4">
