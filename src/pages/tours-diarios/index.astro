@@ -10,12 +10,13 @@ const dailyTours = await getCollection("dailyTours");
   <ul class="space-y-8">
     {
       dailyTours.map((tour) => (
-        <li class="border-extra-soft-white text-soft-white hover:bg-soft-light rounded-xl border transition-colors duration-200">
-          <div transition:name={tour.id}>
-            <a href={`/tours-diarios/${tour.slug}`}>
-              <Article {...tour.data} />
-            </a>
-          </div>
+        <li
+          class="border-extra-soft-white text-soft-white hover:bg-soft-light rounded-xl border transition-colors duration-200"
+          transition:name={tour.id}
+        >
+          <a href={`/tours-diarios/${tour.slug}`}>
+            <Article {...tour.data} />
+          </a>
         </li>
       ))
     }
