@@ -2,7 +2,7 @@
 import { Image } from "astro:assets";
 import { type CollectionEntry } from "astro:content";
 type Props = CollectionEntry<"dailyTours">["data"];
-const { heroImage, title } = Astro.props;
+const { id, heroImage, title } = Astro.props;
 ---
 
 <article>
@@ -10,7 +10,7 @@ const { heroImage, title } = Astro.props;
     src={heroImage}
     alt={title}
     class="w-full h-96 rounded-t-xl object-cover"
-    loading="eager"
+    loading={id > 2 ? "lazy" : "eager"}
   />
   <div class="w-full">
     <div class="flex flex-col px-4 py-6">

@@ -6,7 +6,7 @@ import TourLayout from "src/layouts/TourLayout.astro";
 const pacayaSamiria = await getCollection("pacayaSamiria");
 ---
 
-<TourLayout>
+<TourLayout sectionName="Pacaya Samiria">
   <ul class="space-y-8">
     {
       pacayaSamiria.map((tour) => (

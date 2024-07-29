@@ -1,4 +1,5 @@
 ---
+id: 4
 title: "Tour Pacaya Samiria 6D/5N"
 description: "Tour Pacaya Samiria 6D/5N"
 heroImage: "./images/RESERVA NACIONAL PACAYA SAMIRIA.jpg"

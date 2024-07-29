@@ -3,10 +3,12 @@ import { getCollection } from "astro:content";
 import Article from "@components/Article.astro";
 import TourLayout from "src/layouts/TourLayout.astro";
 
-const dailyTours = await getCollection("dailyTours");
+const dailyTours = (await getCollection("dailyTours")).sort(
+  (a, b) => a.data.id - b.data.id
+);
 ---
 
-<TourLayout>
+<TourLayout sectionName="Tours diarios">
   <ul class="space-y-8">
     {
       dailyTours.map((tour) => (

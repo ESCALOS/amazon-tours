@@ -1,13 +1,11 @@
 ---
-id: 1
-title: "Aventura Extrema (Puentes Colgantes)"
-description: "Tour en Iquitos, actividad por puentes colgantes"
-heroImage: "./images/TOURS DIARIOS.jpg"
+id: 3
+title: "Tour Pacaya Samiria 5D/4N"
+description: "Tour Pacaya Samiria 5D/4N"
+heroImage: "./images/RESERVA NACIONAL PACAYA SAMIRIA.jpg"
 ---
 
-# Aventura Extrema
-
-# **(Puentes Colgantes)**
+# Tour Pacaya Samiria 6D/5N
 
 ---
 
