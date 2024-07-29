@@ -1,0 +1,52 @@
+---
+title: "Isla de los Monos"
+description: "Tour por la frontera del Río Amazonas y el Río Nanay"
+heroImage: "./images/TOURS DIARIOS.jpg"
+---
+
+# Isla de los Monos
+
+---
+
+- Recojo de su hotel y traslado al Puerto de Bellavista Nanay.
+- Frontera de los Ríos Amazonas y río Nanay **(fenómeno natural)**.
+- Navegación Río Amazonas **(Maravilla Natural del mundo)**.
+- Visita al Árbol Gigante Lupuna y Mirador del Amazonas en comunidad Natiba los Kukama Independencia.
+- Fundo Pedrito **(Caimán, Paiche, Victoria regia Amazónica)**.
+- Comunidad Nativa Los Yaguas **(danzas y artesanía)**.
+- Visita a la Verdadera Isla de los Monos **(Centro de rescate de mayor valor debido a su trabajo con primates, especies como el mono choro, titi, tocón, aullador viven aquí, interactuamos con ellos en su hábitat)**.
+- Almuerzo a bordo **(juane regional especial y bebida)**.
+- Búsqueda de delfines rosados y grises **(ocasionalmente)**.
+- Nado en el Río Amazonas **(opcional - llevar ropa de baño)**.
+- Traslado de retorno.
+- Atardecer amazónico en el Río Amazonas.
+- Llegada a Puerto Bellavista Nanay, fin del tour.
+
+## **Nuestro Servicio Incluye**
+
+- Recojo del Hotel al Puerto Hotel.
+- Guía Profesional.
+- Almuerzo Típico
+- Entradas a los lugares a visitar.
+- Transporte Fluvial Equipado.
+- Botequín de Primeros Auxilios.
+- Atención Personalizada.
+
+## **Nuestro Servicio no Incluye.**
+
+- Hotel.
+- Pasajes Aéreos.
+- Alimentación
+- Entre otros no Mencionados.
+
+## **Que traer con usted**
+
+- Ropa Ligera.
+- Repelente.
+- Bloqueador.
+- Cámara Fotográfica.
+- Lentes de Sol.
+- Chaqueta de Lluvia.
+- Lentes de Sol.
+- Gorro o Sombrero.
+- Botiquín Personal.

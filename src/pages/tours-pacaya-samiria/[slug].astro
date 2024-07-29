@@ -7,7 +7,7 @@ import { getCollection } from "astro:content";
 import TourLayout from "src/layouts/TourLayout.astro";
 
 export const getStaticPaths = (async () => {
-  const tours = await getCollection("dailyTours");
+  const tours = await getCollection("pacayaSamiria");
   return tours.map((tour) => ({
     params: {
       slug: tour.slug,

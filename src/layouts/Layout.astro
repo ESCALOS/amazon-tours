@@ -6,6 +6,7 @@ import { ViewTransitions } from "astro:transitions";
 import Navbar from "@components/Navbar";
 import { getImage } from "astro:assets";
 import BrandLogo from "@images/logo.svg";
+import { SITE_DESCRIPTION, SITE_TITLE } from "src/constans";
 
 const logo = await getImage({
   src: BrandLogo,
@@ -19,10 +20,7 @@ const isIndexPath = Astro.url.pathname === "/";
 <!doctype html>
 <html lang="es">
   <head>
-    <BaseHead
-      title="Iquitos Expedition"
-      description="Descubre los mejores Paquetes Turísticos, junto a nosotros.  Somos tu mejor opción en tus viajes en Pareja, En Familia y amigos. Celebra junto a nosotros tu viaje de Luna de miel, viajes de Cumpleaños, aniversarios. En los Mejores hoteles y Lodge en la Selva."
-    />
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <ViewTransitions />
   </head>
   <body>

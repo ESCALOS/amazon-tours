@@ -1,3 +1,8 @@
+export const SITE_TITLE = "Iquitos Expedition";
+
+export const SITE_DESCRIPTION =
+  "Descubre los mejores Paquetes Turísticos, junto a nosotros.  Somos tu mejor opción en tus viajes en Pareja, En Familia y amigos. Celebra junto a nosotros tu viaje de Luna de miel, viajes de Cumpleaños, aniversarios. En los Mejores hoteles y Lodge en la Selva.";
+
 export const mainSlides = [
   {
     title: "Bienvenidos a la Amazonía",
@@ -75,7 +80,7 @@ export const navItems = [
   },
   {
     id: 6,
-    path: "/",
+    path: "/tours-pacaya-samiria",
     text: "Pacaya Samiria",
   },
   {
