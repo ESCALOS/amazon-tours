@@ -7,6 +7,6 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://example.com",
-  integrations: [tailwind(), react(), icon(), sitemap()]
+  site: "https://amazon-tours.vercel.app/",
+  integrations: [tailwind(), react(), icon(), sitemap()],
 });

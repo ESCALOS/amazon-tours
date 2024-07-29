@@ -42,6 +42,7 @@ const phoneNumber = import.meta.env.PUBLIC_WHATSAPP_NUMBER.slice(2);
           socialMedias.map((social) => (
             <a href={social.link} aria-label={social.icon}>
               <Icon
+                title={social.icon}
                 name={social.icon}
                 size={40}
                 class="bg-secondary-500 p-2 text-white rounded-md"
