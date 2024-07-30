@@ -1,45 +1,28 @@
 ---
 id: 1
-title: "Tour Pacaya Samiria 3D/2N"
-description: "Tour Pacaya Samiria 3D/2N"
+title: "Tours Reserva Nacional Pacaya Samiria 3 Días 2 Noches"
+description: "Tours Reserva Nacional Pacaya Samiria 3 Días 2 Noches"
 heroImage: "./images/RESERVA NACIONAL PACAYA SAMIRIA.jpg"
 ---
 
-# Tour Pacaya Samiria 6D/5N
+# Tours Reserva Nacional Pacaya Samiria 3 Días 2 Noches
 
 ---
 
-Nuestro tour te llevará a vivir una experiencia llena de adrenalina y emoción en medio de la impresionante naturaleza de la región.  
-Equipados con el equipo de seguridad necesario y acompañados por nuestros experimentados guías, te aventurarás a cruzar estos puentes colgantes suspendidos sobre árboles gigantes, y descender con tirolesas y rappel. Cada paso que des te llenará de emoción y te hará sentir la verdadera adrenalina corriendo por tus venas.  
-Durante el recorrido, tendrás la oportunidad de disfrutar de vistas panorámicas impresionantes de la selva amazónica, mientras pones a prueba tu coraje y tu habilidad para enfrentar los desafíos que se presenten.  
-Almuerzo típico por el Pasajero.  
-Traslado a Iquitos.
+La Reserva Nacional Pacaya-Samiria, es un área protegida ubicada en la Región de Loreto, Amazonía de Perú. Protege un área de colinas bajas y bosques inundables estacionalmente en la selva amazónica. La Reserva Nacional Pacaya-Samiria y la cercana Reserva Tamshiyacu-Tahuayo forman un punto crítico de biodiversidad en la selva amazónica en Perú.
 
-## **Nuestro Servicio Incluye**
+## **Día 1 Yurimaguas- Lagunas- Posa Gloria**
 
-- Recojo del Hotel al Puerto Hotel.
-- Guía Profesional.
-- Entradas a los lugares a visitar.
-- Transporte Fluvial Equipado.
-- Equipo de Seguridad.
-- Botiquín de Primeros Auxilios.
-- Atención Personalizada.
+**4:00 AM** Personal de nuestra agencia pasara por su hotel para trasladarle al puerto de la ciudad de Yurimaguas-en seguida iniciamos nuestro viaje de 4 horas en transporte fluvial hasta la comunidad de Lagunas , donde nos reunimos con nuestros guías nativos, después del desayuno iniciamos con nuestro traslado de 30 minutos en moto taxi hasta puerto Tibilo.
 
-## **Nuestro Servicio no Incluye.**
+**10:00 AM** Iniciamos nuestra expedición, este día usaremos embarcaciones artesanales para trasladarnos por 5 horas por el rio Tibilo hasta nuestra cabaña que está ubicada en el sector llamado posa Gloria. Durante nuestras visitas haremos observación de aves endémicas, avistamiento de cocodrilos, pesca de pirañas entre otras actividades
 
-- Hotel.
-- Pasajes Aéreos.
-- Alimentación
-- Entre otros no Mencionados.
+## **Día 2: Excursión dentro de la Reserva & pernocte en Posa Gloria**
 
-## **Que traer con usted**
+**8:00 AM** Después del desayuno iniciamos nuestra visita dentro del parque nacional, usaremos canoa para movilizarse durante la excursión, este día haremos avistamiento de cocodrilos, monos, aves exóticas de la Amazonía, pesca de pirañas entre otras actividades.
 
-- Ropa Ligera.
-- Repelente.
-- Bloqueador.
-- Cámara Fotográfica.
-- Lentes de Sol.
-- Chaqueta de Lluvia.
-- Lentes de Sol.
-- Gorro o Sombrero.
-- Botiquín Personal.
+**7:00 PM** Iniciamos nuestra visita nocturna para avistar cocodrilos, hacer pesca de Pirañas y disfrutar de leyendas de la amazonia.
+
+## **Día 3: Posa Gloria – Lagunas – Yurimaguas**
+
+**5:00 AM** Iniciamos nuestro viaje de retorno por 6 horas hasta puerto Tibilo donde nos espera nuestra movilidad para trasladarnos a la comunidad de Lagunas. Almuerzo y traslado al puerto para nuestro viaje de retorno a la ciudad de Yurimaguas.
