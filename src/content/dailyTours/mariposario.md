@@ -3,6 +3,7 @@ id: 5
 title: "Mariposario"
 description: "Tour por el Mariposario, Iquitos"
 heroImage: "./images/TOURS DIARIOS.jpg"
+pubDate: "Jul 30 2024"
 ---
 
 # Mariposario

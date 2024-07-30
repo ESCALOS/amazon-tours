@@ -10,16 +10,20 @@ export async function GET(context) {
     description: SITE_DESCRIPTION,
     site: context.site,
     items: [
-      ...dailyTours.map(({ data: { title, description }, slug }) => ({
+      ...dailyTours.map(({ data: { title, description, pubDate }, slug }) => ({
         title: title,
         description: description,
+        pubDate: pubDate,
         link: `/tours-diarios/${slug}/`,
       })),
-      ...pacayaSamiria.map(({ data: { title, description }, slug }) => ({
-        title: title,
-        description: description,
-        link: `/tours-pacaya-samiria/${slug}/`,
-      })),
+      ...pacayaSamiria.map(
+        ({ data: { title, description, pubDate }, slug }) => ({
+          title: title,
+          description: description,
+          pubDate: pubDate,
+          link: `/tours-pacaya-samiria/${slug}/`,
+        })
+      ),
     ],
   });
 }

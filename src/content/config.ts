@@ -8,6 +8,7 @@ const dailyTours = defineCollection({
       heroImage: image(),
       title: z.string(),
       description: z.string(),
+      pubDate: z.coerce.date(),
     }),
 });
 
@@ -19,6 +20,7 @@ const pacayaSamiria = defineCollection({
       heroImage: image(),
       title: z.string(),
       description: z.string(),
+      pubDate: z.coerce.date(),
     }),
 });
 

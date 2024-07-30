@@ -3,6 +3,7 @@ id: 1
 title: "Aventura Extrema (Puentes Colgantes)"
 description: "Tour en Iquitos, actividad por puentes colgantes"
 heroImage: "./images/TOURS DIARIOS.jpg"
+pubDate: "Jul 30 2024"
 ---
 
 # Aventura Extrema
