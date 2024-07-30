@@ -11,9 +11,9 @@ import { mainSlides } from "src/constans";
   autoplay-delay="2500"
 >
   {
-    mainSlides.map((slide, index) => (
+    mainSlides.map((title, index) => (
       <MainSliderItem
-        {...slide}
+        title={title}
         imagePath={`/src/images/slide/${index + 1}.png`}
       />
     ))

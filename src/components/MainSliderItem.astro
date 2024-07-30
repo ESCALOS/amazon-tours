@@ -6,9 +6,8 @@ import WhatsappButton from "./WhatsappButton.astro";
 interface Props {
   imagePath: string;
   title: string;
-  description: string;
 }
-const { imagePath, title, description } = Astro.props;
+const { imagePath, title } = Astro.props;
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/slide/*.png"
 );
@@ -27,14 +26,14 @@ if (!images[imagePath])
   />
   <div class="absolute inset-0 bg-black opacity-50 mix-blend-multiply"></div>
   <div
-    class="flex flex-wrap justify-center items-center absolute max-w-2xl text-center px-4"
+    class="flex flex-wrap justify-center items-center absolute max-w-2xl text-center px-4 space-y-8"
   >
-    <h5 class="uppercase font-bold text-white text-5xl md:text-7xl">
+    <h5
+      class="uppercase font-bold text-white"
+      style="font-size: clamp(2.25rem, 1.8214rem + 2.1429vw, 3.75rem);"
+    >
       {title}
     </h5>
-    <p class="text-white font-medium text-lg my-12">
-      {description}
-    </p>
     <WhatsappButton />
   </div>
 </swiper-slide>

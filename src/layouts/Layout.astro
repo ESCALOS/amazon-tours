@@ -5,15 +5,24 @@ import "@styles/global.css";
 import { ViewTransitions } from "astro:transitions";
 import Navbar from "@components/Navbar";
 import { getImage } from "astro:assets";
-import BrandLogo from "@images/logo.svg";
+import LogoDark from "@images/logo-dark.png";
+import LogoLight from "@images/logo-light.png";
 import { SITE_DESCRIPTION, SITE_TITLE } from "src/constans";
 
-const logo = await getImage({
-  src: BrandLogo,
+const logoDark = await getImage({
+  src: LogoDark,
   width: 64,
   height: 64,
-  format: "svg",
+  format: "webp",
 });
+
+const logoLight = await getImage({
+  src: LogoLight,
+  width: 64,
+  height: 64,
+  format: "webp",
+});
+
 const isIndexPath = Astro.url.pathname === "/";
 ---
 
@@ -24,7 +33,12 @@ const isIndexPath = Astro.url.pathname === "/";
     <ViewTransitions />
   </head>
   <body>
-    <Navbar logoPath={logo.src} isIndexPath={isIndexPath} client:load />
+    <Navbar
+      logoLight={logoLight.src}
+      logoDark={logoDark.src}
+      isIndexPath={isIndexPath}
+      client:load
+    />
     <slot />
     <Footer />
   </body>

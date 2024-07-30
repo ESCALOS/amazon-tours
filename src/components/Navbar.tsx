@@ -3,11 +3,12 @@ import { navItems } from 'src/constans'
 import { motion } from "framer-motion";
 
 type Props = {
-    logoPath: string,
+    logoLight: string,
+    logoDark: string,
     isIndexPath?: boolean
 }
 
-export default function Navbar({ logoPath, isIndexPath = false }: Props) {
+export default function Navbar({ logoLight, logoDark, isIndexPath = false }: Props) {
     const [openNav, setOpenNav] = useState(false)
     const [scrolled, setScrolled] = useState(false)
 
@@ -33,7 +34,8 @@ export default function Navbar({ logoPath, isIndexPath = false }: Props) {
             <nav className={`p-4 max-w-7xl mx-auto ${openNav ? 'h-screen' : 'h-auto'}`}>
                 <div className="flex items-center justify-between">
                     <a href="/" className='text-primary-500'>
-                        <img src={logoPath} className='h-16' alt="Logo Amazon" />
+                        <img src={logoDark} className={`h-16 ${scrolled ? 'hidden' : ''}`} alt="Logo Amazon" />
+                        <img src={logoLight} className={`h-16 ${scrolled ? '' : 'hidden'}`} alt="Logo Amazon" />
                     </a>
                     <div className="hidden lg:flex items-center justify-center px-4 gap-8">
                         {
