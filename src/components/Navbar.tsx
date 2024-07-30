@@ -34,8 +34,8 @@ export default function Navbar({ logoLight, logoDark, isIndexPath = false }: Pro
             <nav className={`p-4 max-w-7xl mx-auto ${openNav ? 'h-screen' : 'h-auto'}`}>
                 <div className="flex items-center justify-between">
                     <a href="/" className='text-primary-500'>
-                        <img src={logoDark} className={`h-16 ${scrolled ? 'hidden' : ''}`} alt="Logo Amazon" />
-                        <img src={logoLight} className={`h-16 ${scrolled ? '' : 'hidden'}`} alt="Logo Amazon" />
+                        <img loading='eager' src={logoDark} className={`h-16 ${scrolled ? 'hidden' : ''}`} alt="Logo Amazon" />
+                        <img loading='lazy' src={logoLight} className={`h-16 ${scrolled ? '' : 'hidden'}`} alt="Logo Amazon" />
                     </a>
                     <div className="hidden lg:flex items-center justify-center px-4 gap-8">
                         {

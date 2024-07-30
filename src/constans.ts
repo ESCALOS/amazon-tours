@@ -66,7 +66,7 @@ export const navItems = [
   },
   {
     id: 8,
-    path: "/",
+    path: "/galeria",
     text: "Galería",
   },
   {

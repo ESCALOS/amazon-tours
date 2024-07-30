@@ -24,15 +24,15 @@ export default function GalleryRoom({ images }: { images: string[] }) {
         {images.map((image, index) => (
           <a
             href={image}
-            data-pswp-width={700}
-            data-pswp-height={500}
+            data-pswp-width={840}
+            data-pswp-height={400}
             key={galleryID + '-' + index}
             target="_blank"
             rel="noreferrer"
             aria-label='M&K House Room'
             className='shadow-sm'
           >
-            <img src={image} alt="M&K House Room" className='object-cover object-top w-full h-full transition-all duration-500 rounded-md brightness-75 hover:brightness-100 cursor-zoom-in' />
+            <img loading='eager' src={image} alt="M&K House Room" className='object-cover object-top w-full h-full transition-all duration-500 rounded-md brightness-75 hover:brightness-100 cursor-zoom-in' />
           </a>
         ))}
       </div>
