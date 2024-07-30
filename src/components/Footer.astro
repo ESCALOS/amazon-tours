@@ -43,7 +43,7 @@ const phoneNumber = import.meta.env.PUBLIC_PHONE_NUMBER;
       <div class="flex gap-4">
         {
           socialMedias.map((social) => (
-            <a href={social.link} aria-label={social.icon}>
+            <a href={social.link} target="_blank" aria-label={social.icon}>
               <Icon
                 title={social.icon}
                 name={social.icon}
