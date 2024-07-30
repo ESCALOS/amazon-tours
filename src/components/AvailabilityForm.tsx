@@ -19,7 +19,7 @@ export default function AvailabilityForm() {
         const checkinFormatted = formatDate(data.checkin);
         const checkoutFormatted = formatDate(data.checkout);
         const url = getURLToSendMessageToWhatsapp({
-            whatsappNumber: import.meta.env.PUBLIC_WHATSAPP_NUMBER,
+            whatsappNumber: `51${import.meta.env.PUBLIC_PHONE_NUMBER}`,
             message: `Necesito una guía en los días ${checkinFormatted} a ${checkoutFormatted}`
         })
         window.open(url, '_blank')

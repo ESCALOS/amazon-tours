@@ -9,7 +9,7 @@ import Slide4 from "@images/slide/4.png";
 import Slide5 from "@images/slide/5.png";
 import Slide6 from "@images/slide/6.png";
 
-const phoneNumber = import.meta.env.PUBLIC_WHATSAPP_NUMBER.slice(2);
+const phoneNumber = import.meta.env.PUBLIC_PHONE_NUMBER;
 ---
 
 <footer class="bg-primary-600">
@@ -25,7 +25,10 @@ const phoneNumber = import.meta.env.PUBLIC_WHATSAPP_NUMBER.slice(2);
           <Icon name="s-map-pin" size={20} />
           <span class="ml-2">Jr. Napo 565, Iquitos, Perú</span>
         </div>
-        <a href={`tel:${phoneNumber}`} class="flex justify-center items-start">
+        <a
+          href={`tel:+51${phoneNumber}`}
+          class="flex justify-center items-start"
+        >
           <Icon name="phone" size={20} />
           <span class="ml-2">{phoneNumber}</span>
         </a>

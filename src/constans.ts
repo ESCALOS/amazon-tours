@@ -71,8 +71,8 @@ export const navItems = [
   },
   {
     id: 9,
-    path: "/",
-    text: "Contactos",
+    path: "/contactenos",
+    text: "Contáctenos",
   },
 ];
 
@@ -130,6 +130,37 @@ export const tourCardItems = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Evenlet itaque labor.",
     duration: "2-8 días",
     members: "5 personas",
+  },
+];
+
+export const contactItems = [
+  {
+    title: "Llámanos",
+    text: import.meta.env.PUBLIC_PHONE_NUMBER,
+    href: `tel:+51${import.meta.env.PUBLIC_PHONE_NUMBER}`,
+    icon: "s-phone",
+    target: false,
+  },
+  {
+    title: "Facebook",
+    text: "MKHOUSEHOSTEL",
+    href: "https://www.facebook.com/MKHOUSEHOSTEL",
+    icon: "s-facebook",
+    target: true,
+  },
+  {
+    title: "Instagram",
+    text: "mkhousehostel",
+    href: "https://www.instagram.com/mkhousehostel",
+    icon: "s-instagram",
+    target: true,
+  },
+  {
+    title: "Dirección",
+    text: "Jiron Los Alamos C04, Tarapoto, San Martin, Peru",
+    href: "https://maps.app.goo.gl/Sz7nf8JPufTvwTHR7",
+    icon: "s-map-pin",
+    target: true,
   },
 ];
 
