@@ -3,6 +3,7 @@ import Breadcrumb from "@components/Breadcrumb.astro";
 import ContactItem from "@components/ContactItem.astro";
 import Layout from "src/layouts/Layout.astro";
 import { contactItems } from "src/constans";
+import ContactForm from "@components/ContactForm";
 ---
 
 <Layout>
@@ -15,6 +16,7 @@ import { contactItems } from "src/constans";
         <div class="space-y-8 md:col-span-2">
           {contactItems.map((item) => <ContactItem {...item} />)}
         </div>
+        <ContactForm client:visible />
       </div>
     </div>
   </section>

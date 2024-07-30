@@ -162,13 +162,6 @@ export const contactItems = [
     icon: "tiktok",
     target: true,
   },
-  {
-    title: "Dirección",
-    text: "Jr. Napo 565, Iquitos, Perú",
-    href: "https://maps.app.goo.gl/kqB8pocZycj4HAzk7",
-    icon: "s-map-pin",
-    target: true,
-  },
 ];
 
 export const socialMedias = [

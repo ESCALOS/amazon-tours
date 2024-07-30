@@ -1,0 +1,21 @@
+---
+import GalleryRoom from "@components/GalleryRoom";
+import { optimizeImages } from "src/utils/optimizeImages";
+import Gal1 from "@images/slide/1.png";
+import Gal2 from "@images/slide/2.png";
+import Gal3 from "@images/slide/3.png";
+import Gal4 from "@images/slide/4.png";
+import Gal5 from "@images/slide/5.png";
+import Gal6 from "@images/slide/6.png";
+import Layout from "src/layouts/Layout.astro";
+import Breadcrumb from "@components/Breadcrumb.astro";
+
+const imagePaths = [Gal1, Gal2, Gal3, Gal4, Gal5, Gal6];
+
+const optimizedImages = await optimizeImages(imagePaths, 700, 500, "webp");
+---
+
+<Layout>
+  <Breadcrumb title="Galería" />
+  <GalleryRoom images={optimizedImages} client:visible />
+</Layout>
