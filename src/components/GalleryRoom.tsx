@@ -2,14 +2,15 @@ import { useEffect } from 'react';
 import PhotoSwipeLightbox from 'photoswipe/lightbox';
 import 'photoswipe/style.css';
 
-export default function GalleryRoom({ images }: { images: string[] }) {
-  const galleryID = "gallery-room"
+export default function GalleryRoom({ images, titles }: { images: string[], titles: string[] }) {
+  const galleryID = "gallery-tours"
+  const options = {
+    gallery: '#' + galleryID,
+    children: 'a',
+    pswpModule: () => import('photoswipe'),
+  }
   useEffect(() => {
-    let lightbox = new PhotoSwipeLightbox({
-      gallery: '#' + galleryID,
-      children: 'a',
-      pswpModule: () => import('photoswipe'),
-    });
+    let lightbox = new PhotoSwipeLightbox(options);
     lightbox.init();
 
     return () => {
@@ -29,10 +30,18 @@ export default function GalleryRoom({ images }: { images: string[] }) {
             key={galleryID + '-' + index}
             target="_blank"
             rel="noreferrer"
-            aria-label='M&K House Room'
+            aria-label={titles[index]}
             className='shadow-sm'
           >
-            <img loading='eager' src={image} alt="M&K House Room" className='object-cover object-top w-full h-full transition-all duration-500 rounded-md brightness-75 hover:brightness-100 cursor-zoom-in' />
+            <div className='relative group cursor-pointer'>
+              <img loading='eager' src={image} alt="Irapay Amazon" className='object-cover object-top w-full h-full transition-[brightness] duration-500 rounded-md brightness-100 group-hover:brightness-75' />
+              <p className='flex text-white text-2xl absolute font-bold w-full gap-2 items-center top-0 h-full justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300'>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15" />
+                </svg>
+                {titles[index]}
+              </p>
+            </div>
           </a>
         ))}
       </div>

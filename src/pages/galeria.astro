@@ -13,9 +13,17 @@ import Breadcrumb from "@components/Breadcrumb.astro";
 const imagePaths = [Gal1, Gal2, Gal3, Gal4, Gal5, Gal6];
 
 const optimizedImages = await optimizeImages(imagePaths, 840, 400, "webp");
+const titles = [
+  "Irapay Amazon",
+  "Isla de los Monos",
+  "Heliconia Lodge",
+  "Cumaceba Lodge",
+  "Pacaya Samiria",
+  "Tours Diarios",
+];
 ---
 
 <Layout>
   <Breadcrumb title="Galería" />
-  <GalleryRoom images={optimizedImages} client:visible />
+  <GalleryRoom images={optimizedImages} titles={titles} client:visible />
 </Layout>
