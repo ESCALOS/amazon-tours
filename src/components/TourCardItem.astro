@@ -9,10 +9,9 @@ interface Props {
   title: string;
   description: string;
   duration: string;
-  members: string;
 }
 
-const { imgPath, title, description, duration, members } = Astro.props;
+const { imgPath, title, description, duration } = Astro.props;
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/slide/*.png"
@@ -35,11 +34,7 @@ if (!images[imgPath])
     <div class="flex justify-between items-center mt-2 mb-6">
       <div class="flex justify-center items-center">
         <Icon name="clock" size={20} class="text-gray-400" />
-        <span class="text-gray-500 ml-2">{duration}</span>
-      </div>
-      <div class="flex justify-center items-center">
-        <Icon name="users" size={20} class="text-gray-400" />
-        <span class="text-gray-500 ml-2">{members}</span>
+        <span class="text-gray-500 ml-2 text-sm">{duration}</span>
       </div>
     </div>
     <p class="text-gray-500 text-pretty">

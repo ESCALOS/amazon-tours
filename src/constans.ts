@@ -80,56 +80,50 @@ export const tourCardItems = [
   {
     id: 1,
     imgPath: "/src/images/slide/1.png",
-    title: "Iquitos Relax",
+    title: "Iquitos de Lujo en Irapay Amazon Lodge",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Evenlet itaque labor.",
-    duration: "3 días",
-    members: "5 personas",
+      "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
+    duration: "3 días/2 noches",
   },
   {
     id: 2,
     imgPath: "/src/images/slide/2.png",
-    title: "Inolvidable Río Amazonas",
+    title: "Explorando el Amazonas en Heliconia Amazon Lodge",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Evenlet itaque labor.",
-    duration: "3 días",
-    members: "5 personas",
+      "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
+    duration: "4 días/3 noches",
   },
   {
     id: 3,
     imgPath: "/src/images/slide/3.png",
-    title: "Iquitos de Aventura",
+    title: "Relax en la selva Cumaceba",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Evenlet itaque labor.",
-    duration: "5 días",
-    members: "5 personas",
+      "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
+    duration: "3 días/2 noches",
   },
   {
     id: 4,
     imgPath: "/src/images/slide/4.png",
-    title: "Explorando el Amazonas",
+    title: "Tours diarios Isla  de los monos",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Evenlet itaque labor.",
-    duration: "3 días",
-    members: "5 personas",
+      "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
+    duration: "Todos los días",
   },
   {
     id: 5,
     imgPath: "/src/images/slide/5.png",
-    title: "Heliconia Lodge",
+    title: "Pacaya Samiria desde Iquitos",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Evenlet itaque labor.",
-    duration: "4-5 días",
-    members: "5 personas",
+      "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
+    duration: "4 días/3 noches",
   },
   {
     id: 6,
     imgPath: "/src/images/slide/6.png",
-    title: "Pacaya Samira",
+    title: "Pacaya Samiria desde Tarapoto",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Evenlet itaque labor.",
-    duration: "2-8 días",
-    members: "5 personas",
+      "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
+    duration: "6 días/5 noches",
   },
 ];
 
