@@ -33,11 +33,11 @@ const phoneNumber = import.meta.env.PUBLIC_PHONE_NUMBER;
           <span class="ml-2">{phoneNumber}</span>
         </a>
         <a
-          href="mailto:reservas@iquitosexpedition.com"
+          href={`mailto:${import.meta.env.PUBLIC_EMAIL}`}
           class="flex justify-center items-start"
         >
           <Icon name="envelope-open" size={20} />
-          <span class="ml-2">reservas@iquitosexpedition.com</span>
+          <span class="ml-2">{import.meta.env.PUBLIC_EMAIL}</span>
         </a>
       </div>
       <div class="flex gap-4">

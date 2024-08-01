@@ -6,7 +6,7 @@ import Destinations from "@components/Destinations.astro";
 import TourCards from "@components/TourCards.astro";
 import CallToAction from "@components/CallToAction.astro";
 import { Image } from "astro:assets";
-import CardImage from "@images/slide/4.png";
+import CardImage from "@images/cta-iquitos.png";
 import WhatsappButton from "@components/WhatsappButton.astro";
 ---
 
@@ -17,23 +17,30 @@ import WhatsappButton from "@components/WhatsappButton.astro";
   <TourCards />
   <section class="bg-gray-50">
     <div
-      class="grid grid-cols-1 lg:grid-cols-2 max-w-7xl px-6 py-24 mx-auto justify-center items-start gap-8"
+      class="grid grid-cols-1 lg:grid-cols-2 max-w-7xl px-8 py-24 mx-auto justify-center items-center gap-8"
     >
       <Image
         src={CardImage}
         alt="Imagen de Iquitos"
-        class="w-full h-full max-w-2xl object-cover order-2 lg:order-1"
+        width={840}
+        height={400}
+        class="rounded-md order-2 lg:order-1"
       />
-      <div class="order-1 lg:order-2 space-y-6 lg:pb-16 pb-0">
-        <p class="uppercase text-gray-500 font-medium">Explore</p>
+      <div class="order-1 lg:order-2 space-y-2">
+        <p class="uppercase text-gray-500 font-medium">Exploremos Iquitos</p>
         <h3 class="text-gray-900 font-bold text-2xl lg:text-3xl">
-          Exclusive Vacation Packages And Travel Services For You
+          Historia y Transformación
         </h3>
         <p class="text-zinc-500 text-justify text-sm">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, maiores
-          blanditiis cupiditate rem amet aliquid tempora est repellat
-          accusantium totam? Deleniti non voluptate doloribus iste ipsum culpa
-          aut eius nostrum?
+          Ubicada en la selva noreste del Perú, Iquitos es la capital de Loreto
+          y Maynas, rodeada por los ríos Amazonas, Nanay e Itaya. Fundada en
+          1757 por la misión jesuita como San Pablo de los Napeanos, la ciudad
+          fue habitada por los Iquitos tras la partida de los napeanos a finales
+          del siglo XVIII. Entre 1880 y 1914, la fiebre del caucho impulsó su
+          crecimiento, atrayendo a peruanos y europeos en busca de
+          oportunidades. Este auge convirtió a Iquitos en un centro comercial,
+          modernizando la ciudad con nueva arquitectura y servicios públicos que
+          mejoraron la calidad de vida de sus habitantes.
         </p>
         <WhatsappButton padding="px-6 py-3" textSize="text-sm" />
       </div>

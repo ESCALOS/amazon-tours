@@ -47,6 +47,7 @@ export default function ContactForm() {
           <input
             className="p-4 border border-primary-500 outline-none rounded-lg w-full"
             type="text"
+            id="name"
             placeholder="Ingrese sus datos"
             autoComplete="name"
             {...register("name", {
@@ -73,6 +74,7 @@ export default function ContactForm() {
           <input
             className="p-4 border border-primary-500 outline-none rounded-lg w-full"
             type="email"
+            id="email"
             placeholder="Ingrese un correo electrónico"
             autoComplete="email"
             {...register("email", {
@@ -95,8 +97,9 @@ export default function ContactForm() {
           <input
             className="p-4 border border-primary-500 outline-none rounded-lg w-full"
             type="text"
+            id="telephone"
             placeholder="Ingrese un número telefónico"
-            autoComplete="telephone"
+            autoComplete="tel"
             {...register("telephone", {
               required: {
                 value: true,
@@ -117,6 +120,7 @@ export default function ContactForm() {
           <input
             className="p-4 border border-primary-500 outline-none rounded-lg w-full"
             type="text"
+            id="subject"
             placeholder="Ingrese el asunto"
             autoComplete="subject"
             {...register("subject", {
@@ -134,10 +138,11 @@ export default function ContactForm() {
         </div>
         <div className="md:col-span-2">
           <label htmlFor="message" className="text-sm text-gray-500">
-            Asunto
+            Mensaje
           </label>
           <textarea
             className="p-4 border border-primary-500 outline-none rounded-lg w-full"
+            id="message"
             placeholder="Escribe tu mensaje aquí..."
             autoComplete="message"
             {...register("message", {

@@ -136,6 +136,13 @@ export const contactItems = [
     target: false,
   },
   {
+    title: "Correo electrónico",
+    text: import.meta.env.PUBLIC_EMAIL,
+    href: `mailto:${import.meta.env.PUBLIC_EMAIL}`,
+    icon: "envelope-open",
+    target: false,
+  },
+  {
     title: "Facebook",
     text: "Iquitos Expedition",
     href: "https://www.facebook.com/profile.php?id=100094933690034&mibextid=ZbWKwL",

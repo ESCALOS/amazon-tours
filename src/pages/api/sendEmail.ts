@@ -22,7 +22,7 @@ export const POST: APIRoute = async ({ request }) => {
 
   const send = await resend.emails.send({
     from: `Iquitos Expedition Reservas <iquitosexpedition@resend.dev>`,
-    to: import.meta.env.CONTACT_EMAIL,
+    to: import.meta.env.PUBLIC_EMAIL,
     subject: "Nueva reserva",
     html: `
           <h1>Nueva reserva</h1>

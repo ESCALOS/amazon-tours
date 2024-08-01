@@ -10,7 +10,7 @@ import { Icon } from "astro-icon/components";
 const { title, text, href = "", icon, target } = Astro.props;
 ---
 
-<div class="flex">
+<div class="flex w-72">
   <Icon name={icon} title={title} class="text-primary-500 mt-2" size={30} />
   <div>
     <p class="text-xl font-semibold ml-4">{title}</p>

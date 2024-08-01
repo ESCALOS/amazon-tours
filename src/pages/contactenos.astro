@@ -8,25 +8,25 @@ import ContactForm from "@components/ContactForm";
 
 <Layout>
   <Breadcrumb title="Contáctenos" />
-  <section class="bg-white p-8">
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-      <div class="p-8 md:col-span-2 bg-gray-50 rounded-md">
-        <div class="text-center space-y-2 mb-8">
-          <h2 class="text-zinc-900 text-3xl font-medium text-center">
-            Ponte en contacto con nosotros
-          </h2>
-          <p class="text-zinc-700 font-light">
-            Su dirección de correo electrónica no será publicada
-          </p>
-          <p class="text-xs text-primary-500">
-            Los campos obligatorios están marcados*
-          </p>
-        </div>
-        <ContactForm client:visible />
+  <section class="bg-white p-8 max-w-7xl mx-auto">
+    <div class="p-8 bg-gray-50 rounded-md mb-8">
+      <div class="text-center space-y-2 mb-8">
+        <h2 class="text-zinc-900 text-3xl font-medium text-center">
+          Ponte en contacto con nosotros
+        </h2>
+        <p class="text-zinc-700 font-light">
+          Su dirección de correo electrónica no será publicada
+        </p>
+        <p class="text-xs text-primary-500">
+          Los campos obligatorios están marcados*
+        </p>
       </div>
-      <div class="space-y-8 content-center mx-auto">
-        {contactItems.map((item) => <ContactItem {...item} />)}
-      </div>
+      <ContactForm client:visible />
+    </div>
+    <div
+      class="flex flex-wrap gap-12 justify-around py-12 items-center mx-auto"
+    >
+      {contactItems.map((item) => <ContactItem {...item} />)}
     </div>
   </section>
 </Layout>
