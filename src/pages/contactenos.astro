@@ -21,12 +21,7 @@ import ContactForm from "@components/ContactForm";
           Los campos obligatorios están marcados*
         </p>
       </div>
-      <ContactForm client:visible />
-    </div>
-    <div
-      class="flex flex-wrap gap-12 justify-around py-12 items-center mx-auto"
-    >
-      {contactItems.map((item) => <ContactItem {...item} />)}
+      <ContactForm client:load />
     </div>
   </section>
 </Layout>
