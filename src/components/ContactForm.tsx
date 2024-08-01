@@ -4,6 +4,7 @@ import { useForm, type SubmitHandler } from "react-hook-form"
 type Form = {
   name: string,
   email: string,
+  telephone: string,
   subject: string,
   message: string
 }
@@ -40,10 +41,13 @@ export default function ContactForm() {
     <form onSubmit={handleSubmit(onSubmit)} className="md:col-span-3">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div>
+          <label htmlFor="name" className="text-sm text-gray-500">
+            Nombre y Apellidos
+          </label>
           <input
-            className="p-4 border border-gray-200 transition-all duration-300 bg-gray-100 focus:bg-white focus:border-secondary-500 rounded-md outline-none w-full"
+            className="p-4 border border-primary-500 outline-none rounded-lg w-full"
             type="text"
-            placeholder="Nombre"
+            placeholder="Ingrese sus datos"
             autoComplete="name"
             {...register("name", {
               required: {
@@ -63,10 +67,13 @@ export default function ContactForm() {
           {errors.name && <span className="text-sm text-red-500">{errors.name.message}</span>}
         </div>
         <div>
+          <label htmlFor="email" className="text-sm text-gray-500">
+            Correo electrónico
+          </label>
           <input
-            className="p-4 border border-gray-200 transition-all duration-300 bg-gray-100 focus:bg-white focus:border-secondary-500 rounded-md outline-none w-full"
+            className="p-4 border border-primary-500 outline-none rounded-lg w-full"
             type="email"
-            placeholder="Correo Electrónico"
+            placeholder="Ingrese un correo electrónico"
             autoComplete="email"
             {...register("email", {
               required: {
@@ -81,11 +88,36 @@ export default function ContactForm() {
           />
           {errors.email && <span className="text-sm text-red-500">{errors.email.message}</span>}
         </div>
-        <div className="md:col-span-2">
+        <div>
+          <label htmlFor="telephone" className="text-sm text-gray-500">
+            Número telefónico
+          </label>
           <input
-            className="p-4 border border-gray-200 transition-all duration-300 bg-gray-100 focus:bg-white focus:border-secondary-500 rounded-md outline-none w-full"
+            className="p-4 border border-primary-500 outline-none rounded-lg w-full"
             type="text"
-            placeholder="Asunto"
+            placeholder="Ingrese un número telefónico"
+            autoComplete="telephone"
+            {...register("telephone", {
+              required: {
+                value: true,
+                message: "El teléfono es requerido"
+              },
+              minLength: {
+                value: 9,
+                message: "Ingrese un teléfono válido"
+              },
+            })}
+          />
+          {errors.telephone && <span className="text-sm text-red-500">{errors.telephone.message}</span>}
+        </div>
+        <div>
+          <label htmlFor="subject" className="text-sm text-gray-500">
+            Asunto
+          </label>
+          <input
+            className="p-4 border border-primary-500 outline-none rounded-lg w-full"
+            type="text"
+            placeholder="Ingrese el asunto"
             autoComplete="subject"
             {...register("subject", {
               required: {
@@ -101,10 +133,12 @@ export default function ContactForm() {
           {errors.subject && <span className="text-sm text-red-500">{errors.subject.message}</span>}
         </div>
         <div className="md:col-span-2">
-          <input
-            className="p-4 border border-gray-200 transition-all duration-300 bg-gray-100 focus:bg-white focus:border-secondary-500 rounded-md outline-none w-full"
-            type="text"
-            placeholder="Mensaje"
+          <label htmlFor="message" className="text-sm text-gray-500">
+            Asunto
+          </label>
+          <textarea
+            className="p-4 border border-primary-500 outline-none rounded-lg w-full"
+            placeholder="Escribe tu mensaje aquí..."
             autoComplete="message"
             {...register("message", {
               required: {
@@ -120,10 +154,10 @@ export default function ContactForm() {
           {errors.message && <span className="text-sm text-red-500">{errors.message.message}</span>}
         </div>
       </div>
-      <div className="mt-4 text-end">
+      <div className="mt-4 text-center">
         <button
           type="submit"
-          className="p-4 text-center bg-secondary-500 bg-opacity-95 hover:bg-opacity-100 transition-opacity duration-500 rounded-md text-white text-lg"
+          className="py-4 px-8 text-center bg-secondary-500 bg-opacity-95 hover:bg-opacity-100 transition-opacity duration-500 rounded-md text-white text-md"
           disabled={isSubmitting}
         >
           {isSubmitting ? (

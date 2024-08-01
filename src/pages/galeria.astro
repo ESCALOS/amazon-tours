@@ -1,29 +1,56 @@
 ---
 import GalleryRoom from "@components/GalleryRoom";
 import { optimizeImages } from "src/utils/optimizeImages";
-import Gal1 from "@images/slide/1.png";
-import Gal2 from "@images/slide/2.png";
-import Gal3 from "@images/slide/3.png";
-import Gal4 from "@images/slide/4.png";
-import Gal5 from "@images/slide/5.png";
-import Gal6 from "@images/slide/6.png";
-import Layout from "src/layouts/Layout.astro";
+import Gal1 from "@images/gallery/gal-ie1.png";
+import Gal2 from "@images/gallery/gal-ie2.png";
+import Gal3 from "@images/gallery/gal-ie3.png";
+import Gal4 from "@images/gallery/gal-ie4.png";
+import Gal5 from "@images/gallery/gal-ie5.png";
+import Gal6 from "@images/gallery/gal-ie6.png";
+import Gal7 from "@images/gallery/gal-ie7.png";
+import Gal8 from "@images/gallery/gal-ie8.png";
+import Gal9 from "@images/gallery/gal-ie9.png";
+import Gal10 from "@images/gallery/gal-ie10.png";
+import Gal11 from "@images/gallery/gal-ie11.png";
+import Gal12 from "@images/gallery/gal-ie12.png";
+import Gal13 from "@images/gallery/gal-ie13.png";
+import Gal14 from "@images/gallery/gal-ie14.png";
+import Gal15 from "@images/gallery/gal-ie15.png";
+import Gal16 from "@images/gallery/gal-ie16.png";
+import Gal17 from "@images/gallery/gal-ie17.png";
+import Gal18 from "@images/gallery/gal-ie18.png";
+import Gal19 from "@images/gallery/gal-ie19.png";
+import Gal20 from "@images/gallery/gal-ie20.png";
 import Breadcrumb from "@components/Breadcrumb.astro";
+import Layout from "src/layouts/Layout.astro";
 
-const imagePaths = [Gal1, Gal2, Gal3, Gal4, Gal5, Gal6];
-
-const optimizedImages = await optimizeImages(imagePaths, 840, 400, "webp");
-const titles = [
-  "Irapay Amazon",
-  "Isla de los Monos",
-  "Heliconia Lodge",
-  "Cumaceba Lodge",
-  "Pacaya Samiria",
-  "Tours Diarios",
+const imagePaths = [
+  Gal1,
+  Gal2,
+  Gal3,
+  Gal4,
+  Gal5,
+  Gal6,
+  Gal7,
+  Gal8,
+  Gal9,
+  Gal10,
+  Gal11,
+  Gal12,
+  Gal13,
+  Gal14,
+  Gal15,
+  Gal16,
+  Gal17,
+  Gal18,
+  Gal19,
+  Gal20,
 ];
+
+const optimizedImages = await optimizeImages(imagePaths, 831, 552, "webp");
 ---
 
 <Layout>
   <Breadcrumb title="Galería" />
-  <GalleryRoom images={optimizedImages} titles={titles} client:visible />
+  <GalleryRoom images={optimizedImages} client:visible />
 </Layout>

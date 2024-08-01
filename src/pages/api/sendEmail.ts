@@ -6,9 +6,9 @@ const resend = new Resend(import.meta.env.SECRET_RESEND);
 
 export const POST: APIRoute = async ({ request }) => {
   const body = await request.json();
-  const { name, email, message, subject } = body;
+  const { name, email, telephone, message, subject } = body;
 
-  if (!name || !email || !subject || !message) {
+  if (!name || !email || !telephone || !subject || !message) {
     return new Response(
       JSON.stringify({
         message: "Faltan campos.",
@@ -28,6 +28,7 @@ export const POST: APIRoute = async ({ request }) => {
           <h1>Nueva reserva</h1>
           <h3>Nombre: ${name}</h3> 
           <h3>Email: ${email}</h3>
+          <h3>Teléfono: ${telephone}</h3>
           <h3>Asunto: ${subject}</h3>
           <h3>Mensaje:</h3>
           <p>${message}</p>
