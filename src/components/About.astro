@@ -1,7 +1,7 @@
 ---
 import { Image } from "astro:assets";
-import MisionImage from "@images/slide/4.png";
-import VisionImage from "@images/slide/5.png";
+import MisionImage from "@images/mision.jpg";
+import VisionImage from "@images/vision.jpg";
 ---
 
 <section>
@@ -48,7 +48,13 @@ import VisionImage from "@images/slide/5.png";
             Brindar a nuestros pasajeros experiencias de viajes únicas e
             inolvidables, al alcance de sus manos.
           </p>
-          <Image src={MisionImage} alt="Iquitos" loading="eager" />
+          <Image
+            src={MisionImage}
+            alt="Misión de Iquitos Expedition"
+            loading="eager"
+            width={448}
+            height={336}
+          />
         </div>
         <div
           class="flex flex-col items-center justify-center h-full w-full gap-8 md:max-w-md text-center"
@@ -58,7 +64,13 @@ import VisionImage from "@images/slide/5.png";
             Lograr la inclusión de comunidades Nativas en la participación
             Sostenible de nuestras experiencias turísticas.
           </p>
-          <Image src={VisionImage} alt="Iquitos" loading="eager" />
+          <Image
+            src={VisionImage}
+            alt="Visión de Iquitos Expedition"
+            loading="eager"
+            width={448}
+            height={336}
+          />
         </div>
       </div>
     </div>

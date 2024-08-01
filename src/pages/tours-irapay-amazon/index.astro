@@ -3,20 +3,20 @@ import { getCollection } from "astro:content";
 import Article from "@components/Article.astro";
 import TourLayout from "src/layouts/TourLayout.astro";
 
-const dailyTours = (await getCollection("dailyTours")).sort(
+const irapayAmazon = (await getCollection("irapayAmazon")).sort(
   (a, b) => a.data.id - b.data.id
 );
 ---
 
-<TourLayout sectionName="Cumaceba Lodge">
+<TourLayout sectionName="Irapay Amazon">
   <ul class="grid grid-cols-1 lg:grid-cols-2 gap-6">
     {
-      dailyTours.map((tour) => (
+      irapayAmazon.map((tour) => (
         <li
           class="border-extra-soft-white text-soft-white hover:bg-soft-light rounded-xl border transition-colors duration-200"
           transition:name={tour.id}
         >
-          <a href={`/tours-diarios/${tour.slug}`}>
+          <a href={`/tours-irapay-amazon/${tour.slug}`}>
             <Article {...tour.data}>
               <h4 class="text-xl font-bold">{tour.data.title}</h4>
             </Article>

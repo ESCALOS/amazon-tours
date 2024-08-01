@@ -18,7 +18,7 @@ pubDate: "Jul 30 2024"
 - Visita a Quistococha, observación de fauna amazónica y playa de arena blanca.
 - **Opcional** puede nadar en el Lago, y también ir al Parque de Juego Acuático, Almuerzo opcional en restaurante Flotante al Frio y al Fuego, luego Traslado de retorno a su hotel.
 
-## **Nuestro Servicio Incluye**
+## Nuestro Servicio Incluye
 
 - Recojo del Hotel al Puerto Hotel.
 - Guía Profesional.
@@ -27,14 +27,14 @@ pubDate: "Jul 30 2024"
 - Botiquín de Primeros Auxilios.
 - Atención Personalizada.
 
-## **Nuestro Servicio no Incluye.**
+## Nuestro Servicio no Incluye.
 
 - Hotel.
 - Pasajes Aéreos.
 - Alimentación
 - Entre otros no Mencionados.
 
-## **Que traer con usted**
+## Que traer con usted
 
 - Ropa Ligera.
 - Repelente.

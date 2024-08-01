@@ -20,7 +20,7 @@ pubDate: "Jul 30 2024"
 - Mirador Amazolandia **(spots para fotos)**
 - Traslado de retorno a la ciudad de Iquitos
 
-## **Nuestro Servicio Incluye**
+## Nuestro Servicio Incluye
 
 - Recojo del Hotel al Puerto Hotel.
 - Guía Profesional.
@@ -29,14 +29,14 @@ pubDate: "Jul 30 2024"
 - Botiquín de Primeros Auxilios.
 - Atención Personalizada.
 
-## **Nuestro Servicio no Incluye.**
+## Nuestro Servicio no Incluye.
 
 - Hotel.
 - Pasajes Aéreos.
 - Alimentación
 - Entre otros no Mencionados.
 
-## **Que traer con usted**
+## Que traer con usted
 
 - Ropa Ligera.
 - Repelente.

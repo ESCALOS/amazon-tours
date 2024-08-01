@@ -9,9 +9,10 @@ interface Props {
   title: string;
   description: string;
   duration: string;
+  href: string;
 }
 
-const { imgPath, title, description, duration } = Astro.props;
+const { imgPath, title, description, duration, href } = Astro.props;
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/slide/*.png"
@@ -30,7 +31,11 @@ if (!images[imgPath])
     class="object-cover rounded-lg w-full h-44"
   />
   <div class="pt-8 pb-4">
-    <h3 class="text-xl text-primary-500 font-bold">{title}</h3>
+    <a
+      href={href}
+      class="block text-xl text-primary-500 font-bold h-14 hover:text-secondary-500 transition-colors"
+      >{title}</a
+    >
     <div class="flex justify-between items-center mt-2 mb-6">
       <div class="flex justify-center items-center">
         <Icon name="clock" size={20} class="text-gray-400" />

@@ -41,17 +41,17 @@ export const navItems = [
   },
   {
     id: 3,
-    path: "/",
-    text: "Irapay amazon",
+    path: "/tours-irapay-amazon",
+    text: "Irapay Amazon",
   },
   {
     id: 4,
-    path: "/",
+    path: "/tours-heliconia-lodge",
     text: "Heliconia Lodge",
   },
   {
     id: 5,
-    path: "/cumaceba-lodge",
+    path: "/tours-cumaceba-lodge",
     text: "Cumaceba Lodge",
   },
   {
@@ -84,6 +84,7 @@ export const tourCardItems = [
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
     duration: "3 días/2 noches",
+    href: "/tours-irapay-amazon",
   },
   {
     id: 2,
@@ -92,6 +93,7 @@ export const tourCardItems = [
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
     duration: "4 días/3 noches",
+    href: "/tours-heliconia-lodge",
   },
   {
     id: 3,
@@ -100,6 +102,7 @@ export const tourCardItems = [
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
     duration: "3 días/2 noches",
+    href: "/tours-cumaceba-lodge",
   },
   {
     id: 4,
@@ -108,6 +111,7 @@ export const tourCardItems = [
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
     duration: "Todos los días",
+    href: "/tours-diarios",
   },
   {
     id: 5,
@@ -116,6 +120,7 @@ export const tourCardItems = [
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
     duration: "4 días/3 noches",
+    href: "/tours-pacaya-samiria",
   },
   {
     id: 6,
@@ -124,6 +129,7 @@ export const tourCardItems = [
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
     duration: "6 días/5 noches",
+    href: "/tours-pacaya-samiria",
   },
 ];
 

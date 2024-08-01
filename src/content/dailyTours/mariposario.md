@@ -17,7 +17,7 @@ pubDate: "Jul 30 2024"
 - Pesca artesanal de pirañas. Traslado de Retorno a la ciudad de Iquitos.
 - Llegada a Puerto de Bellavista Nanay, traslado a su Hotel, fin del Tour.
 
-## **Nuestro Servicio Incluye**
+## Nuestro Servicio Incluye
 
 - Recojo del Hotel al Puerto Hotel.
 - Guía Profesional.
@@ -26,14 +26,14 @@ pubDate: "Jul 30 2024"
 - Botiquín de Primeros Auxilios.
 - Atención Personalizada.
 
-## **Nuestro Servicio no Incluye.**
+## Nuestro Servicio no Incluye.
 
 - Hotel.
 - Pasajes Aéreos.
 - Alimentación
 - Entre otros no Mencionados.
 
-## **Que traer con usted**
+## Que traer con usted
 
 - Ropa Ligera.
 - Repelente.

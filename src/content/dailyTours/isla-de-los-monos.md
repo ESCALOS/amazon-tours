@@ -24,7 +24,7 @@ pubDate: "Jul 30 2024"
 - Atardecer amazónico en el Río Amazonas.
 - Llegada a Puerto Bellavista Nanay, fin del tour.
 
-## **Nuestro Servicio Incluye**
+## Nuestro Servicio Incluye
 
 - Recojo del Hotel al Puerto Hotel.
 - Guía Profesional.
@@ -34,14 +34,14 @@ pubDate: "Jul 30 2024"
 - Botequín de Primeros Auxilios.
 - Atención Personalizada.
 
-## **Nuestro Servicio no Incluye.**
+## Nuestro Servicio no Incluye.
 
 - Hotel.
 - Pasajes Aéreos.
 - Alimentación
 - Entre otros no Mencionados.
 
-## **Que traer con usted**
+## Que traer con usted
 
 - Ropa Ligera.
 - Repelente.

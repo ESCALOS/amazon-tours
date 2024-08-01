@@ -1,13 +1,12 @@
 ---
 import Article from "@components/Article.astro";
-import Prose from "@components/Prose.astro";
 import type { GetStaticPaths } from "astro";
 import { Icon } from "astro-icon/components";
 import { getCollection } from "astro:content";
 import TourLayout from "src/layouts/TourLayout.astro";
 
 export const getStaticPaths = (async () => {
-  const tours = await getCollection("dailyTours");
+  const tours = await getCollection("cumacebaLodge");
   return tours.map((tour) => ({
     params: {
       slug: tour.slug,
@@ -21,7 +20,7 @@ const tour = Astro.props;
 const { Content } = await tour.render();
 ---
 
-<TourLayout sectionName="Tours diarios">
+<TourLayout sectionName="Cumaceba Lodge">
   <button
     class="inline-flex items-center gap-2 self-start rounded-full border px-6 py-2 transition-colors duration-200 hover:border-primary-500 hover:text-primary-500"
     onclick="history.back()"
