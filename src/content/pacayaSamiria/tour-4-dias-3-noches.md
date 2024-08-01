@@ -1,12 +1,12 @@
 ---
 id: 2
-title: "Tours Reserva Nacional Pacaya Samiria 4 Días 3 Noches"
-description: "Tours Reserva Nacional Pacaya Samiria 4 Días 3 Noches"
-heroImage: "./images/RESERVA NACIONAL PACAYA SAMIRIA.jpg"
+title: "Tours Reserva Nacional Pacaya Samiria (4D/3N) - Desde Iquitos"
+description: "Tours Reserva Nacional Pacaya Samiria (4D/3N) - Desde Iquitos"
+heroImage: "./images/pacayasamiria2.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Tours Reserva Nacional Pacaya Samiria 4 Días 3 Noches
+# Tours Reserva Nacional Pacaya Samiria (4D/3N) - Desde Iquitos
 
 ---
 

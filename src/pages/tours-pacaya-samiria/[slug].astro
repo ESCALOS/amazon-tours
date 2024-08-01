@@ -30,14 +30,24 @@ const { Content } = await tour.render();
 
     <span class="text-sm">Volver</span>
   </button>
-  <div
-    class="border-extra-soft-white w-full max-w-[none] rounded-xl border"
-    transition:name={tour.id}
-  >
-    <Article {...tour.data}>
-      <Prose>
-        <Content />
-      </Prose>
-    </Article>
+  <div class="grid grid-cols-1 lg:grid-cols-3 items-start justify-end gap-8">
+    <div
+      class="border-extra-soft-white w-full max-w-[none] rounded-xl border lg:col-span-2"
+      transition:name={tour.id}
+    >
+      <Article {...tour.data}>
+        <div
+          class="prose prose-stone prose-p:text-justify prose-h2:underline prose-hr:my-6 prose-h1:mb-0 max-w-3xl"
+        >
+          <Content />
+        </div>
+      </Article>
+    </div>
+    <div class="flex flex-col items-center justify-around gap-12">
+      <div>Algo</div>
+      <div>Otro</div>
+      <div>Recomendacion</div>
+      <div>ADAASD</div>
+    </div>
   </div>
 </TourLayout>

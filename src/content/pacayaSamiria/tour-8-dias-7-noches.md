@@ -1,12 +1,12 @@
 ---
 id: 4
-title: "Tours Pacaya Samiria desde Tarapoto 8 Días 7 Noches."
-description: "Tours Pacaya Samiria desde Tarapoto 8 Días 7 Noches."
-heroImage: "./images/RESERVA NACIONAL PACAYA SAMIRIA.jpg"
+title: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto"
+description: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto"
+heroImage: "./images/pacayasamiria5.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Tours Pacaya Samiria desde Tarapoto 8 Días 7 Noches.
+# Tours Pacaya Samiria (8D/7N) - Desde Tarapoto
 
 ---
 

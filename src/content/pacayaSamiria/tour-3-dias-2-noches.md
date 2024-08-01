@@ -1,12 +1,12 @@
 ---
 id: 1
-title: "Tours Reserva Nacional Pacaya Samiria 3 Días 2 Noches"
-description: "Tours Reserva Nacional Pacaya Samiria 3 Días 2 Noches"
-heroImage: "./images/RESERVA NACIONAL PACAYA SAMIRIA.jpg"
+title: "Tours Reserva Nacional Pacaya Samiria (3D/2N) - Desde Yurimaguas"
+description: "Tours Reserva Nacional Pacaya Samiria (3D/2N) - Desde Yurimaguas"
+heroImage: "./images/pacayasamiria1.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Tours Reserva Nacional Pacaya Samiria 3 Días 2 Noches
+# Tours Reserva Nacional Pacaya Samiria (3D/2N) - Desde Yurimaguas
 
 ---
 

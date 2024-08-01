@@ -2,7 +2,7 @@
 id: 4
 title: "Isla de los Monos"
 description: "Tour por la frontera del Río Amazonas y el Río Nanay"
-heroImage: "./images/TOURS DIARIOS.jpg"
+heroImage: "./images/isladelosmonos.png"
 pubDate: "Jul 30 2024"
 ---
 

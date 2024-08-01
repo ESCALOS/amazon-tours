@@ -51,7 +51,7 @@ export const navItems = [
   },
   {
     id: 5,
-    path: "/",
+    path: "/cumaceba-lodge",
     text: "Cumaceba Lodge",
   },
   {
@@ -124,44 +124,6 @@ export const tourCardItems = [
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
     duration: "6 días/5 noches",
-  },
-];
-
-export const contactItems = [
-  {
-    title: "Llámanos",
-    text: import.meta.env.PUBLIC_PHONE_NUMBER,
-    href: `tel:+51${import.meta.env.PUBLIC_PHONE_NUMBER}`,
-    icon: "phone",
-    target: false,
-  },
-  {
-    title: "Correo electrónico",
-    text: import.meta.env.PUBLIC_EMAIL,
-    href: `mailto:${import.meta.env.PUBLIC_EMAIL}`,
-    icon: "envelope-open",
-    target: false,
-  },
-  {
-    title: "Facebook",
-    text: "Iquitos Expedition",
-    href: "https://www.facebook.com/profile.php?id=100094933690034&mibextid=ZbWKwL",
-    icon: "facebook",
-    target: true,
-  },
-  {
-    title: "Instagram",
-    text: "iquitosexpeditionperu",
-    href: "https://www.instagram.com/iquitosexpeditionperu?igsh=dGtpeGZhbnZ5cTV4",
-    icon: "instagram",
-    target: true,
-  },
-  {
-    title: "TikTok",
-    text: "iquitos.expedition",
-    href: "https://www.tiktok.com/@iquitos.expedition?is_from_webapp=1&sender_device=pc",
-    icon: "tiktok",
-    target: true,
   },
 ];
 

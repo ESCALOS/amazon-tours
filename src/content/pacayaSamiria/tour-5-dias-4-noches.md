@@ -1,12 +1,12 @@
 ---
 id: 3
-title: "EXPEDICION PACAYA SAMIRIA 5 DIAS 4 NOCHES Iquitos"
-description: "EXPEDICION PACAYA SAMIRIA 5 DIAS 4 NOCHES Iquitos"
-heroImage: "./images/RESERVA NACIONAL PACAYA SAMIRIA.jpg"
+title: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos"
+description: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos"
+heroImage: "./images/pacayasamiria3.png"
 pubDate: "Jul 30 2024"
 ---
 
-# EXPEDICION PACAYA SAMIRIA 5 DIAS 4 NOCHES Iquitos
+# Expedición Pacaya Samiria (5D/4N) - Desde Iquitos
 
 ---
 

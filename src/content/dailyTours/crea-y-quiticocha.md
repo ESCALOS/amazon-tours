@@ -2,7 +2,7 @@
 id: 2
 title: "CREA y Quiticocha"
 description: "Tour por Centro de Rescate (CREA) Manatí, Iquitos - Viaje por Forever Bio Park"
-heroImage: "./images/TOURS DIARIOS.jpg"
+heroImage: "./images/quiticocha.png"
 pubDate: "Jul 30 2024"
 ---
 
