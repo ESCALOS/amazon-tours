@@ -13,7 +13,7 @@ pubDate: "Jul 30 2024"
 
 ## Día 1. Recojo del aeropuerto Irapay Amazon Lodge / Tour los Boras.
 
-Personal de Amazon Walking, estará esperando en el Parqueo del Aeropuerto de Iquitos, para decepcionarlo, y trasladarlo al Puerto de Nanay por el tiempo de 40 minutos, donde nuestro Bote Rápido, lo trasladará a nuestro Lodge de Lujo Irapay Amazon Lodge. Por el Rio Nanay y Momon, por el tiempo de 40 minutos por medio la Selva, observando paisajes impresionantes, llegada y acomodación en sus respectivas cabañas. Almuerzo libre por el pasajero.
+Personal de Iquitos Expedition, estará esperando en el Parqueo del Aeropuerto de Iquitos, para decepcionarlo, y trasladarlo al Puerto de Nanay por el tiempo de 40 minutos, donde nuestro Bote Rápido, lo trasladará a nuestro Lodge de Lujo Irapay Amazon Lodge. Por el Rio Nanay y Momon, por el tiempo de 40 minutos por medio la Selva, observando paisajes impresionantes, llegada y acomodación en sus respectivas cabañas. Almuerzo libre por el pasajero.
 
 Nuestro Tour Inicia a las 2:30 Pm. Nuestro Guía pasara por ustedes, para llevarlos a visitar la comunidad nativa los Boras, donde podremos danzar y disfrutar de sus costumbres ancestrales, también podremos comprar artesanía y cosas del Lugar. Regreso al Lodge. Cena libre por el Pasajero.
 
@@ -47,7 +47,7 @@ Salimos 5 Am. Desde el Lodge, para dirigirnos a una parte del Rio Amazonas, dond
 - Almuerzo Típico 2 Dia.
 - Botas de Jebe.
 - Botiquín de Primeros Auxilios.
-- Atención Personalizada Amazon Walking.
+- Atención Personalizada Iquitos Expedition.
 
 ### Nuestro Servicio No Incluye
 

@@ -2,7 +2,7 @@
 id: 4
 title: "Tours Reserva Nacional Pacaya Samiria (6D/5N) - Desde Yurimaguas"
 description: "Tours Reserva Nacional Pacaya Samiria (6D/5N) - Desde Yurimaguas"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
+text: "Sumérgete en una experiencia de seis días en la Reserva Nacional Pacaya Samiria, explorando sus maravillas naturales y culturales desde Yurimaguas."
 heroImage: "./images/pacayasamiria4.png"
 pubDate: "Jul 30 2024"
 ---

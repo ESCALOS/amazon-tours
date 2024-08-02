@@ -27,8 +27,8 @@ const tours = (await getCollection(collectionName)).sort(
         >
           <Article {...tour.data}>
             <h4 class="text-xl font-bold">{tour.data.title}</h4>
-            <p class="text-sm text-gray-700 mt-2">{tour.data.text}</p>
-            <a href={`/${rootPath}/${tour.slug}`} class="mt-8">
+            <p class="text-sm text-gray-700">{tour.data.text}</p>
+            <a href={`/${rootPath}/${tour.slug}`} class="inline-flex">
               <span class="bg-primary-500 hover:bg-secondary-500 transition-colors duration-300 py-3 px-6 text-sm font-bold text-white rounded-md">
                 Ver más
               </span>

@@ -2,7 +2,7 @@
 id: 2
 title: "Tours Reserva Nacional Pacaya Samiria (4D/3N) - Desde Iquitos"
 description: "Tours Reserva Nacional Pacaya Samiria (4D/3N) - Desde Iquitos"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
+text: "Descubre la magia de la Amazonía en un tour de cuatro días por la Reserva Nacional Pacaya Samiria, donde la aventura y la naturaleza se unen desde Iquitos."
 heroImage: "./images/pacayasamiria2.png"
 pubDate: "Jul 30 2024"
 ---

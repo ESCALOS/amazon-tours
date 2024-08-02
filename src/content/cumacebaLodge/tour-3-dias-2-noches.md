@@ -2,8 +2,8 @@
 id: 1
 title: "Cumaceba Lodge (3D/2N)"
 description: "Cumaceba Lodge 3 Días 2 Noches"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
-heroImage: "./images/cumaceba1.png"
+text: "Disfruta de una escapada de tres días en el Cumaceba Lodge, donde la naturaleza, la comodidad y la aventura se fusionan en un entorno espectacular."
+heroImage: "./images/cumaceba11.png"
 pubDate: "Jul 30 2024"
 ---
 
@@ -11,7 +11,7 @@ pubDate: "Jul 30 2024"
 
 ---
 
-## Recojo del Aeropuerto / City Tours / Traslado al Lodge
+## Día 01: Recojo del Aeropuerto / City Tours / Traslado al Lodge
 
 Recojo del aeropuerto u hotel. Caminata por el centro de la ciudad conociendo la iglesia matriz, casa de hierro, malecón Maldonado, casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote motor fuera de borda.
 

@@ -10,6 +10,7 @@ interface Props {
   titleClass?: string;
   description: string;
   href: string;
+  isMain?: boolean;
 }
 const {
   imagePath,
@@ -20,6 +21,7 @@ const {
   titleClass = "text-xl",
   description,
   href,
+  isMain = false,
 } = Astro.props;
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/card/*.jpg"
@@ -40,14 +42,15 @@ if (!images[imagePath])
   <a href={href} class="block absolute z-30 h-full w-full top-0">
     <div
       class:list={[
-        "px-4 flex flex-col justify-end h-full gap-2 pb-16 lg:pb-0 lg:justify-center",
+        "px-4 flex flex-col justify-end h-full pb-8",
         containerTextClass,
+        isMain ? "lg:pb-0 lg:justify-center" : "",
       ]}
     >
       <h5 class:list={["block uppercase font-bold text-white", titleClass]}>
         {title}
       </h5>
-      <p class="text-white pt-4">
+      <p class="text-white">
         {description}
       </p>
     </div>

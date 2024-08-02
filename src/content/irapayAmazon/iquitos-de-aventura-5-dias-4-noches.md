@@ -3,7 +3,7 @@ id: 3
 title: "Iquitos de Aventura (5D/4N)"
 description: "Iquitos de Aventura 5 Días 4 Noches - Irapay Amazon"
 text: "Descubre la selva amazónica y vive una experiencia inolvidable donde la exploración, la naturaleza y la emoción convergen."
-heroImage: "./images/irapay5d.png"
+heroImage: "./images/irapay31.png"
 pubDate: "Jul 30 2024"
 ---
 
@@ -13,7 +13,7 @@ pubDate: "Jul 30 2024"
 
 ## Día 1. Recojo del aeropuerto Irapay Amazon Lodge / Tour los Boras.
 
-Personal de Amazon Walking, estará esperando en el Parqueo del Aeropuerto de Iquitos, para decepcionarlo, y trasladarlo al Puerto de Nanay por el tiempo de 40 minutos, donde nuestro Bote Rápido, lo trasladará a nuestro Lodge de Lujo Irapay Amazon Lodge. Por el Rio Nanay y Momon, por el tiempo de 40 minutos por medio la Selva, observando paisajes impresionantes, llegada y acomodación en sus respectivas cabañas. Almuerzo libre por el pasajero.
+Personal de Iquitos Expedition, estará esperando en el Parqueo del Aeropuerto de Iquitos, para decepcionarlo, y trasladarlo al Puerto de Nanay por el tiempo de 40 minutos, donde nuestro Bote Rápido, lo trasladará a nuestro Lodge de Lujo Irapay Amazon Lodge. Por el Rio Nanay y Momon, por el tiempo de 40 minutos por medio la Selva, observando paisajes impresionantes, llegada y acomodación en sus respectivas cabañas. Almuerzo libre por el pasajero.
 
 Nuestro Tour Inicia a las 2:30 Pm. Nuestro Guía pasara por ustedes, para llevarlos a visitar la comunidad nativa los Boras, donde podremos danzar y disfrutar de sus costumbres ancestrales, también podremos comprar artesanía y cosas del Lugar. Regreso al Lodge. Cena libre por el Pasajero.
 
@@ -57,7 +57,7 @@ Al finalizar el recorrido, lo trasladaremos a su hotel o al aeropuerto para abor
 - Almuerzo Típico 3 Dia.
 - Botas de Jebe.
 - Botiquín de Primeros Auxilios.
-- Atención Personalizada Amazon Walking.
+- Atención Personalizada Iquitos Expedition.
 
 ### Nuestro Servicio No Incluye
 

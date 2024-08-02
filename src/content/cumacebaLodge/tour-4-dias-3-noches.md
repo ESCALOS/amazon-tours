@@ -2,8 +2,8 @@
 id: 2
 title: "Cumaceba Lodge (4D/3N)"
 description: "Cumaceba Lodge 4 Días 3 Noches"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
-heroImage: "./images/cumaceba2.png"
+text: "Sumérgete en una experiencia de cuatro días en Cumaceba Lodge, explorando la selva, disfrutando de actividades emocionantes y relajándote en un entorno natural impresionante."
+heroImage: "./images/cumaceba21.png"
 pubDate: "Jul 30 2024"
 ---
 
