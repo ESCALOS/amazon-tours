@@ -2,6 +2,7 @@
 id: 3
 title: "El Encanto Amazónico"
 description: "Tour por Iquitos, Río Nanay, Río Momón, Acuario de Peces"
+text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
 heroImage: "./images/encantoamazonico.png"
 pubDate: "Jul 30 2024"
 ---

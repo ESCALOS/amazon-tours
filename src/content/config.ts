@@ -8,6 +8,7 @@ const irapayAmazon = defineCollection({
       heroImage: image(),
       title: z.string(),
       description: z.string(),
+      text: z.string(),
       pubDate: z.coerce.date(),
     }),
 });
@@ -20,6 +21,7 @@ const heliconiaLodge = defineCollection({
       heroImage: image(),
       title: z.string(),
       description: z.string(),
+      text: z.string(),
       pubDate: z.coerce.date(),
     }),
 });
@@ -32,6 +34,7 @@ const cumacebaLodge = defineCollection({
       heroImage: image(),
       title: z.string(),
       description: z.string(),
+      text: z.string(),
       pubDate: z.coerce.date(),
     }),
 });
@@ -44,6 +47,7 @@ const pacayaSamiria = defineCollection({
       heroImage: image(),
       title: z.string(),
       description: z.string(),
+      text: z.string(),
       pubDate: z.coerce.date(),
     }),
 });
@@ -56,6 +60,7 @@ const dailyTours = defineCollection({
       heroImage: image(),
       title: z.string(),
       description: z.string(),
+      text: z.string(),
       pubDate: z.coerce.date(),
     }),
 });
@@ -67,3 +72,5 @@ export const collections = {
   pacayaSamiria,
   dailyTours,
 };
+
+export type CollectionName = keyof typeof collections;

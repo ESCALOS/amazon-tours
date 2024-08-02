@@ -2,6 +2,7 @@
 id: 1
 title: "Tours Reserva Nacional Pacaya Samiria (3D/2N) - Desde Yurimaguas"
 description: "Tours Reserva Nacional Pacaya Samiria (3D/2N) - Desde Yurimaguas"
+text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
 heroImage: "./images/pacayasamiria1.png"
 pubDate: "Jul 30 2024"
 ---

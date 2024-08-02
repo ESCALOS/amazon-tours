@@ -2,6 +2,7 @@
 id: 5
 title: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto"
 description: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto"
+text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
 heroImage: "./images/pacayasamiria5.png"
 pubDate: "Jul 30 2024"
 ---

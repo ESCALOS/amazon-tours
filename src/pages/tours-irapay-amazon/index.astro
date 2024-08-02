@@ -1,28 +1,5 @@
 ---
-import { getCollection } from "astro:content";
-import Article from "@components/Article.astro";
-import TourLayout from "src/layouts/TourLayout.astro";
-
-const irapayAmazon = (await getCollection("irapayAmazon")).sort(
-  (a, b) => a.data.id - b.data.id
-);
+import TourListLayout from "src/layouts/TourListLayout.astro";
 ---
 
-<TourLayout sectionName="Irapay Amazon">
-  <ul class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-    {
-      irapayAmazon.map((tour) => (
-        <li
-          class="border-extra-soft-white text-soft-white hover:bg-soft-light rounded-xl border transition-colors duration-200"
-          transition:name={tour.id}
-        >
-          <a href={`/tours-irapay-amazon/${tour.slug}`}>
-            <Article {...tour.data}>
-              <h4 class="text-xl font-bold">{tour.data.title}</h4>
-            </Article>
-          </a>
-        </li>
-      ))
-    }
-  </ul>
-</TourLayout>
+<TourListLayout sectionName="Irapay Amazon" collectionName="irapayAmazon" />

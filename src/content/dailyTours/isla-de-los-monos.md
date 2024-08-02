@@ -2,6 +2,7 @@
 id: 4
 title: "Isla de los Monos"
 description: "Tour por la frontera del Río Amazonas y el Río Nanay"
+text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
 heroImage: "./images/isladelosmonos.png"
 pubDate: "Jul 30 2024"
 ---

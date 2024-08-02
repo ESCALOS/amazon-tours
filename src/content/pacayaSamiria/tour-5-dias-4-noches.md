@@ -2,6 +2,7 @@
 id: 3
 title: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos"
 description: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos"
+text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
 heroImage: "./images/pacayasamiria3.png"
 pubDate: "Jul 30 2024"
 ---

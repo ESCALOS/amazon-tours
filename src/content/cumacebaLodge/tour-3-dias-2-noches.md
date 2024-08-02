@@ -2,6 +2,7 @@
 id: 1
 title: "Cumaceba Lodge (3D/2N)"
 description: "Cumaceba Lodge 3 Días 2 Noches"
+text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
 heroImage: "./images/cumaceba1.png"
 pubDate: "Jul 30 2024"
 ---

@@ -2,6 +2,7 @@
 id: 5
 title: "Mariposario"
 description: "Tour por el Mariposario, Iquitos"
+text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
 heroImage: "./images/mariposario.png"
 pubDate: "Jul 30 2024"
 ---
