@@ -1,9 +1,7 @@
 ---
-import Article from "@components/Article.astro";
 import type { GetStaticPaths } from "astro";
-import { Icon } from "astro-icon/components";
 import { getCollection } from "astro:content";
-import TourLayout from "src/layouts/TourLayout.astro";
+import TourItemLayout from "src/layouts/TourItemLayout.astro";
 
 export const getStaticPaths = (async () => {
   const tours = await getCollection("heliconiaLodge");
@@ -16,32 +14,6 @@ export const getStaticPaths = (async () => {
 }) satisfies GetStaticPaths;
 
 const tour = Astro.props;
-
-const { Content } = await tour.render();
 ---
 
-<TourLayout sectionName="Heliconia Lodge">
-  <button
-    class="inline-flex items-center gap-2 self-start rounded-full border px-6 py-2 transition-colors duration-200 hover:border-primary-500 hover:text-primary-500"
-    onclick="history.back()"
-  >
-    <Icon name="arrow-left" size={20} />
-
-    <span class="text-sm">Volver</span>
-  </button>
-  <div class="grid grid-cols-1 lg:grid-cols-3 items-start justify-end gap-8">
-    <div
-      class="border-extra-soft-white w-full max-w-[none] rounded-xl border lg:col-span-2"
-      transition:name={tour.id}
-    >
-      <Article {...tour.data}>
-        <div
-          class="prose prose-stone prose-p:text-justify prose-h2:underline prose-hr:my-6 prose-h1:mb-0 max-w-3xl"
-        >
-          <Content />
-        </div>
-      </Article>
-    </div>
-    <div class="flex flex-col items-center justify-around gap-12"></div>
-  </div>
-</TourLayout>
+<TourItemLayout sectionName="Heliconia Lodge" tour={tour} />
