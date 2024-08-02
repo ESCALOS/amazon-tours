@@ -5,10 +5,10 @@ import { motion } from "framer-motion";
 type Props = {
     logoLight: string,
     logoDark: string,
-    isIndexPath?: boolean
+    routePath: string
 }
 
-export default function Navbar({ logoLight, logoDark, isIndexPath = false }: Props) {
+export default function Navbar({ logoLight, logoDark, routePath }: Props) {
     const [openNav, setOpenNav] = useState(false)
     const [scrolled, setScrolled] = useState(false)
 
@@ -22,7 +22,7 @@ export default function Navbar({ logoLight, logoDark, isIndexPath = false }: Pro
     useEffect(() => {
         const handleScroll = () => {
             const navbarHeight = 96;
-            const breakpointHeight = isIndexPath ? window.innerHeight : 256
+            const breakpointHeight = routePath === "/" ? window.innerHeight : 256
             setScrolled(window.scrollY > (breakpointHeight - navbarHeight))
         }
         window.addEventListener("scroll", handleScroll)
@@ -40,7 +40,7 @@ export default function Navbar({ logoLight, logoDark, isIndexPath = false }: Pro
                     <div className="hidden lg:flex items-center justify-center px-4 gap-8">
                         {
                             navItems.map((item) => (
-                                <a href={item.path} className={`font-bold text-center ${scrolled ? 'text-gray-400 hover:text-primary-700' : 'text-white hover:border-b-2 hover:border-white'}`} key={item.id}>
+                                <a href={item.path} className={`font-bold text-center ${scrolled ? (item.path === routePath ? 'text-primary-700' : 'text-gray-400 hover:text-primary-700') : (item.path === routePath ? 'border-b-2 border-white' : 'text-white hover:border-b-2 hover:border-white')}`} key={item.id}>
                                     {item.text}
                                 </a>
                             ))

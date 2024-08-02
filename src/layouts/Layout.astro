@@ -23,7 +23,7 @@ const logoLight = await getImage({
   format: "webp",
 });
 
-const isIndexPath = Astro.url.pathname === "/";
+const routePath = `/${Astro.url.pathname.split("/")[1]}`;
 ---
 
 <!doctype html>
@@ -36,7 +36,7 @@ const isIndexPath = Astro.url.pathname === "/";
     <Navbar
       logoLight={logoLight.src}
       logoDark={logoDark.src}
-      isIndexPath={isIndexPath}
+      routePath={routePath}
       client:load
     />
     <slot />
