@@ -2,8 +2,8 @@
 id: 2
 title: "Descubre Las Maravillas De La Amazonía (4D/3N)"
 description: "Descubre Las Maravillas De La Amazonía 4 Días 3 Noches. - Heliconia Lodge"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
-heroImage: "./images/heliconia2.png"
+text: "Explora la selva amazónica en cuatro días llenos de aventuras, biodiversidad y experiencias inolvidables."
+heroImage: "./images/heliconia21.png"
 pubDate: "Jul 30 2024"
 ---
 

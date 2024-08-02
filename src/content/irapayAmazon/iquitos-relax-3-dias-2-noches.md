@@ -3,7 +3,7 @@ id: 1
 title: "Iquitos Relax (3D/2N)"
 description: "Iquitos Relax 3 Días 2 Noches - Irapay Amazon"
 text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
-heroImage: "./images/irapay3.png"
+heroImage: "./images/irapay3d.png"
 pubDate: "Jul 30 2024"
 ---
 

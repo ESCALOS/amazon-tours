@@ -25,12 +25,15 @@ const tours = (await getCollection(collectionName)).sort(
           class="border-extra-soft-white text-soft-white hover:bg-soft-light rounded-xl border transition-colors duration-200"
           transition:name={tour.id}
         >
-          <a href={`/${rootPath}/${tour.slug}`}>
-            <Article {...tour.data}>
-              <h4 class="text-xl font-bold">{tour.data.title}</h4>
-              <p>{tour.data.text}</p>
-            </Article>
-          </a>
+          <Article {...tour.data}>
+            <h4 class="text-xl font-bold">{tour.data.title}</h4>
+            <p class="text-sm text-gray-700 mt-2">{tour.data.text}</p>
+            <a href={`/${rootPath}/${tour.slug}`} class="mt-8">
+              <span class="bg-primary-500 hover:bg-secondary-500 transition-colors duration-300 py-3 px-6 text-sm font-bold text-white rounded-md">
+                Ver más
+              </span>
+            </a>
+          </Article>
         </li>
       ))
     }

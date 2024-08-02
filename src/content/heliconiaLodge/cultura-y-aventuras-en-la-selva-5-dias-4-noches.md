@@ -2,8 +2,8 @@
 id: 3
 title: "Cultura Y Aventuras En La Selva (5D/4N)"
 description: "Cultura Y Aventuras En La Selva 5 Días 4 Noches - Heliconia Lodge"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
-heroImage: "./images/heliconia3.png"
+text: "Sumérgete en la cultura amazónica y disfruta de cinco días de emocionantes aventuras en plena selva."
+heroImage: "./images/heliconia33.png"
 pubDate: "Jul 30 2024"
 ---
 

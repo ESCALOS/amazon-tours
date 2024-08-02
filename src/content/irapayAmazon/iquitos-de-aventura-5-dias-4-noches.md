@@ -3,7 +3,7 @@ id: 3
 title: "Iquitos de Aventura (5D/4N)"
 description: "Iquitos de Aventura 5 Días 4 Noches - Irapay Amazon"
 text: "Descubre la selva amazónica y vive una experiencia inolvidable donde la exploración, la naturaleza y la emoción convergen."
-heroImage: "./images/irapay2.png"
+heroImage: "./images/irapay5d.png"
 pubDate: "Jul 30 2024"
 ---
 

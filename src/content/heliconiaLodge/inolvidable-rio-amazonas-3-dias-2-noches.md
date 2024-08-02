@@ -2,8 +2,8 @@
 id: 1
 title: "Inolvidable Río Amazonas (3D/2N)"
 description: "Inolvidable Río Amazonas 3 Días 2 Noches - Heliconia Lodge"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
-heroImage: "./images/heliconia1.png"
+text: "Vive tres días de magia en la selva, explorando el majestuoso río Amazonas y disfrutando de la naturaleza, el confort y la aventura."
+heroImage: "./images/heliconia12.png"
 pubDate: "Jul 30 2024"
 ---
 
