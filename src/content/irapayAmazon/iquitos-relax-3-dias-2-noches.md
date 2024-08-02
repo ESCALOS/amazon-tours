@@ -1,12 +1,12 @@
 ---
 id: 1
-title: "Iquitos Relax 3 Días 2 Noches"
+title: "Iquitos Relax (3D/2N)"
 description: "Iquitos Relax 3 Días 2 Noches - Irapay Amazon"
-heroImage: "./images/pacayasamiria1.png"
+heroImage: "./images/irapay3.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Iquitos Relax 3 Días 2 Noches
+# Iquitos Relax (3D/2N)
 
 ---
 

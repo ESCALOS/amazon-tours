@@ -1,12 +1,12 @@
 ---
 id: 1
-title: "Cumaba Lodge 3 Días 2 Noches"
-description: "Cumaba Lodge 3 Días 2 Noches"
-heroImage: "./images/pacayasamiria1.png"
+title: "Cumaceba Lodge (3D/2N)"
+description: "Cumaceba Lodge 3 Días 2 Noches"
+heroImage: "./images/cumaceba1.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Cumaba Lodge 3 Días 2 Noches
+# Cumaceba Lodge (3D/2N)
 
 ---
 

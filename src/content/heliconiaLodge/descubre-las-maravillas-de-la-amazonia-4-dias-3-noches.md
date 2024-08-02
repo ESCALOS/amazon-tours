@@ -1,12 +1,12 @@
 ---
 id: 2
-title: "Descubre Las Maravillas De La Amazonía 4 Días 3 Noches."
+title: "Descubre Las Maravillas De La Amazonía (4D/3N)"
 description: "Descubre Las Maravillas De La Amazonía 4 Días 3 Noches. - Heliconia Lodge"
-heroImage: "./images/pacayasamiria1.png"
+heroImage: "./images/heliconia2.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Descubre Las Maravillas De La Amazonía 4 Días 3 Noches.
+# Descubre Las Maravillas De La Amazonía (4D/3N)
 
 ---
 

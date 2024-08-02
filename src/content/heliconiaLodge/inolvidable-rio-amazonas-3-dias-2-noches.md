@@ -1,12 +1,12 @@
 ---
 id: 1
-title: "Inolvidable Río Amazonas 3 Días 2 Noches"
+title: "Inolvidable Río Amazonas (3D/2N)"
 description: "Inolvidable Río Amazonas 3 Días 2 Noches - Heliconia Lodge"
-heroImage: "./images/pacayasamiria1.png"
+heroImage: "./images/heliconia1.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Inolvidable Río Amazonas 3 Días 2 Noches
+# Inolvidable Río Amazonas (3D/2N)
 
 ---
 

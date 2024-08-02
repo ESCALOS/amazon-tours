@@ -1,12 +1,12 @@
 ---
 id: 2
-title: "Explorando el Amazonas 4 Días 3 Noches"
+title: "Explorando el Amazonas (4D/3N)"
 description: "Explorando el Amazonas 4 Días 3 Noches - Irapay Amazon"
-heroImage: "./images/pacayasamiria1.png"
+heroImage: "./images/irapay1.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Explorando el Amazonas 4 Días 3 Noches
+# Explorando el Amazonas (4D/3N)
 
 ---
 

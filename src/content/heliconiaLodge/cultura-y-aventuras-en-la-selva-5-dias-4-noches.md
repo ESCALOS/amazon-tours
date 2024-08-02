@@ -1,12 +1,12 @@
 ---
 id: 3
-title: "Cultura Y Aventuras En La Selva 5 Días 4 Noches"
+title: "Cultura Y Aventuras En La Selva (5D/4N)"
 description: "Cultura Y Aventuras En La Selva 5 Días 4 Noches - Heliconia Lodge"
-heroImage: "./images/pacayasamiria1.png"
+heroImage: "./images/heliconia3.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Cultura Y Aventuras En La Selva 5 Días 4 Noches
+# Cultura Y Aventuras En La Selva (5D/4N)
 
 ---
 

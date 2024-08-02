@@ -1,12 +1,12 @@
 ---
 id: 3
-title: "Iquitos de Aventura 5 Días 4 Noches"
+title: "Iquitos de Aventura (5D/4N)"
 description: "Iquitos de Aventura 5 Días 4 Noches - Irapay Amazon"
-heroImage: "./images/pacayasamiria1.png"
+heroImage: "./images/irapay2.png"
 pubDate: "Jul 30 2024"
 ---
 
-# Iquitos de Aventura 5 Días 4 Noches
+# Iquitos de Aventura (5D/4N)
 
 ---
 
