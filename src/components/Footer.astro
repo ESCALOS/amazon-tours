@@ -110,9 +110,7 @@ const phoneNumber = import.meta.env.PUBLIC_PHONE_NUMBER;
         {
           otherInterests.map((interest) => (
             <li>
-              <a href={interest.link} target="_blank">
-                {interest.title}
-              </a>
+              <a href={interest.link}>{interest.title}</a>
             </li>
           ))
         }

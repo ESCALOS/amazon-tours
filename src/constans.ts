@@ -155,27 +155,27 @@ export const relatedLinks = [
   {
     id: 1,
     title: "Mincetur",
-    link: "https://www.google.com/",
+    link: "https://www.gob.pe/mincetur",
   },
   {
     id: 2,
     title: "¿Y tú que planes?",
-    link: "https://www.google.com/",
+    link: "https://www.ytuqueplanes.com/",
   },
   {
     id: 3,
     title: "GORE Amazonas",
-    link: "https://www.google.com/",
+    link: "https://www.gob.pe/institucion/regionamazonas/funcionarios?sheet=2",
   },
   {
     id: 4,
     title: "Tripadvisor",
-    link: "https://www.google.com/",
+    link: "https://www.tripadvisor.com/",
   },
   {
     id: 5,
     title: "Marca Perú",
-    link: "https://www.google.com/",
+    link: "https://peru.info/es-pe/",
   },
 ];
 
@@ -183,17 +183,17 @@ export const otherInterests = [
   {
     id: 1,
     title: "Irapay Amazon",
-    link: "https://www.google.com/",
+    link: "/tours-irapay-amazon",
   },
   {
     id: 2,
     title: "Heliconia Lodge",
-    link: "https://www.google.com/",
+    link: "/tours-heliconia-lodge",
   },
   {
     id: 3,
     title: "Cumaceba Lodge",
-    link: "https://www.google.com/",
+    link: "/tours-cumaceba-lodge",
   },
   {
     id: 4,
