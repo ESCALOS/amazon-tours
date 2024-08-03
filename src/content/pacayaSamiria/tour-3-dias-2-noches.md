@@ -50,6 +50,8 @@ La Reserva Pacaya Samiria es uno de los parques naturales protegidos más grande
 
 **5:00 AM** Iniciamos nuestro viaje de retorno por 6 horas hasta puerto Tibilo donde nos espera nuestra movilidad para trasladarnos a la comunidad de Lagunas. Almuerzo y traslado al puerto para nuestro viaje de retorno a la ciudad de Yurimaguas.
 
+---
+
 ### Nuestro servicio incluye
 
 - Transporte.
