@@ -8,6 +8,7 @@ import { getImage } from "astro:assets";
 import LogoDark from "@images/logo-dark.png";
 import LogoLight from "@images/logo-light.png";
 import { SITE_DESCRIPTION, SITE_TITLE } from "src/constans";
+import Loading from "@components/Loading.astro";
 
 const logoDark = await getImage({
   src: LogoDark,
@@ -33,13 +34,42 @@ const routePath = `/${Astro.url.pathname.split("/")[1]}`;
     <ViewTransitions />
   </head>
   <body>
-    <Navbar
-      logoLight={logoLight.src}
-      logoDark={logoDark.src}
-      routePath={routePath}
-      client:load
-    />
-    <slot />
-    <Footer />
+    <div id="loading-container" class="transition-opacity">
+      <Loading />
+    </div>
+    <div id="main-content" class="transition-opacity opacity-0">
+      <Navbar
+        logoLight={logoLight.src}
+        logoDark={logoDark.src}
+        routePath={routePath}
+        client:load
+      />
+      <slot />
+      <Footer />
+    </div>
+    <script is:inline>
+      window.addEventListener("load", () => {
+        const loader = document.getElementById("loading-container");
+        const content = document.getElementById("main-content");
+        if (loader) {
+          loader.style.opacity = 0;
+          content.style.opacity = 100;
+          setTimeout(() => {
+            loader.style.display = "none";
+          }, 150);
+        }
+      });
+      document.addEventListener("astro:after-swap", () => {
+        const loader = document.getElementById("loading-container");
+        const content = document.getElementById("main-content");
+        if (loader) {
+          loader.style.opacity = 0;
+          content.style.opacity = 100;
+          setTimeout(() => {
+            loader.style.display = "none";
+          }, 150);
+        }
+      });
+    </script>
   </body>
 </html>
