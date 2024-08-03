@@ -4,6 +4,24 @@ title: "Tours Reserva Nacional Pacaya Samiria (4D/3N) - Desde Iquitos"
 description: "Tours Reserva Nacional Pacaya Samiria (4D/3N) - Desde Iquitos"
 text: "Descubre la magia de la Amazonía en un tour de cuatro días por la Reserva Nacional Pacaya Samiria, donde la aventura y la naturaleza se unen desde Iquitos."
 heroImage: "./images/pacayasamiria2.png"
+recommenddedTours:
+  [
+    {
+      id: 1,
+      name: "Cultura Y Aventuras En La Selva (5D/4N)",
+      route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
+    },
+    {
+      id: 2,
+      name: "Amazonas: Selva Y Río (4D/3N)",
+      route: "/tours-heliconia-lodge/amazonas-selva-y-",
+    },
+    {
+      id: 3,
+      name: "Aventura Extrema (Puentes Colgantes)",
+      route: "/tours-diarios/aventura-extrema",
+    },
+  ]
 pubDate: "Jul 30 2024"
 ---
 

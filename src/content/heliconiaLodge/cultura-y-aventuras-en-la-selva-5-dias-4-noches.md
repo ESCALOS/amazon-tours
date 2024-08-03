@@ -4,6 +4,24 @@ title: "Cultura Y Aventuras En La Selva (5D/4N)"
 description: "Cultura Y Aventuras En La Selva 5 Días 4 Noches - Heliconia Lodge"
 text: "Sumérgete en la cultura amazónica y disfruta de cinco días de emocionantes aventuras en plena selva."
 heroImage: "./images/heliconia33.png"
+recommenddedTours:
+  [
+    {
+      id: 1,
+      name: "Cultura Y Aventuras En La Selva (5D/4N)",
+      route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
+    },
+    {
+      id: 2,
+      name: "Amazonas: Selva Y Río (4D/3N)",
+      route: "/tours-heliconia-lodge/amazonas-selva-y-",
+    },
+    {
+      id: 3,
+      name: "Aventura Extrema (Puentes Colgantes)",
+      route: "/tours-diarios/aventura-extrema",
+    },
+  ]
 pubDate: "Jul 30 2024"
 ---
 

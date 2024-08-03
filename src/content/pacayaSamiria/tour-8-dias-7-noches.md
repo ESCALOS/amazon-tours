@@ -4,6 +4,24 @@ title: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto"
 description: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto"
 text: "Disfruta de una inmersión total en la Amazonía con un tour de ocho días por la Reserva Nacional Pacaya Samiria, donde la aventura y la naturaleza te esperan desde Tarapoto."
 heroImage: "./images/pacayasamiria5.png"
+recommenddedTours:
+  [
+    {
+      id: 1,
+      name: "Cultura Y Aventuras En La Selva (5D/4N)",
+      route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
+    },
+    {
+      id: 2,
+      name: "Amazonas: Selva Y Río (4D/3N)",
+      route: "/tours-heliconia-lodge/amazonas-selva-y-",
+    },
+    {
+      id: 3,
+      name: "Aventura Extrema (Puentes Colgantes)",
+      route: "/tours-diarios/aventura-extrema",
+    },
+  ]
 pubDate: "Jul 30 2024"
 ---
 

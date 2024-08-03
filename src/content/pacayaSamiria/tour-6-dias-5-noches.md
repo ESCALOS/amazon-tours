@@ -4,6 +4,24 @@ title: "Tours Reserva Nacional Pacaya Samiria (6D/5N) - Desde Yurimaguas"
 description: "Tours Reserva Nacional Pacaya Samiria (6D/5N) - Desde Yurimaguas"
 text: "Sumérgete en una experiencia de seis días en la Reserva Nacional Pacaya Samiria, explorando sus maravillas naturales y culturales desde Yurimaguas."
 heroImage: "./images/pacayasamiria4.png"
+recommenddedTours:
+  [
+    {
+      id: 1,
+      name: "Cultura Y Aventuras En La Selva (5D/4N)",
+      route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
+    },
+    {
+      id: 2,
+      name: "Amazonas: Selva Y Río (4D/3N)",
+      route: "/tours-heliconia-lodge/amazonas-selva-y-",
+    },
+    {
+      id: 3,
+      name: "Aventura Extrema (Puentes Colgantes)",
+      route: "/tours-diarios/aventura-extrema",
+    },
+  ]
 pubDate: "Jul 30 2024"
 ---
 

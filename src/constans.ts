@@ -124,7 +124,7 @@ export const navItems = [
 export const tourCardItems = [
   {
     id: 1,
-    imgPath: "/src/images/packages/pacaya-samiria-desde-iquitos.png",
+    imgPath: "/src/images/packages/iquitosdelujo.png",
     title: "Iquitos de Lujo en Irapay Amazon Lodge",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
@@ -133,7 +133,7 @@ export const tourCardItems = [
   },
   {
     id: 2,
-    imgPath: "/src/images/packages/pacaya-samiria-desde-iquitos.png",
+    imgPath: "/src/images/packages/explorandoamazonas4d3n.png",
     title: "Explorando el Amazonas en Heliconia Amazon Lodge",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
@@ -142,7 +142,7 @@ export const tourCardItems = [
   },
   {
     id: 3,
-    imgPath: "/src/images/packages/pacaya-samiria-desde-iquitos.png",
+    imgPath: "/src/images/packages/relax-selva.png",
     title: "Relax en la selva Cumaceba",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",

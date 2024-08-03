@@ -4,6 +4,24 @@ title: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos"
 description: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos"
 text: "Vive una expedición de cinco días en la impresionante Reserva Nacional Pacaya Samiria, disfrutando de la fauna, flora y cultura amazónica desde Iquitos."
 heroImage: "./images/pacayasamiria3.png"
+recommenddedTours:
+  [
+    {
+      id: 1,
+      name: "Cultura Y Aventuras En La Selva (5D/4N)",
+      route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
+    },
+    {
+      id: 2,
+      name: "Amazonas: Selva Y Río (4D/3N)",
+      route: "/tours-heliconia-lodge/amazonas-selva-y-",
+    },
+    {
+      id: 3,
+      name: "Aventura Extrema (Puentes Colgantes)",
+      route: "/tours-diarios/aventura-extrema",
+    },
+  ]
 pubDate: "Jul 30 2024"
 ---
 
