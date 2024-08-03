@@ -44,3 +44,61 @@ Observación de la victoria Regia, planta acuática más grande del mundo. Reto
 Al Retornar a la ciudad de Iquitos y visita a la comunidad nativa Bora Bora, conoceremos sus costumbres, dialecto, vestimenta, danzas típicas, se recomienda traer algunos objetos para intercambiar con las artesanías que son hechas a mano.
 
 Arribo a la ciudad de Iquitos. Traslado al hotel o aeropuerto.
+
+---
+
+### Nuestro Servicio Incluye.
+
+- Recojo del Aeropuerto Lodge Aeropuerto.
+
+- Hotel 2 Noches En Cumaceba Kuraka Inn.
+
+- Desayunos.
+
+- Guía Profesional.
+
+- Transporte Fluvial privado.
+
+- Alimentación completa en el Lodge.
+
+- Botas de Jebe.
+
+- Botiquín de Primeros Auxilios.
+
+- Atención Personalizada de Iquitos Expedition.
+
+### Nuestro Servicio No Incluye.
+
+- Vuelos.
+
+- Cenas en la ciudad.
+
+- Bebidas.
+
+- Hotel en la ciudad.
+
+- Entre otros no mencionados.
+
+### Que Traer con Usted.
+
+- Ropa Ligera.
+
+- Chaqueta de Lluvia.
+
+- Repelente.
+
+- Bloqueador Solar.
+
+- Camisa Mangalarga
+
+- Ropa de baño.
+
+- Sobrero o Gorra.
+
+- Cámara fotográfica.
+
+- Lentes de Sol.
+
+- Caña de Pescar. (Opcional)
+
+- Buen Ánimo.

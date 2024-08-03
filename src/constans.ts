@@ -12,20 +12,65 @@ export const mainSlides = [
   "Irapay Amazon Lodge",
 ];
 
-export const programsOptions = [
-  "Irapay Amazon",
-  "Heliconia Lodge",
-  "Cumaceba Lodge",
-  "Pacaya Samiria",
-  "Tours Diarios",
-];
-
-export const activityOptions = [
-  "Actividad 1",
-  "Actividad 2",
-  "Actividad 3",
-  "Actividad 4",
-  "Actividad 5",
+export const programs = [
+  {
+    id: 1,
+    name: "Irapay Amazon",
+    activities: [
+      { id: 1, name: "Iquitos Relax (3D/2N)" },
+      { id: 2, name: "Explorando el Amazonas (4D/3N)" },
+      { id: 3, name: "Iquitos de Aventura (5D/4N)" },
+    ],
+  },
+  {
+    id: 2,
+    name: "Heliconia Lodge",
+    activities: [
+      { id: 4, name: "Inolvidable Río Amazonas (3D/2N)" },
+      { id: 5, name: "Descubre Las Maravillas De La Amazonía (4D/3N)" },
+      { id: 6, name: "Cultura Y Aventuras En La Selva (5D/4N)" },
+    ],
+  },
+  {
+    id: 3,
+    name: "Cumaceba Lodge",
+    activities: [
+      { id: 7, name: "Cumaceba Lodge (3D/2N)" },
+      { id: 8, name: "Cumaceba Lodge (4D/3N)" },
+      { id: 9, name: "Cumaceba Lodge (5D/4N)" },
+    ],
+  },
+  {
+    id: 4,
+    name: "Pacaya Samiria",
+    activities: [
+      {
+        id: 10,
+        name: "Tours Reserva Nacional Pacaya Samiria (3D/2N) - Desde Yurimaguas",
+      },
+      {
+        id: 11,
+        name: "Tours Reserva Nacional Pacaya Samiria (4D/3N) - Desde Iquitos",
+      },
+      { id: 12, name: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos" },
+      {
+        id: 13,
+        name: "Tours Reserva Nacional Pacaya Samiria (6D/5N) - Desde Yurimaguas",
+      },
+      { id: 14, name: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto" },
+    ],
+  },
+  {
+    id: 5,
+    name: "Tours Diarios",
+    activities: [
+      { id: 15, name: "Aventura Extrema (Puentes Colgantes)" },
+      { id: 16, name: "CREA y Quiticocha" },
+      { id: 17, name: "El Encanto Amazónico" },
+      { id: 18, name: "Isla de los Monos" },
+      { id: 19, name: "Mariposario" },
+    ],
+  },
 ];
 
 export const navItems = [
@@ -79,7 +124,7 @@ export const navItems = [
 export const tourCardItems = [
   {
     id: 1,
-    imgPath: "/src/images/slide/1.png",
+    imgPath: "/src/images/packages/pacaya-samiria-desde-iquitos.png",
     title: "Iquitos de Lujo en Irapay Amazon Lodge",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
@@ -88,7 +133,7 @@ export const tourCardItems = [
   },
   {
     id: 2,
-    imgPath: "/src/images/slide/2.png",
+    imgPath: "/src/images/packages/pacaya-samiria-desde-iquitos.png",
     title: "Explorando el Amazonas en Heliconia Amazon Lodge",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
@@ -97,7 +142,7 @@ export const tourCardItems = [
   },
   {
     id: 3,
-    imgPath: "/src/images/slide/3.png",
+    imgPath: "/src/images/packages/pacaya-samiria-desde-iquitos.png",
     title: "Relax en la selva Cumaceba",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
@@ -106,7 +151,7 @@ export const tourCardItems = [
   },
   {
     id: 4,
-    imgPath: "/src/images/slide/4.png",
+    imgPath: "/src/images/packages/toursdiarios-isladelosmonos.png",
     title: "Tours diarios Isla  de los monos",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
@@ -115,7 +160,7 @@ export const tourCardItems = [
   },
   {
     id: 5,
-    imgPath: "/src/images/slide/5.png",
+    imgPath: "/src/images/packages/pacaya-samiria-desde-iquitos.png",
     title: "Pacaya Samiria desde Iquitos",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",
@@ -124,7 +169,7 @@ export const tourCardItems = [
   },
   {
     id: 6,
-    imgPath: "/src/images/slide/6.png",
+    imgPath: "/src/images/packages/pacaya-samiria-desde-tarapoto.png",
     title: "Pacaya Samiria desde Tarapoto",
     description:
       "Explora junto a nosotros las maravillas turísticas de la Amazonía peruana. Iquitos te espera para vivir la mejor aventura de tu vida, navegando el río más caudaloso del mundo, observar delfines, tener contacto con la naturaleza y comunidades nativas con sus costumbres ancestrales.",

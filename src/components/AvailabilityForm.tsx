@@ -1,5 +1,5 @@
 import { useForm, type SubmitHandler } from "react-hook-form"
-import { activityOptions, programsOptions } from "src/constans"
+import { programs } from "src/constans"
 import { formatDate } from "src/logic/formatter"
 import { getURLToSendMessageToWhatsapp } from "src/logic/utils"
 import { validateCheckoutDate, validateDate } from "src/logic/validate"
@@ -13,7 +13,13 @@ type Form = {
 }
 
 export default function AvailabilityForm() {
-    const { register, handleSubmit, formState: { errors }, getValues } = useForm<Form>();
+    const { register, handleSubmit, formState: { errors }, getValues, watch } = useForm<Form>();
+
+    const selectedProgram = watch("program");
+
+    const filteredActivities = selectedProgram
+        ? programs.find(prog => prog.name === selectedProgram)?.activities || []
+        : [];
 
     const onSubmit: SubmitHandler<Form> = data => {
         const checkinFormatted = formatDate(data.checkin);
@@ -76,8 +82,9 @@ export default function AvailabilityForm() {
                         className="availability-input"
                         {...register("program", { required: "El programa es requerido" })}
                     >
-                        {programsOptions.map((program, index) => (
-                            <option key={index}>{program}</option>
+                        <option value="">Selecciona un programa</option>
+                        {programs.map(({ id, name }) => (
+                            <option key={id}>{name}</option>
                         ))}
                     </select>
                     <span className="absolute right-4 text-gray-500 translate-y-4 font-bold">
@@ -112,9 +119,11 @@ export default function AvailabilityForm() {
                         {...register("activity", {
                             required: "La actividad es requerida",
                         })}
+                        disabled={!selectedProgram}
                     >
-                        {activityOptions.map((activity, index) => (
-                            <option key={index}>{activity}</option>
+                        <option value="">Selecciona una actividad</option>
+                        {filteredActivities.map(({ id, name }) => (
+                            <option key={id}>{name}</option>
                         ))}
                     </select>
                     <span className="absolute right-4 text-gray-500 translate-y-4 font-bold">
