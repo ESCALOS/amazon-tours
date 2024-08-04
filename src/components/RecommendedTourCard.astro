@@ -4,11 +4,12 @@ import { Image } from "astro:assets";
 
 interface Props {
   name: string;
+  duration: number;
   imgPath: string;
   route: string;
 }
 
-const { name, imgPath, route } = Astro.props;
+const { name, duration, imgPath, route } = Astro.props;
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/tours/*.png"
@@ -28,15 +29,24 @@ if (!images[imgPath])
     loading="lazy"
   />
   <div class="h-12 bg-primary-500 flex items-center justify-center gap-2">
-    <span class="inline-flex items-center gap-2 text-white text-sm font-bold">
+    { duration !== 0 ?
+    (<span class="inline-flex items-center gap-2 text-white text-sm font-bold">
       <Icon name="s-clock" />
-      5 días
+      {duration} días
     </span>
     <span class="inline-block text-white text-lg font-extralight"> | </span>
     <span class="inline-flex items-center gap-2 text-white text-sm font-bold">
       <Icon name="s-clock" />
-      4 noches
+      {duration-1} noches
+    </span>)
+    :
+    (
+    <span class="inline-flex items-center gap-2 text-white text-sm font-bold">
+      <Icon name="s-clock" />
+      Todos los días
     </span>
+    )  
+  }
   </div>
   <div
     class="bg-white flex flex-col items-center rounded-b-lg py-4 px-2 space-y-4"

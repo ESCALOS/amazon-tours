@@ -11,6 +11,7 @@ const { Content } = await tour.render();
 type RecommendedTour = {
   id: number;
   name: string;
+  duration: number;
   imgPath: string;
   route: string;
 };
@@ -51,6 +52,7 @@ type RecommendedTour = {
             tour.data.recommendedTours.map((tour: RecommendedTour) => (
               <RecommendedTourCard
                 name={tour.name}
+                duration={tour.duration}
                 imgPath={tour.imgPath}
                 route={tour.route}
               />
