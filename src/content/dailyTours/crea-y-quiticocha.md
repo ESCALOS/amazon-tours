@@ -2,7 +2,7 @@
 id: 2
 title: "CREA y Quiticocha"
 description: "Tour por Centro de Rescate (CREA) Manatí, Iquitos - Viaje por Forever Bio Park"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
+text: "Explora el Proyecto de Conservación de Manatíes (CREA) y descubre la fauna local en el zoológico de Quistococha, disfrutando de su encantadora playa."
 heroImage: "src/images/tours/quiticocha.png"
 recommendedTours:
   [
@@ -35,38 +35,36 @@ pubDate: "Jul 30 2024"
 
 ---
 
-- Recojo de Hotel, Viaje a Amazon Forever Bio Park.
-- Llegada a Centro de Rescate (CREA - Manatí), donde aprenderemos sobre la preservación y cuidado de nuestra biodiversidad y fauna amazónica, mediante la importante labor en el rescate, rehabilitación y liberación de los manatíes (actualmente en peligro de extinción).
-- Caminata Etnobotánica de plantas medicinales de la Amazonía y circuito de esculturas donde podrás tomarte las mejores fotos en medio de la naturaleza.
-- Circuito de esculturas donde podrás tomarte las mejores fotos en medio de la naturaleza.
+- Recojo de hotel y viaje a Amazon Forever Bio Park.
+- Llegada al centro de rescate (CREA - Manatí), donde aprenderemos sobre la preservación y cuidado de nuestra biodiversidad y fauna amazónica, mediante la importante labor en el rescate, rehabilitación y liberación de los manatíes (actualmente en peligro de extinción).
+- Caminata etnobotánica de plantas medicinales de la Amazonía y circuito de esculturas, donde podrás tomarte las mejores fotos en medio de la naturaleza.
 - Acuario del Paiche, el pez más grande de agua dulce.
 - Visita a Quistococha, observación de fauna amazónica y playa de arena blanca.
-- **Opcional** puede nadar en el Lago, y también ir al Parque de Juego Acuático, Almuerzo opcional en restaurante Flotante al Frio y al Fuego, luego Traslado de retorno a su hotel.
+- **Opcional**: puedes nadar en el lago y también ir al parque de juegos acuáticos. Almuerzo opcional en el restaurante flotante "Al Frío y al Fuego", y luego traslado de retorno a su hotel.
 
 ## Nuestro Servicio Incluye
 
-- Recojo del Hotel al Puerto Hotel.
-- Guía Profesional.
+- Recojo del hotel al puerto.
+- Guía profesional.
 - Entradas a los lugares a visitar.
-- Transporte Fluvial Equipado.
-- Botiquín de Primeros Auxilios.
-- Atención Personalizada.
+- Transporte fluvial equipado.
+- Botiquín de primeros auxilios.
+- Atención personalizada.
 
-## Nuestro Servicio no Incluye.
+## Nuestro Servicio No Incluye
 
 - Hotel.
-- Pasajes Aéreos.
-- Alimentación
-- Entre otros no Mencionados.
+- Pasajes aéreos.
+- Alimentación.
+- Entre otros no mencionados.
 
-## Que traer con usted
+## Qué Traer con Usted
 
-- Ropa Ligera.
+- Ropa ligera.
 - Repelente.
 - Bloqueador.
-- Cámara Fotográfica.
-- Lentes de Sol.
-- Chaqueta de Lluvia.
-- Lentes de Sol.
-- Gorro o Sombrero.
-- Botiquín Personal.
+- Cámara fotográfica.
+- Lentes de sol.
+- Chaqueta de lluvia.
+- Gorro o sombrero.
+- Botiquín personal.

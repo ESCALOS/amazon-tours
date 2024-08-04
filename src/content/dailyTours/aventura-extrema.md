@@ -2,7 +2,7 @@
 id: 1
 title: "Aventura Extrema (Puentes Colgantes)"
 description: "Tour en Iquitos, actividad por puentes colgantes"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
+text: "Disfruta de un emocionante recorrido por impresionantes puentes colgantes en la selva, donde la adrenalina y la belleza natural se fusionan para una experiencia inolvidable."
 heroImage: "src/images/tours/aventuraextrema.png"
 recommendedTours:
   [
@@ -35,37 +35,32 @@ pubDate: "Jul 30 2024"
 
 ---
 
-Nuestro tour te llevará a vivir una experiencia llena de adrenalina y emoción en medio de la impresionante naturaleza de la región.  
-Equipados con el equipo de seguridad necesario y acompañados por nuestros experimentados guías, te aventurarás a cruzar estos puentes colgantes suspendidos sobre árboles gigantes, y descender con tirolesas y rappel. Cada paso que des te llenará de emoción y te hará sentir la verdadera adrenalina corriendo por tus venas.  
-Durante el recorrido, tendrás la oportunidad de disfrutar de vistas panorámicas impresionantes de la selva amazónica, mientras pones a prueba tu coraje y tu habilidad para enfrentar los desafíos que se presenten.  
-Almuerzo típico por el Pasajero.  
-Traslado a Iquitos.
+Nuestro tour te llevará a vivir una experiencia llena de adrenalina y emoción en medio de la impresionante naturaleza de la región. Equipados con el equipo de seguridad necesario y acompañados por nuestros experimentados guías, te aventurarás a cruzar estos puentes colgantes suspendidos sobre árboles gigantes y descender con tirolesas y rappel. Cada paso que des te llenará de emoción y te hará sentir la verdadera adrenalina corriendo por tus venas. Durante el recorrido, tendrás la oportunidad de disfrutar de vistas panorámicas impresionantes de la selva amazónica, mientras pones a prueba tu coraje y tu habilidad para enfrentar los desafíos que se presenten. Almuerzo típico por el pasajero. Traslado a Iquitos.
 
 ## Nuestro Servicio Incluye
 
-- Recojo del Hotel al Puerto Hotel.
-- Guía Profesional.
+- Recojo del hotel al puerto.
+- Guía profesional.
 - Entradas a los lugares a visitar.
-- Transporte Fluvial Equipado.
-- Equipo de Seguridad.
-- Botiquín de Primeros Auxilios.
-- Atención Personalizada.
+- Transporte fluvial equipado.
+- Equipo de seguridad.
+- Botiquín de primeros auxilios.
+- Atención personalizada.
 
-## Nuestro Servicio no Incluye.
+## Nuestro Servicio No Incluye
 
 - Hotel.
-- Pasajes Aéreos.
-- Alimentación
-- Entre otros no Mencionados.
+- Pasajes aéreos.
+- Alimentación.
+- Entre otros no mencionados.
 
-## Que traer con usted
+## Qué Traer con Usted
 
-- Ropa Ligera.
+- Ropa ligera.
 - Repelente.
 - Bloqueador.
-- Cámara Fotográfica.
-- Lentes de Sol.
-- Chaqueta de Lluvia.
-- Lentes de Sol.
-- Gorro o Sombrero.
-- Botiquín Personal.
+- Cámara fotográfica.
+- Lentes de sol.
+- Chaqueta de lluvia.
+- Gorro o sombrero.
+- Botiquín personal.

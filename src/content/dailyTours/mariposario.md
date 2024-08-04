@@ -2,7 +2,7 @@
 id: 5
 title: "Mariposario"
 description: "Tour por el Mariposario, Iquitos"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
+text: "Explora un colorido santuario de mariposas, donde podrás observar diversas especies en su hábitat natural y aprender sobre su ciclo de vida y su importancia en el ecosistema."
 heroImage: "src/images/tours/mariposario.png"
 recommendedTours:
   [
@@ -35,37 +35,36 @@ pubDate: "Jul 30 2024"
 
 ---
 
-- Recojo de su hotel, traslado al puerto de Bellavista Nanay **(tour gastronómico: tacacho, suri, pescados y caimán a la parrilla)**.
-- Viaje por el Río Nanay **(río de aguas oscuras)**.
-- Llegada a Centro de Rescate y Mariposario Pilpintuwasi, ingresaremos a una jaula en medio de la naturaleza donde observaremos **(Metamorfosis de las mariposas, Jaguar, Aves, Monos, entre otras especies)**, que han sido rescatadas y aquí son protegidos.
-- Presentación Temática de las costumbres y creencias de Tribu Kukama **(donde podrás ser partícipe de sus danzas típicas y admirar el gran trabajo que realizan a través de sus artesanía y preservación de su cultura)**.
-- Pesca artesanal de pirañas. Traslado de Retorno a la ciudad de Iquitos.
-- Llegada a Puerto de Bellavista Nanay, traslado a su Hotel, fin del Tour.
+- Recojo de su hotel y traslado al puerto de Bellavista Nanay **(tour gastronómico: tacacho, suri, pescados y caimán a la parrilla)**.
+- Viaje por el río Nanay **(río de aguas oscuras)**.
+- Llegada al centro de rescate y mariposario Pilpintuwasi, donde ingresaremos a una jaula en medio de la naturaleza y observaremos **(metamorfosis de las mariposas, jaguar, aves, monos, entre otras especies)** que han sido rescatadas y aquí son protegidas.
+- Presentación temática de las costumbres y creencias de la tribu Kukama **(donde podrás ser partícipe de sus danzas típicas y admirar el gran trabajo que realizan a través de su artesanía y preservación de su cultura)**.
+- Pesca artesanal de pirañas. Traslado de retorno a la ciudad de Iquitos.
+- Llegada a puerto de Bellavista Nanay y traslado a su hotel, fin del tour.
 
 ## Nuestro Servicio Incluye
 
-- Recojo del Hotel al Puerto Hotel.
-- Guía Profesional.
+- Recojo del hotel al puerto.
+- Guía profesional.
 - Entradas a los lugares a visitar.
-- Transporte Fluvial Equipado.
-- Botiquín de Primeros Auxilios.
-- Atención Personalizada.
+- Transporte fluvial equipado.
+- Botiquín de primeros auxilios.
+- Atención personalizada.
 
-## Nuestro Servicio no Incluye.
+## Nuestro Servicio No Incluye
 
 - Hotel.
-- Pasajes Aéreos.
-- Alimentación
-- Entre otros no Mencionados.
+- Pasajes aéreos.
+- Alimentación.
+- Entre otros no mencionados.
 
-## Que traer con usted
+## Qué Traer con Usted
 
-- Ropa Ligera.
+- Ropa ligera.
 - Repelente.
 - Bloqueador.
-- Cámara Fotográfica.
-- Lentes de Sol.
-- Chaqueta de Lluvia.
-- Lentes de Sol.
-- Gorro o Sombrero.
-- Botiquín Personal.
+- Cámara fotográfica.
+- Lentes de sol.
+- Chaqueta de lluvia.
+- Gorro o sombrero.
+- Botiquín personal.

@@ -2,9 +2,9 @@
 id: 1
 title: "Cumaceba Lodge (3D/2N)"
 description: "Cumaceba Lodge 3 Días 2 Noches"
-text: "Disfruta de una escapada de tres días en el Cumaceba Lodge, donde la naturaleza, la comodidad y la aventura se fusionan en un entorno espectacular."
+text: "Disfruta de una escapada de tres días en el Cumaceba Lodge, donde la naturaleza, la comodidad y la aventura se fusionan en un entorno espectacular, lleno de experiencias inolvidables y momentos únicos."
 heroImage: "src/images/tours/cumaceba1.png"
-recommendedTours:
+recommenddedTours:
   [
     {
       id: 1,
@@ -35,94 +35,74 @@ pubDate: "Jul 30 2024"
 
 ---
 
-## Día 01: Recojo del Aeropuerto / City Tours / Traslado al Lodge
+## Día 1: Recojo del Aeropuerto / City Tours / Traslado al Lodge
 
-Recojo del aeropuerto u hotel. Caminata por el centro de la ciudad conociendo la iglesia matriz, casa de hierro, malecón Maldonado, casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote motor fuera de borda.
+Recojo del aeropuerto u hotel. Caminata por el centro de la ciudad, conociendo la iglesia matriz, la casa de hierro, el malecón Maldonado y las casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote motor fuera de borda.
 
-Navegaremos el rio Itaya por 15 minutos para luego ingresar al rio más largo y caudaloso del mundo, el Amazonas, maravilla Natural, información sobre el Amazonas, búsqueda de delfines grises y bufeos rosados.
+Navegaremos el río Itaya durante 15 minutos para luego ingresar al río más largo y caudaloso del mundo, el Amazonas. Maravilla natural, con información sobre el Amazonas y búsqueda de delfines grises y bufeos rosados.
 
-Navegaremos el Amazonas rio arriba hasta el Curaka Inn Cumaceba, Al arribo bienvenida con refresco de frutas de la estación. Información general. Asignación de bungalows privados.
+Navegaremos el Amazonas río arriba hasta el Curaka Inn Cumaceba. Al arribo, bienvenida con refresco de frutas de la estación. Información general y asignación de bungalows privados.
 
-Almuerzo. Plato típico. Por la tarde caminata por la selva conociendo flora y fauna y la biodiversidad existente en el área. Caminata nocturna por la selva escuchando la variedad de sonidos emitidos por insectos batracios, aves entre otros.
+**Almuerzo:** plato típico. Por la tarde, caminata por la selva, conociendo la flora, fauna y la biodiversidad existente en el área. Caminata nocturna por la selva, escuchando la variedad de sonidos emitidos por insectos, batracios, aves, entre otros.
 
-Cena. Historias selváticas narradas por el guía. Noche en el Lodge
+**Cena:** historias selváticas narradas por el guía. Noche en el lodge.
 
-## Día 02: Avistamiento de aves en su hábitat caminando o en canoa
+## Día 2: Avistamiento de aves en su hábitat caminando o en canoa
 
-Avistamiento de aves en su hábitat caminando o en canoa. Desayuno.
+Avistamiento de aves en su hábitat, caminando o en canoa. Desayuno.
 
-Excursión para visitar a morador ribereño donde apreciaremos boas constrictoras no venenosas, oso perezoso, tortugas entre otros.
+Excursión para visitar a un morador ribereño, donde apreciaremos boas constrictoras no venenosas, osos perezosos, tortugas, entre otros.
 
-Conoceremos también la manera de extraer el jugo de la caña de azúcar de manera artesanal, degustación del jugo y sus derivados como el ron de cana, melaza.
+También conoceremos la manera de extraer el jugo de la caña de azúcar de forma artesanal, con degustación del jugo y sus derivados, como el ron de caña y la melaza.
 
-Retorno a Curaka Inn Cumaceba. Almuerzo plato típico Patarashca.
+Retorno al Curaka Inn Cumaceba. **Almuerzo:** plato típico Patarashca.
 
-Por la tarde visita a pueblo de la ribera ‘’GALLITO’’ para conocer parte de sus actividades diarias. Según las condiciones climatológicas observaremos una maravillosa puesta del sol.  Cena.  Noche en el Lodge.
+Por la tarde, visita al pueblo de la ribera “GALLITO” para conocer parte de sus actividades diarias. Según las condiciones climatológicas, observaremos una maravillosa puesta de sol. **Cena.** Noche en el lodge.
 
-## Día 03: Pesca a orillas del rio Amazonas, pez gato, pirañas / Traslado a Iquitos.
+## Día 3: Pesca a orillas del río Amazonas, pez gato, pirañas / Traslado a Iquitos
 
-Desayuno. Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros.
+Desayuno. Pesca a orillas del río Amazonas: pez gato, pirañas, entre otros.
 
-Observación de la victoria Regia, planta acuática más grande del mundo. Retorno al Lodge y almuerzo plato típico a base de Pescado.
+Observación de la Victoria Regia, la planta acuática más grande del mundo. Retorno al lodge y almuerzo con plato típico a base de pescado.
 
-Al Retornar a la ciudad de Iquitos y visita a la comunidad nativa Bora Bora, conoceremos sus costumbres, dialecto, vestimenta, danzas típicas, se recomienda traer algunos objetos para intercambiar con las artesanías que son hechas a mano.
+Al regresar a la ciudad de Iquitos, visitaremos la comunidad nativa Bora Bora, donde conoceremos sus costumbres, dialecto, vestimenta y danzas típicas. Se recomienda traer algunos objetos para intercambiar con las artesanías que son hechas a mano.
 
 Arribo a la ciudad de Iquitos. Traslado al hotel o aeropuerto.
 
+### Fin de nuestra Experiencia.
+
 ---
 
-### Nuestro Servicio Incluye.
+### Nuestro Servicio Incluye:
 
-- Recojo del Aeropuerto Lodge Aeropuerto.
+- Recojo del aeropuerto y traslado al lodge.
+- 2 noches en Curaka Inn Cumaceba.
+- Desayunos incluidos.
+- Guía profesional.
+- Transporte fluvial privado.
+- Alimentación completa en el lodge.
+- Botas de jebe.
+- Botiquín de primeros auxilios.
+- Atención personalizada de Iquitos Expedition.
 
-- Hotel 2 Noches En Cumaceba Kuraka Inn.
-
-- Desayunos.
-
-- Guía Profesional.
-
-- Transporte Fluvial privado.
-
-- Alimentación completa en el Lodge.
-
-- Botas de Jebe.
-
-- Botiquín de Primeros Auxilios.
-
-- Atención Personalizada de Iquitos Expedition.
-
-### Nuestro Servicio No Incluye.
+### Nuestro Servicio No Incluye:
 
 - Vuelos.
-
 - Cenas en la ciudad.
-
 - Bebidas.
-
 - Hotel en la ciudad.
-
 - Entre otros no mencionados.
 
-### Que Traer con Usted.
+### Qué Traer con Usted:
 
-- Ropa Ligera.
-
-- Chaqueta de Lluvia.
-
+- Ropa ligera.
+- Chaqueta de lluvia.
 - Repelente.
-
-- Bloqueador Solar.
-
-- Camisa Mangalarga
-
+- Bloqueador solar.
+- Camisa mangalarga.
 - Ropa de baño.
-
-- Sobrero o Gorra.
-
+- Sombrero o gorra.
 - Cámara fotográfica.
-
-- Lentes de Sol.
-
-- Caña de Pescar. (Opcional)
-
-- Buen Ánimo.
+- Lentes de sol.
+- Caña de pescar (opcional).
+- Buen ánimo.

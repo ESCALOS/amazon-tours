@@ -37,7 +37,7 @@ pubDate: "Jul 30 2024"
 
 Experiencia inolvidable en una de las áreas más ricas en biodiversidad que aún existen en el planeta. No solamente tendrá la oportunidad de acercarse a las especies más representativas de la Amazonía, sino que penetrará en sus dominios. Conocerá también cómo la población ribereña que habita en el perímetro de la reserva lleva a cabo programas de conservación y desarrollo sostenible para mantener inalterable uno de los últimos grandes bosques tropicales inundables.
 
-## Día 01. Iquitos / Nauta / Pacaya Samiria.
+## Día 1. Iquitos / Nauta / Pacaya Samiria.
 
 Recepción en el aeropuerto de Iquitos y traslado a la ciudad o recojo de su hotel.
 Durante el recorrido se le ofrecerá una breve orientación de Iquitos, observando los principales lugares turísticos de esta pujante e histórica ciudad del Oriente Peruano que en el siglo XIX paso a convertirse de pequeño poblado al más importante puerto fluvial en el Amazonas, adquiriendo una sorprendente condición cosmopolita durante la denominada “Fiebre del Caucho”.
@@ -53,22 +53,22 @@ Ingreso a la Reserva Nacional Pacaya-Samiria. Navegaremos por el río Yanayacu e
 
 Campamento en ubicación cercana a la comunidad de Arequipa. Luego de haber navegado aproximadamente una hora al interior de la reserva, nos detendremos para levantar nuestro campamento a orillas del Yanayacu. Mientras nuestro personal prepara todo lo necesario para que disfrute de un descanso reparador, usted podrá aprovechar el resto de la tarde para tomar fotos del paisaje mientras cae la noche o hace una corta caminata para familiarizarse con los pobladores de la comunidad cercana. Nuestro experto cocinero tendrá oportunamente una sabrosa cena. Pernocte en una cómoda y segura carpa (tienda de campaña), muy a menudo bajo el cielo estrellado que parece inspirar los sonidos producidos por las criaturas de la selva.
 
-## Día 02. Pacaya Samiria
+## Día 2. Pacaya Samiria
 
 Si usted se despierta muy temprano podrá deleitarse observando las aves que salen de sus nidos en busca del alimento que les provee el río.
 Luego de un fortalecedor desayuno, se realizará la primera excursión por el río Yanayacu-Pucate con grandes perspectivas de observar más vida silvestre conforme se va penetrando en la reserva. Nuestro siguiente destino es la laguna de Shansho Cocha, ubicada a hora y media de viaje.
 En el trayecto se podrá observar el hermoso paisaje donde destacan los árboles gigantes como la Lupuna (Ceiba pentandra), la Capirona, el Capinurí (Heliocostilis scabra) y también las aves como el tucán (Pteroglossus sp.), guacamayo rojo (Ara macao), guacamayo amarillo (Ara ararauna), garza blanca grande (Egreta alba), martín pescador (Chloroceryele sp.). Al llegar a Shansho Cocha podremos avistar al Hoatzín o “Shansho” (Opysthocomus hoazin), ave con características prehistóricas que anida y se alimenta a orillas de esta laguna. Retorno al campamento y almuerzo. Después de un breve descanso continuaremos la excursión por la Quebrada de Yanayaquillo donde es posible observar monos frailes (Saimiri boliviensis), “pichicos” (Saguinus fuscicollis) y perezosos (Bradypus variegatus). Retorno al campamento, cena y pernocte.
 
-## Día 03. Pacaya Samiria
+## Día 3. Pacaya Samiria
 
 Desayuno. Excursión matutina por la quebrada de Japón y la laguna de Yanta donde aparte de realizar un avistamiento de aves mientras estas se alimentan, dispondremos de un tiempo para pescar. Entre las especies ictiológicas que abundan en la reserva se encuentran la piraña (Serrasalmus sp.), el sábalo (Brycun americus), la sardina (Triportheus sp.), entre otros. Retorno al campamento. Almuerzo. Paseo en canoa para apreciar los paisajes maravillosos de la reserva que ha conocido durante este viaje. Una oportunidad para fotografiar a las aves que retornan a sus nidos al llegar la noche. Cena y comentarios finales de su guía sobre el programa realizado. Pernocte en campamento.
 
-## Día 04. Pacaya Samiria
+## Día 4. Pacaya Samiria
 
 Desayuno madrugador para luego levantar el campamento y navegar dos horas por el río Yanayacu hacía la Sacarita de Yarina. Durante el viaje podrá observar la presencia de los graciosos delfines rosados (Inia geoffrenssis) y taricaya como se conoce localmente a estas tortugas de río (Podocnemis unifilis). Es posible que durante el trayecto puedan aparecer los escurridizos lobos de río (Ptenerura brasiliensis), hábiles nadadores y pescadores. Llegada a la zona del destino e instalación del campamento.
 Almuerzo a orillas del río contemplando el esplendoroso paisaje. Caminata de reconocimiento para poder apreciar la exquisita flora y fauna de esta área. Cena y comentarios de su guía sobre el programa del día siguiente. Pernocte en el campamento.
 
-## Día 05. Pacaya Samiria / Nauta / Iquitos
+## Día 5. Pacaya Samiria / Nauta / Iquitos
 
 Desayuno y última oportunidad de tomar fotos en la Reserva Nacional Pacaya-Samiria. Luego que nuestro personal levante el campamento se iniciará el retorno aguas abajo por río Marañón hasta la ciudad de Nauta. Un auto o bus le llevará de vuelta a Iquitos donde nuestros trasladista lo conducirán a su hotel o al aeropuerto para abordar el vuelo de retorno a Lima.
 

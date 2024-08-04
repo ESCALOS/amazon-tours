@@ -1,6 +1,6 @@
 ---
 id: 4
-title: "Tours Reserva Nacional Pacaya Samiria (6D/5N) - Desde Yurimaguas"
+title: "Tours R. N. Pacaya Samiria (6D/5N) - Desde Yurimaguas"
 description: "Tours Reserva Nacional Pacaya Samiria (6D/5N) - Desde Yurimaguas"
 text: "Sumérgete en una experiencia de seis días en la Reserva Nacional Pacaya Samiria, explorando sus maravillas naturales y culturales desde Yurimaguas."
 heroImage: "src/images/tours/pacayasamiria4.png"
@@ -37,29 +37,29 @@ pubDate: "Jul 30 2024"
 
 La Reserva Nacional Pacaya Samiria es conocida por ser una de las zonas del país de mayor belleza natural. El objetivo de este Tour a Pacaya-Samiria es que descubras la espectacular diversidad natural de flora y fauna, la magnífica vida silvestre y la historia de la región. Si busca conocer la selva de verdad, ¡este tour es para ti!
 
-## Día 01. Recojo Yurimaguas Lagunas – Posa Gloria.
+## Día 1. Recojo Yurimaguas Lagunas – Posa Gloria.
 
 **4:00 AM** Personal de nuestra agencia pasara por tu hotel para trasladarle al puerto de la ciudad de Yurimaguas. En seguida iniciamos nuestro viaje de 4 horas en transporte fluvial hasta la comunidad de Lagunas, donde nos reunimos con nuestros guías nativos. Después del desayuno iniciamos con nuestro traslado de 30 minutos en moto taxi hasta puerto Tibilo.
 
 **10:00 AM** Iniciamos nuestra expedición, este día usaremos embarcaciones artesanales para trasladarnos por 5 horas por el rio Tibilo hasta nuestra cabaña que está ubicada en el sector llamado Posa Gloria. Durante nuestras visitas haremos observación de aves endémicas, avistamiento de cocodrilos, pesca de pirañas entre otras actividades.
 
-## Día 02: Posa Gloria – Panteon
+## Día 2: Posa Gloria – Panteon
 
 **8:00 AM** Después del desayuno, iniciamos el día en canoa para movilizarse durante la excursión, este día haremos avistamiento de cocodrilos, monos,aves exóticas de la amazonia, pesca de pirañas entre otras actividades, durante la tarde tendremos un trekking de 2 horas, donde podremos conocer plantas medicinales y arboles gigantes.
 
 **7:00 PM** Iniciamos nuestra visita nocturna para avistar cocodrilos, hacer pesca de Pirañas y disfrutar de leyendas de la amazonia y la paz que nos brinda la naturaleza.
 
-## Día 03: Panteon – Camotal
+## Día 3: Panteon – Camotal
 
 **8:00 AM** Iniciamos nuestro viaje 4 horas hasta el punto llamado Camotal, durante nuestro tour podremos apreciar delfines, lobos de rio, monos y aves acuáticas. Almuerzo en Camotal, por la tarde usted tendrá libre para que pueda nadar y disfrutar de la paz que nos brinda la naturaleza.
 
-## Día 04: Panteón
+## Día 4: Panteón
 
 **8:00 AM** Iniciamos nuestra excursión con 4 horas de Trekking en la Reserva Nacional Pacaya-Samiria, donde podrás ver gran diversidad de plantas medicinales, plantas comestibles, lianas con agua bebible y haremos actividades recreativas.
 
 **1:00 PM** Almuerzo en Comotal,en seguida tendremos paseo en canoa,pesca deportiva, por la noche haremos fogata y nuestros guías nos contaran leyendas tradicionales de la amazonia.
 
-## Día 05: Panteon – Posa Gloria
+## Día 5: Panteon – Posa Gloria
 
 **8:00 AM** Iniciamos nuestro viaje de retorno 7 horas hasta la cabaña de Posa Gloria, durante nuestro retorno haremos paradas para tomas fotográficas, almuerzo y otras actividades. Arribo a Posa Gloria 5 pm, cena y pernocte.
 

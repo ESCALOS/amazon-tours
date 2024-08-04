@@ -2,7 +2,7 @@
 id: 4
 title: "Isla de los Monos"
 description: "Tour por la frontera del Río Amazonas y el Río Nanay"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
+text: "Descubre un refugio natural donde primates viven en libertad, disfrutando de un entorno exuberante y aprendiendo sobre la rica biodiversidad de la región."
 heroImage: "src/images/tours/isladelosmonos.png"
 recommendedTours:
   [
@@ -35,45 +35,44 @@ pubDate: "Jul 30 2024"
 
 ---
 
-- Recojo de su hotel y traslado al Puerto de Bellavista Nanay.
-- Frontera de los Ríos Amazonas y río Nanay **(fenómeno natural)**.
-- Navegación Río Amazonas **(Maravilla Natural del mundo)**.
-- Visita al Árbol Gigante Lupuna y Mirador del Amazonas en comunidad Natiba los Kukama Independencia.
-- Fundo Pedrito **(Caimán, Paiche, Victoria regia Amazónica)**.
-- Comunidad Nativa Los Yaguas **(danzas y artesanía)**.
-- Visita a la Verdadera Isla de los Monos **(Centro de rescate de mayor valor debido a su trabajo con primates, especies como el mono choro, titi, tocón, aullador viven aquí, interactuamos con ellos en su hábitat)**.
+- Recojo de su hotel y traslado al puerto de Bellavista Nanay.
+- Frontera de los ríos Amazonas y río Nanay **(fenómeno natural)**.
+- Navegación por el río Amazonas **(maravilla natural del mundo)**.
+- Visita al árbol gigante lupuna y mirador del Amazonas en la comunidad nativa los Kukama Independencia.
+- Fundo Pedrito **(caimán, paiche, Victoria regia amazónica)**.
+- Comunidad nativa los Yaguas **(danzas y artesanía)**.
+- Visita a la verdadera Isla de los Monos **(centro de rescate de mayor valor debido a su trabajo con primates; especies como el mono choro, titi, tocón y aullador viven aquí, interactuamos con ellos en su hábitat)**.
 - Almuerzo a bordo **(juane regional especial y bebida)**.
 - Búsqueda de delfines rosados y grises **(ocasionalmente)**.
-- Nado en el Río Amazonas **(opcional - llevar ropa de baño)**.
+- Nado en el río Amazonas **(opcional - llevar ropa de baño)**.
 - Traslado de retorno.
-- Atardecer amazónico en el Río Amazonas.
-- Llegada a Puerto Bellavista Nanay, fin del tour.
+- Atardecer amazónico en el río Amazonas.
+- Llegada a puerto Bellavista Nanay, fin del tour.
 
 ## Nuestro Servicio Incluye
 
-- Recojo del Hotel al Puerto Hotel.
-- Guía Profesional.
-- Almuerzo Típico
+- Recojo del hotel al puerto.
+- Guía profesional.
+- Almuerzo típico.
 - Entradas a los lugares a visitar.
-- Transporte Fluvial Equipado.
-- Botequín de Primeros Auxilios.
-- Atención Personalizada.
+- Transporte fluvial equipado.
+- Botiquín de primeros auxilios.
+- Atención personalizada.
 
-## Nuestro Servicio no Incluye.
+## Nuestro Servicio No Incluye
 
 - Hotel.
-- Pasajes Aéreos.
-- Alimentación
-- Entre otros no Mencionados.
+- Pasajes aéreos.
+- Alimentación.
+- Entre otros no mencionados.
 
-## Que traer con usted
+## Qué Traer con Usted
 
-- Ropa Ligera.
+- Ropa ligera.
 - Repelente.
 - Bloqueador.
-- Cámara Fotográfica.
-- Lentes de Sol.
-- Chaqueta de Lluvia.
-- Lentes de Sol.
-- Gorro o Sombrero.
-- Botiquín Personal.
+- Cámara fotográfica.
+- Lentes de sol.
+- Chaqueta de lluvia.
+- Gorro o sombrero.
+- Botiquín personal.

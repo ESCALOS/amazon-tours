@@ -35,7 +35,7 @@ pubDate: "Jul 30 2024"
 
 ---
 
-## Día 01: Lima / Iquitos / Heliconia Amazon River Lodge (L, D)
+## Día 1: Lima / Iquitos / Heliconia Amazon River Lodge (L, D)
 
 Será recibido en el aeropuerto Internacional de Iquitos, donde representantes de Iquitos Expedition, lo asistirán y trasladarán hacia nuestra oficina en Iquitos. Se le ofrecerá una inducción acerca del recorrido, nuestros servicios, lo que se debe y no debe hacer en la selva, así como algunos tips importantes. Traslado al Puerto de Iquitos, donde abordará uno de nuestros botes rápidos que lo trasladará a Heliconia Amazon River Lodge a través del Río Amazonas.
 
@@ -47,7 +47,7 @@ Por la tarde, inicie su primera excursión acompañado de nuestros experimentado
 
 Al caer la noche, en especial en la temporada de creciente de los ríos, disfrutaremos de un mágico recorrido en bote abierto a través de uno de los afluentes del Río Amazonas; sin iluminación alguna, acompañados solo de  algunos  destellos propios de la flora y fauna de la selva. Si nos encontramos con un cielo despejado, podremos apreciar el espléndido brillo de la luna, así como las estrellas y constelaciones. Con un poco de suerte podrá pedir lo que más anhela frente a la aparición de alguna estrella fugaz, las cuales son comunes en esta zona y tienden a deslumbrarnos con su brillante recorrido. Regreso al lodge, cena, pernocte.
 
-## Día 02: Heliconia Amazon River Lodge (D, A, C)
+## Día 2: Heliconia Amazon River Lodge (D, A, C)
 
 Iniciamos el día con la excursión de observación de aves, apreciando como se reúnen las diversas aves en busca de sus alimentos matutinos, iniciará muy temprano trasladándose en bote hacia una de las quebradas donde podrá apreciar la mayor variedad de  aves.  Podrá  observar  diversas  especies  como el Tuki (Jacana Jacana), Ringed Kingfisher (Ceryle-Torquata), Black- Collared Hawk (Busarellus nigricollis), entre otros. Después de retornar al lodge para el desayuno y un breve descanso, nos preparamos  para visitar la comunidad de los Yaguas donde podremos apreciar sus costumbres y tradiciones. Tendremos la oportunidad de participar en el uso de la “pucuna” instrumento principal de caza.
 
@@ -55,7 +55,7 @@ Retorno a Heliconia Lodge y almuerzo. Por la tarde; nos preparamos para ser part
 
 Por la noche, atrévase a caminar por la naturaleza dentro de los perímetros del lodge y sea testigo de la encantadora transformación de la selva a un entorno nocturno. Mientras se va adaptando en el ambiente oscuro de la selva apreciará como la naturaleza adopta un carácter diferente y observe los diversos hábitos de los animales nocturnos de la selva. Es el mejor momento para apreciar ranas, tímidas serpientes y otras criaturas que solo se trasladan durante la noche. Podremos diferenciar una gama completamente distinta de fauna frente a la que usualmente se encuentra durante el día, escuchando los mágicos sonidos de los insectos, aves, felinos y lechuzas. Después de 30 minutos de recorrido procederemos a regresar al lodge para disfrutar de la cena y descansar placenteramente.
 
-## Día 03: Heliconia Lodge (D,A,C)
+## Día 3: Heliconia Lodge (D,A,C)
 
 Después del desayuno realizaremos un corto traslado en bote hacia un lago en la Isla Yanamono, donde podremos apreciar la majestuosa Victoria Regia, la reina de los lirios acuáticos. Actualmente conocida como Victoria Amazonica, estaflor nativa de aguas poco profundas de la cuenca del Río Amazonas crecen mayormente en lagos y pantanos.
 
@@ -64,7 +64,7 @@ Probablemente logremos apreciar algunas flores color blanco en su primer día de
 Por la tarde; visita a un trapiche artesanal donde conoceremos el proceso de destilación del jugo de la caña de azúcar.
 Retorno al lodge. Cena y pernocte.
 
-## Día 04: Iquitos / Lima (D,A)
+## Día 4: Iquitos / Lima (D,A)
 
 Disfrute de un excelente desayuno antes de iniciar el tour de canotaje en el Rio Amazonas, actividad que permitirá de manera segura remar en el rio más caudaloso del mundo y hacer una inmersión por la selva inundable o por las pequeñas quebradas afluentes del rio amazonas y contemplar la riqueza natural de forma lenta y sin ruido que espante a los animales.
 
