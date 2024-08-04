@@ -1,0 +1,55 @@
+---
+import { Icon } from "astro-icon/components";
+import { Image } from "astro:assets";
+
+interface Props {
+  name: string;
+  imgPath: string;
+  route: string;
+}
+
+const { name, imgPath, route } = Astro.props;
+
+const images = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/images/tours/*.png"
+);
+if (!images[imgPath])
+  throw new Error(
+    `"${imgPath}" does not exist in glob: "/src/images/tours/*.png"`
+  );
+---
+
+<div class="w-72 rounded-md overflow-hidden border border-gray-300">
+  <Image
+    src={images[imgPath]()}
+    alt="Tours Recomendados"
+    height={320}
+    class="object-cover w-full h-56"
+    loading="lazy"
+  />
+  <div class="h-12 bg-primary-500 flex items-center justify-center gap-2">
+    <span class="inline-flex items-center gap-2 text-white text-sm font-bold">
+      <Icon name="s-clock" />
+      5 días
+    </span>
+    <span class="inline-block text-white text-lg font-extralight"> | </span>
+    <span class="inline-flex items-center gap-2 text-white text-sm font-bold">
+      <Icon name="s-clock" />
+      4 noches
+    </span>
+  </div>
+  <div
+    class="bg-white flex flex-col items-center rounded-b-lg py-4 px-2 space-y-4"
+  >
+    <h3 class="tex-2xl font-white font-bold text-center">
+      {name}
+    </h3>
+    <a href={route} class="inline-flex">
+      <span
+        class="bg-primary-500 hover:bg-secondary-500 transition-colors duration-300 py-3 px-6 text-sm font-bold text-white rounded-md"
+      >
+        Ver itinerario
+      </span>
+    </a>
+  </div>
+</div>

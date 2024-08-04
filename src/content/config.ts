@@ -9,6 +9,14 @@ const irapayAmazon = defineCollection({
       title: z.string(),
       description: z.string(),
       text: z.string(),
+      recommendedTours: z.array(
+        z.object({
+          id: z.number(),
+          name: z.string(),
+          imgPath: z.string(),
+          route: z.string(),
+        })
+      ),
       pubDate: z.coerce.date(),
     }),
 });
@@ -22,6 +30,14 @@ const heliconiaLodge = defineCollection({
       title: z.string(),
       description: z.string(),
       text: z.string(),
+      recommendedTours: z.array(
+        z.object({
+          id: z.number(),
+          name: z.string(),
+          imgPath: z.string(),
+          route: z.string(),
+        })
+      ),
       pubDate: z.coerce.date(),
     }),
 });
@@ -35,6 +51,14 @@ const cumacebaLodge = defineCollection({
       title: z.string(),
       description: z.string(),
       text: z.string(),
+      recommendedTours: z.array(
+        z.object({
+          id: z.number(),
+          name: z.string(),
+          imgPath: z.string(),
+          route: z.string(),
+        })
+      ),
       pubDate: z.coerce.date(),
     }),
 });
@@ -48,6 +72,14 @@ const pacayaSamiria = defineCollection({
       title: z.string(),
       description: z.string(),
       text: z.string(),
+      recommendedTours: z.array(
+        z.object({
+          id: z.number(),
+          name: z.string(),
+          imgPath: z.string(),
+          route: z.string(),
+        })
+      ),
       pubDate: z.coerce.date(),
     }),
 });
@@ -61,6 +93,14 @@ const dailyTours = defineCollection({
       title: z.string(),
       description: z.string(),
       text: z.string(),
+      recommendedTours: z.array(
+        z.object({
+          id: z.number(),
+          name: z.string(),
+          imgPath: z.string(),
+          route: z.string(),
+        })
+      ),
       pubDate: z.coerce.date(),
     }),
 });

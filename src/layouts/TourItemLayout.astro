@@ -1,13 +1,19 @@
 ---
 import Article from "@components/Article.astro";
+import RecommendedTourCard from "@components/RecommendedTourCard.astro";
 import { Icon } from "astro-icon/components";
-import { Image } from "astro:assets";
 import TourLayout from "src/layouts/TourLayout.astro";
-import Imagen from "src/content/dailyTours/images/tourdiario-aventuraextrema.png";
 
 const { tour, sectionName } = Astro.props;
 
 const { Content } = await tour.render();
+
+type RecommendedTour = {
+  id: number;
+  name: string;
+  imgPath: string;
+  route: string;
+};
 ---
 
 <TourLayout sectionName={sectionName}>
@@ -32,6 +38,26 @@ const { Content } = await tour.render();
         </div>
       </Article>
     </div>
-    <div class="py-8"></div>
+    <div
+      id="recommendedTours"
+      class="sticky top-24 hidden lg:block h-[860px] overflow-scroll"
+    >
+      <div class="px-4 relative top-0 py-4">
+        <h1 class="text-2xl font-bold text-gray-900 text-center">
+          También te <br /> puede interesar
+        </h1>
+        <div class="flex flex-col gap-4 py-6 justify-center items-center">
+          {
+            tour.data.recommendedTours.map((tour: RecommendedTour) => (
+              <RecommendedTourCard
+                name={tour.name}
+                imgPath={tour.imgPath}
+                route={tour.route}
+              />
+            ))
+          }
+        </div>
+      </div>
+    </div>
   </div>
 </TourLayout>

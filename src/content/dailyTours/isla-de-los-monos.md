@@ -3,22 +3,28 @@ id: 4
 title: "Isla de los Monos"
 description: "Tour por la frontera del Río Amazonas y el Río Nanay"
 text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
-heroImage: "./images/isladelosmonos.png"
-recommenddedTours:
+heroImage: "src/images/tours/isladelosmonos.png"
+recommendedTours:
   [
     {
       id: 1,
       name: "Cultura Y Aventuras En La Selva (5D/4N)",
+      duration: 5,
+      imgPath: "/src/images/tours/culturayaventurasenlaselva.png",
       route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
     },
     {
       id: 2,
-      name: "Amazonas: Selva Y Río (4D/3N)",
-      route: "/tours-heliconia-lodge/amazonas-selva-y-",
+      name: "Mariposario",
+      duration: 0,
+      imgPath: "/src/images/tours/mariposario.png",
+      route: "/tours-diarios/mariposario",
     },
     {
       id: 3,
       name: "Aventura Extrema (Puentes Colgantes)",
+      duration: 0,
+      imgPath: "/src/images/tours/aventuraextrema.png",
       route: "/tours-diarios/aventura-extrema",
     },
   ]

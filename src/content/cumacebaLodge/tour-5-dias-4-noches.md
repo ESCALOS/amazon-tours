@@ -3,22 +3,28 @@ id: 3
 title: "Cumaceba Lodge (5D/4N)"
 description: "Cumaceba Lodge 5 Días 4 Noches"
 text: "Este recorrido está diseñado para sumergirte en la riqueza y diversidad de la selva peruana, brindándote una experiencia única y enriquecedora."
-heroImage: "./images/cumaceba3.png"
-recommenddedTours:
+heroImage: "src/images/tours/cumaceba3.png"
+recommendedTours:
   [
     {
       id: 1,
       name: "Cultura Y Aventuras En La Selva (5D/4N)",
+      duration: 5,
+      imgPath: "/src/images/tours/culturayaventurasenlaselva.png",
       route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
     },
     {
       id: 2,
-      name: "Amazonas: Selva Y Río (4D/3N)",
-      route: "/tours-heliconia-lodge/amazonas-selva-y-",
+      name: "Mariposario",
+      duration: 0,
+      imgPath: "/src/images/tours/mariposario.png",
+      route: "/tours-diarios/mariposario",
     },
     {
       id: 3,
       name: "Aventura Extrema (Puentes Colgantes)",
+      duration: 0,
+      imgPath: "/src/images/tours/aventuraextrema.png",
       route: "/tours-diarios/aventura-extrema",
     },
   ]

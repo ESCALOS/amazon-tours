@@ -1,11 +1,23 @@
 :root {
-    --swiper-pagination-color: #e42c02;
-  }
+  --swiper-pagination-color: #e42c02;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-primary-500 rounded-xl;
+}
+
+#recommendedTours::-webkit-scrollbar-thumb {
+  @apply bg-secondary-500 rounded-xl;
+}
 
 .availability-label {
-  @apply block font-bold mb-2 text-gray-400
+  @apply block font-bold mb-2 text-gray-400;
 }
 
 .availability-input {
-  @apply appearance-none rounded-md px-4 py-3 border w-full bg-gray-100 text-zinc-500 outline-primary-500
+  @apply appearance-none rounded-md px-4 py-3 border w-full bg-gray-100 text-zinc-500 outline-primary-500;
 }
