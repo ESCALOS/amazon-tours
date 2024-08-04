@@ -2,7 +2,7 @@
 id: 3
 title: "Cumaceba Lodge (5D/4N)"
 description: "Cumaceba Lodge 5 Días 4 Noches"
-text: "Este recorrido está diseñado para sumergirte en la riqueza y diversidad de la selva peruana, brindándote una experiencia única y enriquecedora."
+text: "Este recorrido está diseñado para sumergirte en la riqueza y diversidad de la selva peruana, brindándote una experiencia única y memorable que te hará sentir conectado con la naturaleza."
 heroImage: "./images/cumaceba3.png"
 recommenddedTours:
   [
@@ -29,45 +29,49 @@ pubDate: "Jul 30 2024"
 
 ---
 
-## Dia 01: Iquitos / Cumaceba Kuraka Inn Lodge.
+## Día 1: Iquitos / Cumaceba Kuraka Inn Lodge
 
-Recojo en el aeropuerto o Hotel de Iquitos, después del Desayuno.
-Inicio de un Breve city tours peatonal por el centro de la ciudad conociendo la Iglesia Matriz, Casa de Hierro, Malecón, Casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote con motor fuera de borda. Navegaremos el rio Itaya por 15 minutos para luego ingresar al rio más largo y caudaloso del mundo, el Amazonas, maravilla Natural, información sobre el Amazonas, búsqueda de delfines grises y bufeos rosados. Navegaremos el Amazonas rio arriba hasta el Curaka Expeditions, al arribo bienvenida con refresco de frutas de la estación. Información general. Asignación de bungalows privados. Almuerzo. Plato típico – Juane. Por la tarde caminata por la selva conociendo flora y fauna y la biodiversidad existente en el área. Caminata nocturna por la selva escuchando la variedad de sonidos emitidos por insectos batracios, aves entre otros. Cena. Historias selváticas narradas por el guía, Noche en el Albergue.
+Recojo en el aeropuerto o hotel de Iquitos, después del desayuno.  
+Inicio de un breve city tour peatonal por el centro de la ciudad, conociendo la Iglesia Matriz, la Casa de Hierro, el Malecón y las casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote con motor fuera de borda. Navegaremos el río Itaya por 15 minutos para luego ingresar al río más largo y caudaloso del mundo, el Amazonas, maravilla natural, con información sobre el Amazonas y búsqueda de delfines grises y bufeos rosados. Navegaremos el Amazonas río arriba hasta el Curaka Expeditions. Al arribo, bienvenida con refresco de frutas de la estación. Información general y asignación de bungalows privados. **Almuerzo:** plato típico – Juane. Por la tarde, caminata por la selva, conociendo la flora y fauna y la biodiversidad existente en el área. Caminata nocturna por la selva, escuchando la variedad de sonidos emitidos por insectos, batracios y aves, entre otros. **Cena:** historias selváticas narradas por el guía. Noche en el albergue.
 
-## Día 02: Curaka Expeditions – Anaconda – Oso Perezoso
+## Día 2: Curaka Expeditions – Anaconda – Oso Perezoso
 
-Avistaje de aves en su hábitat caminando o en canoa. Desayuno. Excursión para visitar a morador ribereño donde apreciaremos boas constrictoras no venenosas, oso perezoso, tortugas entre otros. Conoceremos también la manera de extraer el jugo de la caña de azúcar de manera artesanal, degustación del jugo y sus derivados como el ron de cana, melaza. Retorno a Curaka Expeditions. Almuerzo plato típico – Patarashca. Por la tarde visita a pueblo de la ribera ‘’GALLITO’’ para conocer parte de sus actividades diarias. Vista excepcional del atardecer sobre el Amazonas. Cena. Noche en el complejo.
+Avistamiento de aves en su hábitat, caminando o en canoa. **Desayuno.** Excursión para visitar a un morador ribereño, donde apreciaremos boas constrictoras no venenosas, osos perezosos y tortugas, entre otros. Conoceremos también la manera de extraer el jugo de la caña de azúcar de manera artesanal, con degustación del jugo y sus derivados, como el ron de caña y la melaza. Retorno a Curaka Expeditions. **Almuerzo:** plato típico – Patarashca. Por la tarde, visita al pueblo de la ribera “GALLITO” para conocer parte de sus actividades diarias. Vista excepcional del atardecer sobre el Amazonas. **Cena.** Noche en el complejo.
 
-## Día 03: Curaka Expeditions – Visita a Nativos
+## Día 3: Curaka Expeditions – Visita a Nativos
 
-Desayuno. Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros. Observación de la Victoria Regia, planta acuática más grande del mundo. Retorno al Lodge, almuerzo plato típico Pescado Dorado. Retorno a la ciudad, visita a comunidad nativa Bora Bora, conoceremos sus costumbres, dialecto, vestimenta, danzas típicas, se recomienda traer algunos objetos para intercambiar con las artesanías que son hechas a mano. Arribo a Iquitos y traslado al hotel Cauchero o Similiar.
+**Desayuno.** Pesca a orillas del río Amazonas: pez gato, pirañas, entre otros. Observación de la Victoria Regia, la planta acuática más grande del mundo. Retorno al lodge y **almuerzo:** plato típico, pescado dorado. 
 
-## Dia 04: Tour Isla de los Monos.
+Retorno a la ciudad y visita a la comunidad nativa Bora Bora, donde conoceremos sus costumbres, dialecto, vestimenta y danzas típicas. Se recomienda traer algunos objetos para intercambiar con las artesanías que son hechas a mano. Arribo a Iquitos y traslado al hotel Cauchero o similar.
 
-Desayuno en Hotel
-Inicio a nuestra aventura a las 9:00 Am. Navegando en bote típico y observando el primer atractivo natural, la unión de los ríos Nanay y Amazonas. Continuamos el viaje por el “Rio Amazonas”, hasta llegar a la “ISLA DE LOS MONOS” donde observaremos variedades de primates libres en su habitad, hora indicada almuerzo en Restaurante Flotante a base de pescado, ensalada de chonta, frutas de la selva, refresco. Al retorno visitaremos la comunidad de nativos Yagua para conocer su historia y costumbres. No podía faltar la gran experiencia de conocer animales de la selva, visitaremos el centro de rescate Fundo Pedrito, toma fotográfica a la impresionante Anaconda. Ya retornando por el río podremos apreciar el hermoso Atardecer Amazónico sobre el Rio Amazonas (postales de lujo). Retorno a Iquitos Ciudad.
+## Día 4: Tour Isla de los Monos
 
-## Día 05: Iquitos – Tour a Quistococha y Manaties
+**Desayuno** en el hotel.  
+Inicio de nuestra aventura a las 9:00 a.m. Navegando en bote típico y observando el primer atractivo natural: la unión de los ríos Nanay y Amazonas. Continuamos el viaje por el río Amazonas hasta llegar a la “ISLA DE LOS MONOS”, donde observaremos variedades de primates libres en su hábitat. A la hora indicada, **almuerzo** en el restaurante flotante a base de pescado, ensalada de chonta, frutas de la selva y refresco. 
 
-Desayuno en el hotel 09:30 recojo del hotel para trasladarlo al Proyecto de Conservación de Manatíes y apreciar a estos tiernos mamíferos de rio, toma fotográfica. Aprox 40 min. Continuamos la visita al Parque Zoológico de Quistococha, observación de diversos animales y disfrutar de su encantadora playa. Duración aprox 2:00 hrs. Retorno a la ciudad, actividades personales como compras y paseos. Hora indicada traslado al apto.
+Al retorno, visitaremos la comunidad de nativos Yagua para conocer su historia y costumbres. No podía faltar la gran experiencia de conocer animales de la selva; visitaremos el centro de rescate Fundo Pedrito y tomaremos fotografías a la impresionante anaconda. Al regresar por el río, podremos apreciar el hermoso atardecer amazónico sobre el río Amazonas (postales de lujo). Retorno a la ciudad de Iquitos.
+
+## Día 5: Iquitos – Tour a Quistococha y Manatíes
+
+**Desayuno** en el hotel. A las 09:30, recojo del hotel para trasladarlos al proyecto de conservación de manatíes y apreciar a estos tiernos mamíferos de río (toma fotográfica). Aproximadamente 40 minutos. Continuamos la visita al Parque Zoológico de Quistococha, con observación de diversos animales y disfrutando de su encantadora playa. Duración aproximada: 2:00 hrs. Retorno a la ciudad para actividades personales como compras y paseos. A la hora indicada, traslado al aeropuerto.
 
 ### Fin de nuestra Experiencia.
 
 ---
 
-### Nuestro Servicio Incluye.
+### Nuestro Servicio Incluye
 
-- Recojo del Aeropuerto Lodge Aeropuerto.
-- Hotel 4 Noches / 2 En Cumaceba Kuraka Inn / 2 en la ciudad.
+- Recojo del aeropuerto y traslado al lodge.
+- Hotel: 4 noches (2 en Cumaceba Kuraka Inn y 2 en la ciudad).
 - Desayunos.
-- Guía Profesional.
-- Transporte Fluvial privado.
-- Alimentación completa en el Lodge.
-- Botas de Jebe.
-- Botiquín de Primeros Auxilios.
-- Atención Personalizada de Iquitos Expedition.
+- Guía profesional.
+- Transporte fluvial privado.
+- Alimentación completa en el lodge.
+- Botas de jebe.
+- Botiquín de primeros auxilios.
+- Atención personalizada de Iquitos Expedition.
 
-### Nuestro Servicio no Incluye.
+### Nuestro Servicio No Incluye
 
 - Vuelos.
 - Cenas en la ciudad.
@@ -75,16 +79,16 @@ Desayuno en el hotel 09:30 recojo del hotel para trasladarlo al Proyecto de Cons
 - Hotel en la ciudad.
 - Entre otros no mencionados.
 
-### Que Traer con Usted.
+### Qué Traer con Usted
 
-- Ropa Ligera.
-- Chaqueta de Lluvia.
+- Ropa ligera.
+- Chaqueta de lluvia.
 - Repelente.
-- Bloqueador Solar.
-- Camisa Mangalarga
+- Bloqueador solar.
+- Camisa mangalarga.
 - Ropa de baño.
-- Sobrero o Gorra.
+- Sombrero o gorra.
 - Cámara fotográfica.
-- Lentes de Sol.
-- Caña de Pescar. (Opcional)
-- Buen Ánimo.
+- Lentes de sol.
+- Caña de pescar (opcional).
+- Buen ánimo.

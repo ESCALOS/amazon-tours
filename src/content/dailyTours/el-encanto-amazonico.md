@@ -2,7 +2,7 @@
 id: 3
 title: "El Encanto Amazónico"
 description: "Tour por Iquitos, Río Nanay, Río Momón, Acuario de Peces"
-text: "Escápate a Iquitos y descubre un paraíso escondido donde la naturaleza, la comodidad y la aventura se encuentran."
+text: "Sumérgete en la fascinante biodiversidad de la selva, donde cada rincón revela maravillas naturales y encuentros inolvidables con la fauna local."
 heroImage: "./images/encantoamazonico.png"
 recommenddedTours:
   [
@@ -29,40 +29,39 @@ pubDate: "Jul 30 2024"
 
 ---
 
-- Recojo de su hotel, traslado al puerto de Bellavista Nanay **(tour gastronómico express: tacacho, suri, pescados y caimán a la parrilla)**
-- Viaje por el Río Nanay **(importante río de aguas oscuras)**
-- Navegación Río Momón **(río mediano de aguas marrones)**
-- Trapiche del Momón **(Centro de tragos afrodisiacos y medicina tradicional)**
-- Serpentario Javier **(Santuario de animales: Observación de oso perezoso, anaconda, etc.)**
-- Acuario de peces ornamentales, experiencia exótica anguila eléctrica
-- Comunidad Nativa Bora** (danzas típicas, artesanía)**
-- Mirador Amazolandia **(spots para fotos)**
-- Traslado de retorno a la ciudad de Iquitos
+- Recojo de su hotel y traslado al puerto de Bellavista Nanay **(tour gastronómico exprés: tacacho, suri, pescados y caimán a la parrilla)**.
+- Viaje por el río Nanay **(importante río de aguas oscuras)**.
+- Navegación por el río Momón **(río mediano de aguas marrones)**.
+- Trapiche del Momón **(centro de tragos afrodisíacos y medicina tradicional)**.
+- Serpentario Javier **(santuario de animales: observación de oso perezoso, anaconda, etc.)**.
+- Acuario de peces ornamentales, experiencia exótica con anguila eléctrica.
+- Comunidad nativa Bora **(danzas típicas, artesanía)**.
+- Mirador Amazolandia **(spots para fotos)**.
+- Traslado de retorno a la ciudad de Iquitos.
 
 ## Nuestro Servicio Incluye
 
-- Recojo del Hotel al Puerto Hotel.
-- Guía Profesional.
+- Recojo del hotel al puerto.
+- Guía profesional.
 - Entradas a los lugares a visitar.
-- Transporte Fluvial Equipado.
-- Botiquín de Primeros Auxilios.
-- Atención Personalizada.
+- Transporte fluvial equipado.
+- Botiquín de primeros auxilios.
+- Atención personalizada.
 
-## Nuestro Servicio no Incluye.
+## Nuestro Servicio No Incluye
 
 - Hotel.
-- Pasajes Aéreos.
-- Alimentación
-- Entre otros no Mencionados.
+- Pasajes aéreos.
+- Alimentación.
+- Entre otros no mencionados.
 
-## Que traer con usted
+## Qué Traer con Usted
 
-- Ropa Ligera.
+- Ropa ligera.
 - Repelente.
 - Bloqueador.
-- Cámara Fotográfica.
-- Lentes de Sol.
-- Chaqueta de Lluvia.
-- Lentes de Sol.
-- Gorro o Sombrero.
-- Botiquín Personal.
+- Cámara fotográfica.
+- Lentes de sol.
+- Chaqueta de lluvia.
+- Gorro o sombrero.
+- Botiquín personal.

@@ -29,7 +29,7 @@ pubDate: "Jul 30 2024"
 
 ---
 
-## Día 01: Lima / Iquitos / Heliconia Amazon River Lodge (A, C)
+## Día 1: Lima / Iquitos / Heliconia Amazon River Lodge (A, C)
 
 Será recibido y bienvenido en el área de equipajes del aeropuerto Internacional de Iquitos, donde representantes de Iquitos Expedition, lo asistirán y trasladarán hacia nuestra oficina en Iquitos. Se le ofrecerá una pequeña inducción acerca del recorrido, nuestros servicios, lo que se debe y no debe hacer en la selva, así como algunos tips importantes. Después de una corta espera, será trasladado al Puerto de Iquitos donde será embarcado en uno de nuestros botes rápidos que lo trasladará al Heliconia Amazon River Lodge a través del Rio Amazonas.
 
@@ -42,7 +42,7 @@ Por la tarde, inicie su primera excursión acompañado de nuestros experimentado
 
 Partiremos de regreso al lodge para disfrutar de algunas horas de descanso y relax, y asimismo ser cautivado por su primer sunset en el Amazonas. Al caer la noche, en especial en la temporada de creciente de los ríos, disfrutaremos de un mágico recorrido en bote abierto a través de uno de los afluentes del Rio Amazonas, sin iluminación alguna, acompañados solo de algunos destellos propios de la flora y fauna de la selva. Si nos encontramos con un cielo despejado, podremos apreciar el espléndido brillo de la luna, así como las estrellas y constelaciones. Con un poco de suerte podrá pedir lo que más anhela frente a la aparición de alguna estrella fugaz, las cuales son comunes en esta zona y tienden a deslumbrarnos con su brillante recorrido. De regreso al lodge para la cena y asimismo descansar y recuperar energías para la mañana siguiente iniciar actividades desde el amanecer.
 
-## Día 02: Heliconia Amazon River Lodge (D, A, C)
+## Día 2: Heliconia Amazon River Lodge (D, A, C)
 
 Iniciamos el día con la excursión de observación de aves, apreciando como se reúnen las diversas aves en busca de sus alimentos matutinos, iniciará muy temprano trasladándose en bote hacia uno de las quebradas donde podrá apreciar la mayor variedad de aves. Podrá observar diversas especies como el Tuki(Jacana Jacana),RingedKingfisher(Ceryle-Torquata), Black-CollaredHawk(Busarellusnigricollis), entre otros.
 
@@ -50,15 +50,15 @@ Después de retornar al lodge para unenergizante desayuno y un breve descanso, n
 
 Por la noche, atrévase a caminar por la naturaleza dentro de los perímetros del lodge y sea testigo de la encantadora transformación de la selva a un entorno nocturno. Mientras se va adaptando en el ambiente oscuro de la selva apreciará como la naturaleza adopta un carácter diferente y observe los diversos hábitos de los animales nocturnos de la selva. Es el mejor momento para apreciar ranas, tímidas serpientes y otras criaturas que solo se trasladan durante la noche. Podremos diferenciar una gama completamente distinta de fauna frente a la que usualmente se encuentra durante el día, escuchando los mágicos sonidos de los insectos, aves, felinos y lechuzas. Después de 30 minutos de recorrido procederemos a regresar al lodge para disfrutar de la cena y descansar placenteramente.
 
-## Día 03: Heliconia Amazon River Lodge / Mazan / Sucusari (D, A, C)
+## Día 3: Heliconia Amazon River Lodge / Mazan / Sucusari (D, A, C)
 
 Desayuno en Heliconia Amazon River Lodge. A hora indicada, un bote nos conducirá hacia el Puerto de Mazan, donde por un camino de tierra cubriremos la distancia más corta entre los Ríos Amazonas y Napo que nos llevará a la reserva de Sucusari donde está ubicado Explornapo Lodge. Almuerzo. Luego de un breve descanso, Tarde de caminata en Selva primaria, tierra firme y selva inundable que incluye visita al jardín de plantas medicinales Renu-Peru. Excursión nocturna en bote abierto por la quebrada Sucusari. Cena a la luz de lámparas de kerosene. Pernocte en el Lodge.
 
-## Día 04: Canopy Walkway (D, A, C)
+## Día 4: Canopy Walkway (D, A, C)
 
 Muy temprano, observación de aves. Desayuno. Luego caminata en el “Canopy Walkway”, un puente de 500 metros de longitud, conectado por 17 plataformas entre las copas de los árboles y que alcanza una altitud de más de 37 metros sobre el nivel del suelo. Desde el puente observaremos la selva raramente vista o conocida por el hombre. Almuerzo. Luego de un breve reposo, excursión en bote o a pie en busca de especies animales. Cena y pernocte en el Lodge.
 
-## Día 05: Iquitos/ Lima (D, A)
+## Día 5: Iquitos/ Lima (D, A)
 
 Muy temprano, luego de desayunar, visitaremos una aldea nativa, en la cual conoceremos las costumbres y tradiciones de la gente de la Amazonía. Almuerzo (Si el vuelo lo permite). Retorno a Iquitos y traslado al Aeropuerto.
 

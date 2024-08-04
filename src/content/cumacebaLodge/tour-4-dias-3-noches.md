@@ -29,38 +29,60 @@ pubDate: "Jul 30 2024"
 
 ---
 
-## Día 01: Traslado del aeropuerto u hotel.
+## Día 1: Traslado del Aeropuerto u Hotel
 
-Traslado del aeropuerto u hotel. Caminata por el centro de la ciudad conociendo la iglesia matriz, casa de hierro, malecón Maldonado, casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote motor fuera de borda. Navegaremos el rio Itaya por 15 minutos para luego ingresar al rio más largo y caudaloso del mundo, el Amazonas, información sobre el Amazonas, búsqueda de delfines grises y de bufeos rosados. Navegaremos el Amazonas hasta el Curaka Expeditions, recepción con refresco de frutas de la estación. Información general. Asignación de bungalows privados. Almuerzo típico Juane. Por la tarde caminata por la selva conociendo flora y fauna y la biodiversidad del área. Caminata nocturna por la selva escuchando la variedad de sonidos emitidos por insectos batracios, aves entre otros, excursión en canoa, según la estación. Cena. Historias selváticas narradas por el guía . Noche en el albergue.
+Traslado del aeropuerto u hotel. Caminata por el centro de la ciudad, conociendo la iglesia matriz, la casa de hierro, el malecón Maldonado y las casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote motor fuera de borda. 
 
-## Día 02: Avistaje de aves en su hábitat caminando o en canoa.
+Navegaremos el río Itaya durante 15 minutos para luego ingresar al río más largo y caudaloso del mundo, el Amazonas. Se proporcionará información sobre el Amazonas y buscaremos delfines grises y bufeos rosados. Navegaremos por el Amazonas hasta el Curaka Expeditions, donde seremos recibidos con un refresco de frutas de la estación. Se brindará información general y se realizará la asignación de bungalows privados.
 
-Avistaje de aves en su hábitat caminando o en canoa. Desayuno. Excursión para visitar a morador ribereño donde apreciaremos boas constrictoras no venenosas, oso perezoso, tortugas entre otros. Conoceremos también la manera de extraer el jugo de la caña de azúcar de manera artesanal, degustación del jugo y sus derivados como el ron de caña, melaza. Retorno al albergue. Almuerzo típico pescado. Por la tarde visita a pueblo de la ribera ”GALLITO” para conocer parte de sus actividades diarias. Según las condiciones climatológicas observaremos una maravillosa puesta del sol. Cena. Noche en el albergue.
+**Almuerzo:** plato típico Juane. Por la tarde, caminata por la selva, conociendo la flora, fauna y la biodiversidad del área. 
 
-## Día 03: Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros.
+Caminata nocturna por la selva, escuchando la variedad de sonidos emitidos por insectos, batracios, aves, entre otros, y excursión en canoa, según la estación. 
 
-Desayuno. Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros. Observación de la Victoria Regia, planta acuática más grande del mundo. Retorno al albergue y almuerzo típico Patarashca.Momento de relax en el área de hamacas y/o piscina. Por la tarde, recorremos el contorno del área, conociendo plantas y árboles cuyos frutos son aprovechados por los rivereños, con poder medicinal, apreciaremos el histórico árbol del Caucho o Balata, Cedro, y la voluptuosa Lupuna. Cena. Noche en el albergue.
+**Cena:** historias selváticas narradas por el guía. Noche en el albergue.
 
-## Día 04: Excursión en canoa a orillas del Amazonas observado aves, iguanas.
+## Día 2: Avistaje de Aves en su Hábitat, Caminando o en Canoa
 
-Desayuno. Excursión en canoa a orillas del Amazonas observado aves, iguanas etc. Momento libre para leer o simplemente descansar en nuestra apacible casa de Hamacas. Tiempo especial para tomar vistas fotográficas. Hora oportuna almuerzo típico – Cecina con Tacacho y partida con destino a Iquitos, en el trayecto visitaremos la comunidad nativa Bora Bora, costumbres, dialecto, vestimenta, danzas típicas, se recomienda llevar objetos para intercambiar con las artesanías hechas a mano. Arribo a la ciudad de Iquitos. Traslado al aeropuerto u hotel. Fin de los servicios.
+Avistaje de aves en su hábitat, caminando o en canoa. **Desayuno.** Excursión para visitar a un morador ribereño, donde apreciaremos boas constrictoras no venenosas, osos perezosos y tortugas, entre otros. 
+
+También conoceremos la manera de extraer el jugo de la caña de azúcar de forma artesanal, con degustación del jugo y sus derivados, como el ron de caña y la melaza. 
+
+Retorno al albergue. **Almuerzo:** plato típico de pescado. Por la tarde, visita al pueblo de la ribera “**GALLITO**” para conocer parte de sus actividades diarias. Según las condiciones climatológicas, observaremos una maravillosa puesta de sol. 
+
+**Cena.** Noche en el albergue.
+
+## Día 3: Pesca a Orillas del Río Amazonas: Pez Gato y Pirañas, entre Otros
+
+**Desayuno.** Pesca a orillas del río Amazonas: pez gato, pirañas, entre otros. Observación de la Victoria Regia, la planta acuática más grande del mundo. Retorno al albergue y almuerzo típico de Patarashca. Momento de relax en el área de hamacas y/o piscina.
+
+Por la tarde, recorreremos el contorno del área, conociendo plantas y árboles cuyos frutos son aprovechados por los ribereños por sus propiedades medicinales. Apreciamos el histórico árbol del caucho o balata, el cedro y la voluptuosa lupuna.
+
+**Cena.** Noche en el albergue.
+
+## Día 4: Excursión en Canoa a Orillas del Amazonas, Observando Aves e Iguanas
+
+**Desayuno.** Excursión en canoa a orillas del Amazonas, observando aves, iguanas, etc. Momento libre para leer o simplemente descansar en nuestra apacible casa de hamacas. Tiempo especial para tomar fotografías.
+
+Hora oportuna para el almuerzo típico: cecina con tacacho, y partida con destino a Iquitos. En el trayecto, visitaremos la comunidad nativa Bora Bora, donde conoceremos sus costumbres, dialecto, vestimenta y danzas típicas. Se recomienda llevar objetos para intercambiar con las artesanías hechas a mano.
+
+Arribo a la ciudad de Iquitos. Traslado al aeropuerto u hotel. Fin de los servicios.
 
 ### Fin de Nuestra Experiencia.
 
 ---
 
-### Nuestro Servicio Incluye.
+### Nuestro Servicio Incluye:
 
-- Recojo del Aeropuerto Lodge Aeropuerto.
-- Hotel 3 Noches En Cumaceba Kuraka Inn.
-- Guía Profesional.
-- Transporte Fluvial privado.
-- Alimentación completa en el Lodge.
-- Botas de Jebe.
-- Botiquín de Primeros Auxilios.
-- Atención Personalizada Iquitos Expedition.
+- Recojo del Aeropuerto al Lodge.
+- Hotel: 3 noches en Cumaceba Kuraka Inn.
+- Guía profesional.
+- Transporte fluvial privado.
+- Alimentación completa en el lodge.
+- Botas de jebe.
+- Botiquín de primeros auxilios.
+- Atención personalizada de Iquitos Expedition.
 
-### Nuestro Servicio no Incluye.
+### Nuestro Servicio No Incluye:
 
 - Vuelos.
 - Cenas en la ciudad.
@@ -68,16 +90,16 @@ Desayuno. Excursión en canoa a orillas del Amazonas observado aves, iguanas etc
 - Hotel en la ciudad.
 - Entre otros no mencionados.
 
-### Que Traer con Usted.
+### Qué Traer con Usted:
 
-- Ropa Ligera.
-- Chaqueta de Lluvia.
+- Ropa ligera.
+- Chaqueta de lluvia.
 - Repelente.
-- Bloqueador Solar.
-- Camisa Mangalarga
+- Bloqueador solar.
+- Camisa de manga larga.
 - Ropa de baño.
-- Sobrero o Gorra.
+- Sombrero o gorra.
 - Cámara fotográfica.
-- Lentes de Sol.
-- Caña de Pescar. (Opcional)
-- Buen Ánimo.
+- Lentes de sol.
+- Caña de pescar (opcional).
+- Buen ánimo.
