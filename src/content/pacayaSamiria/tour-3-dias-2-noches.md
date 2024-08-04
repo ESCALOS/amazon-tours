@@ -8,24 +8,24 @@ recommendedTours:
   [
     {
       id: 1,
-      name: "Cultura Y Aventuras En La Selva (5D/4N)",
-      duration: 5,
-      imgPath: "/src/images/tours/culturayaventurasenlaselva.png",
-      route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
+      name: "Cumaceba Lodge (3D/2N)",
+      duration: 3,
+      imgPath: "/src/images/tours/cumaceba1.png",
+      route: "/tours-cumaceba-lodge/tour-3-dias-2-noches",
     },
     {
       id: 2,
-      name: "Mariposario",
-      duration: 0,
-      imgPath: "/src/images/tours/mariposario.png",
-      route: "/tours-diarios/mariposario",
+      name: "Inolvidable Río Amazonas (3D/2N)",
+      duration: 3,
+      imgPath: "/src/images/tours/inolvidablerioamazonas.png",
+      route: "/tours-heliconia-lodge/inolvidable-rio-amazonas-3-dias-2-noches",
     },
     {
       id: 3,
-      name: "Aventura Extrema (Puentes Colgantes)",
-      duration: 0,
-      imgPath: "/src/images/tours/aventuraextrema.png",
-      route: "/tours-diarios/aventura-extrema",
+      name: "Iquitos Relax (3D/2N)",
+      duration: 3,
+      imgPath: "/src/images/tours/iquitosrelax.png",
+      route: "/tours-irapay-amazon/iquitos-relax-3-dias-2-noches",
     },
   ]
 pubDate: "Jul 30 2024"

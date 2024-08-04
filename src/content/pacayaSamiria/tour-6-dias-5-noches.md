@@ -8,24 +8,24 @@ recommendedTours:
   [
     {
       id: 1,
+      name: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto",
+      duration: 8,
+      imgPath: "/src/images/tours/pacayasamiria5.png",
+      route: "/tours-pacaya-samiria/tour-8-dias-7-noches",
+    },
+    {
+      id: 2,
+      name: "Iquitos de Aventura (5D/4N)",
+      duration: 5,
+      imgPath: "/src/images/tours/iquitosdeaventura.png",
+      route: "/tours-irapay-amazon/iquitos-de-aventura-5-dias-4-noches",
+    },
+    {
+      id: 3,
       name: "Cultura Y Aventuras En La Selva (5D/4N)",
       duration: 5,
       imgPath: "/src/images/tours/culturayaventurasenlaselva.png",
       route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
-    },
-    {
-      id: 2,
-      name: "Mariposario",
-      duration: 0,
-      imgPath: "/src/images/tours/mariposario.png",
-      route: "/tours-diarios/mariposario",
-    },
-    {
-      id: 3,
-      name: "Aventura Extrema (Puentes Colgantes)",
-      duration: 0,
-      imgPath: "/src/images/tours/aventuraextrema.png",
-      route: "/tours-diarios/aventura-extrema",
     },
   ]
 pubDate: "Jul 30 2024"
