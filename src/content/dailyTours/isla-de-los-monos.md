@@ -8,10 +8,10 @@ recommendedTours:
   [
     {
       id: 1,
-      name: "Cultura Y Aventuras En La Selva (5D/4N)",
-      duration: 5,
-      imgPath: "/src/images/tours/culturayaventurasenlaselva.png",
-      route: "/tours-heliconia-lodge/cultura-y-aventuras-en-la-selva-5-dias-4-noches",
+      name: "CREA y Quiticocha",
+      duration: 0,
+      imgPath: "/src/images/tours/quiticocha.png",
+      route: "/tours-diarios/crea-y-quiticocha",
     },
     {
       id: 2,

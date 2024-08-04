@@ -8,17 +8,17 @@ recommendedTours:
   [
     {
       id: 1,
+      name: "Isla de los Monos",
+      duration: 5,
+      imgPath: "/src/images/tours/isladelosmonos.png",
+      route: "/tours-diarios/isla-de-los-monos",
+    },
+    {
+      id: 2,
       name: "Mariposario",
       duration: 0,
       imgPath: "/src/images/tours/mariposario.png",
       route: "/tours-diarios/mariposario",
-    },
-    {
-      id: 3,
-      name: "Aventura Extrema (Puentes Colgantes)",
-      duration: 0,
-      imgPath: "/src/images/tours/aventuraextrema.png",
-      route: "/tours-diarios/aventura-extrema",
     },
     {
       id: 3,
