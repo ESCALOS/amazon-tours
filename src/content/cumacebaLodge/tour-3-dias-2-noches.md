@@ -4,7 +4,7 @@ title: "Cumaceba Lodge (3D/2N)"
 description: "Cumaceba Lodge 3 Días 2 Noches"
 text: "Disfruta de una escapada de tres días en el Cumaceba Lodge, donde la naturaleza, la comodidad y la aventura se fusionan en un entorno espectacular, lleno de experiencias inolvidables y momentos únicos."
 heroImage: "src/images/tours/cumaceba1.png"
-recommenddedTours:
+recommendedTours:
   [
     {
       id: 1,
