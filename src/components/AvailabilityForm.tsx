@@ -26,7 +26,7 @@ export default function AvailabilityForm() {
         const checkoutFormatted = formatDate(checkout);
         const url = getURLToSendMessageToWhatsapp({
             whatsappNumber: `51${import.meta.env.PUBLIC_PHONE_NUMBER}`,
-            message: `Hola, mi nombre es *${name}*. Estoy interesado en el programa *${program}* y me gustaría participar en la actividad *${activity}*. Mi fecha de ingreso sería el *${checkinFormatted}* y la fecha de salida el *${checkoutFormatted}*. ¿Podrías proporcionarme más información?`
+            message: `Hola, mi nombre es *${name.trim()}*. Estoy interesado en el programa *${program}* y me gustaría participar en la actividad *${activity}*. Mi fecha de ingreso sería el *${checkinFormatted}* y la fecha de salida el *${checkoutFormatted}*. ¿Podrías proporcionarme más información?`
         })
         window.open(url, '_blank')
     }
@@ -79,7 +79,7 @@ export default function AvailabilityForm() {
                     </label>
                     <select
                         id="program"
-                        className="availability-input"
+                        className="appearance-none availability-input"
                         {...register("program", { required: "El programa es requerido" })}
                     >
                         <option value="">Selecciona un programa</option>
@@ -115,7 +115,7 @@ export default function AvailabilityForm() {
                     </label>
                     <select
                         id="activity"
-                        className="availability-input relative"
+                        className="appearance-none availability-input relative"
                         {...register("activity", {
                             required: "La actividad es requerida",
                         })}
