@@ -14,10 +14,12 @@ export const getStaticPaths = (async () => {
 }) satisfies GetStaticPaths;
 
 const tour = Astro.props;
+
+const image = {
+  path: "/src/images/breadcrumb/bg-heliconia.png",
+  alt: "Iquitos Expedition - Tours Heliconia Lodge",
+  style: "object-position: 50% 28%",
+};
 ---
 
-<TourItemLayout
-  imageBreadcrumb="bg-heliconia"
-  sectionName="Heliconia Lodge"
-  tour={tour}
-/>
+<TourItemLayout image={image} sectionName="Heliconia Lodge" tour={tour} />

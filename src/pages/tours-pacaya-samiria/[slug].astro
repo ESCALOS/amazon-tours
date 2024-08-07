@@ -14,10 +14,16 @@ export const getStaticPaths = (async () => {
 }) satisfies GetStaticPaths;
 
 const tour = Astro.props;
+
+const image = {
+  path: "/src/images/breadcrumb/bg-pacayasamiria.png",
+  alt: "Iquitos Expedition - Tours Pacaya Samiria",
+  style: "object-position: 50% 28%",
+};
 ---
 
 <TourItemLayout
-  imageBreadcrumb="bg-pacayasamiria"
+  image={image}
   sectionName="Pacaya Samiria"
   tour={tour}
   recommendedTours={tour.data.recommendedTours}

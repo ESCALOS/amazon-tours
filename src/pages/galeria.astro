@@ -48,12 +48,14 @@ const imagePaths = [
 ];
 
 const optimizedImages = await optimizeImages(imagePaths, 831, 552, "webp");
+const image = {
+  path: "/src/images/breadcrumb/bg-galeria.png",
+  alt: "Iquitos Expedition - Tours Amazonas",
+  style: "object-position: 50% 28%",
+};
 ---
 
 <Layout>
-  <Breadcrumb
-    imagePath="/src/images/breadcrumb/bg-galeria.png"
-    title="Galería"
-  />
+  <Breadcrumb image={image} title="Galería" />
   <GalleryRoom images={optimizedImages} client:visible />
 </Layout>

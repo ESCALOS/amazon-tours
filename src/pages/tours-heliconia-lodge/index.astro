@@ -1,9 +1,15 @@
 ---
 import TourListLayout from "src/layouts/TourListLayout.astro";
+
+const image = {
+  path: "/src/images/breadcrumb/bg-heliconia.png",
+  alt: "Iquitos Expedition - Tours Heliconia Lodge",
+  style: "object-position: 50% 28%",
+};
 ---
 
 <TourListLayout
-  imageBreadcrumb="bg-heliconia"
+  image={image}
   rootPath="tours-heliconia-lodge"
   sectionName="Heliconia Lodge"
   collectionName="heliconiaLodge"

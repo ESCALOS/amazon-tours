@@ -3,18 +3,19 @@ import Breadcrumb from "@components/Breadcrumb.astro";
 import Layout from "src/layouts/Layout.astro";
 
 interface Props {
-  imageBreadcrumb: string;
+  image: {
+    path: string;
+    alt: string;
+    style: string;
+  };
   sectionName: string;
 }
 
-const { sectionName, imageBreadcrumb } = Astro.props;
+const { sectionName, image } = Astro.props;
 ---
 
 <Layout>
-  <Breadcrumb
-    imagePath=`/src/images/breadcrumb/${imageBreadcrumb}.png`
-    title={sectionName}
-  />
+  <Breadcrumb image={image} title={sectionName} />
   <section class="bg-white my-12">
     <div class="max-w-7xl mx-auto px-6 space-y-6">
       <slot />

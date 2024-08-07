@@ -1,9 +1,15 @@
 ---
 import TourListLayout from "src/layouts/TourListLayout.astro";
+
+const image = {
+  path: "/src/images/breadcrumb/bg-tourdiario.png",
+  alt: "Iquitos Expedition - Tours diarios Iquitos - Amazonas",
+  style: "object-position: 50% 28%",
+};
 ---
 
 <TourListLayout
-  imageBreadcrumb="bg-tourdiario"
+  image={image}
   rootPath="tours-diarios"
   sectionName="Tours diarios"
   collectionName="dailyTours"

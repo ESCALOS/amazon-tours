@@ -1,9 +1,15 @@
 ---
 import TourListLayout from "src/layouts/TourListLayout.astro";
+
+const image = {
+  path: "/src/images/breadcrumb/bg-cumaceba.png",
+  alt: "Iquitos Expedition - Tours Cumaceba Lodge - Iquitos - Amazonas",
+  style: "object-position: 50% 28%",
+};
 ---
 
 <TourListLayout
-  imageBreadcrumb="bg-cumaceba"
+  image={image}
   rootPath="tours-cumaceba-lodge"
   sectionName="Cumaceba Lodge"
   collectionName="cumacebaLodge"

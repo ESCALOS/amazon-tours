@@ -2,12 +2,15 @@
 import About from "@components/About.astro";
 import Breadcrumb from "@components/Breadcrumb.astro";
 import Layout from "src/layouts/Layout.astro";
+
+const image = {
+  path: "/src/images/breadcrumb/bg-nosotros.png",
+  alt: "Iquitos Expedition - Tours Amazonas",
+  style: "",
+};
 ---
 
 <Layout>
-  <Breadcrumb
-    imagePath="/src/images/breadcrumb/bg-nosotros.png"
-    title="Nosotros"
-  />
+  <Breadcrumb image={image} title="Nosotros" />
   <About />
 </Layout>

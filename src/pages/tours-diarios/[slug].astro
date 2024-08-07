@@ -14,10 +14,12 @@ export const getStaticPaths = (async () => {
 }) satisfies GetStaticPaths;
 
 const tour = Astro.props;
+
+const image = {
+  path: "/src/images/breadcrumb/bg-tourdiario.png",
+  alt: "Iquitos Expedition - Tours diarios Iquitos - Amazonas",
+  style: "object-position: 50% 28%",
+};
 ---
 
-<TourItemLayout
-  imageBreadcrumb="bg-tourdiario"
-  sectionName="Tours diarios"
-  tour={tour}
-/>
+<TourItemLayout image={image} sectionName="Tours diarios" tour={tour} />

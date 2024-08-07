@@ -8,17 +8,21 @@ interface Props {
   rootPath: string;
   sectionName: string;
   collectionName: CollectionName;
-  imageBreadcrumb: string;
+  image: {
+    path: string;
+    alt: string;
+    style: string;
+  };
 }
 
-const { rootPath, sectionName, collectionName, imageBreadcrumb } = Astro.props;
+const { rootPath, sectionName, collectionName, image } = Astro.props;
 
 const tours = (await getCollection(collectionName)).sort(
   (a, b) => a.data.id - b.data.id
 );
 ---
 
-<TourLayout imageBreadcrumb={imageBreadcrumb} sectionName={sectionName}>
+<TourLayout image={image} sectionName={sectionName}>
   <ul class="grid grid-cols-1 lg:grid-cols-2 gap-6">
     {
       tours.map((tour) => (

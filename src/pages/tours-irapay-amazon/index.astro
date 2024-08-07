@@ -1,9 +1,15 @@
 ---
 import TourListLayout from "src/layouts/TourListLayout.astro";
+
+const image = {
+  path: "/src/images/breadcrumb/bg-irapay.png",
+  alt: "Iquitos Expedition - Tours Irapay Amazon",
+  style: "object-position: 50% 28%",
+};
 ---
 
 <TourListLayout
-  imageBreadcrumb="bg-irapay"
+  image={image}
   rootPath="tours-irapay-amazon"
   sectionName="Irapay Amazon"
   collectionName="irapayAmazon"

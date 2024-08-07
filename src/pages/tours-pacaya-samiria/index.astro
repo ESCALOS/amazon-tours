@@ -1,9 +1,15 @@
 ---
 import TourListLayout from "src/layouts/TourListLayout.astro";
+
+const image = {
+  path: "/src/images/breadcrumb/bg-pacayasamiria.png",
+  alt: "Iquitos Expedition - Tours Pacaya Samiria",
+  style: "object-position: 50% 28%",
+};
 ---
 
 <TourListLayout
-  imageBreadcrumb="bg-pacayasamiria"
+  image={image}
   rootPath="tours-pacaya-samiria"
   sectionName="Pacaya Samiria"
   collectionName="pacayaSamiria"

@@ -4,7 +4,7 @@ import RecommendedTourCard from "@components/RecommendedTourCard.astro";
 import { Icon } from "astro-icon/components";
 import TourLayout from "src/layouts/TourLayout.astro";
 
-const { tour, sectionName, imageBreadcrumb } = Astro.props;
+const { tour, sectionName, image } = Astro.props;
 
 const { Content } = await tour.render();
 
@@ -17,7 +17,7 @@ type RecommendedTour = {
 };
 ---
 
-<TourLayout imageBreadcrumb={imageBreadcrumb} sectionName={sectionName}>
+<TourLayout image={image} sectionName={sectionName}>
   <button
     class="inline-flex items-center gap-2 self-start rounded-full border px-6 py-2 transition-colors duration-200 hover:border-primary-500 hover:text-primary-500"
     onclick="history.back()"

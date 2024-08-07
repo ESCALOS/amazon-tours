@@ -2,13 +2,16 @@
 import Breadcrumb from "@components/Breadcrumb.astro";
 import Layout from "src/layouts/Layout.astro";
 import ContactForm from "@components/ContactForm";
+
+const image = {
+  path: "/src/images/breadcrumb/bg-contactanos.png",
+  alt: "Iquitos Expedition - Tours Amazonas",
+  style: "object-position: 50% 28%",
+};
 ---
 
 <Layout>
-  <Breadcrumb
-    imagePath="/src/images/breadcrumb/bg-contactanos.png"
-    title="Contáctenos"
-  />
+  <Breadcrumb image={image} title="Contáctenos" />
   <section class="bg-white p-8 max-w-7xl mx-auto">
     <div class="p-8 bg-gray-50 rounded-md mb-8">
       <div class="text-center space-y-2 mb-8">
