@@ -9,7 +9,7 @@ import vercel from "@astrojs/vercel/serverless";
 // https://astro.build/config
 export default defineConfig({
   output: "hybrid",
-  site: "https://amazon-tours.vercel.app/",
+  site: "https://www.iquitosexpedition.com/",
   integrations: [tailwind(), react(), icon(), sitemap()],
-  adapter: vercel()
+  adapter: vercel(),
 });
