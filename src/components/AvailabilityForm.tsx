@@ -155,7 +155,7 @@ export default function AvailabilityForm() {
                     <input
                         type="date"
                         id="checkin"
-                        className="availability-input"
+                        className="appearance-none availability-input"
                         placeholder="dd/mm/aaaa"
                         {...register("checkin", {
                             required: "La fecha de ingreso es requerida",
@@ -175,7 +175,7 @@ export default function AvailabilityForm() {
                     <input
                         type="date"
                         id="checkout"
-                        className="availability-input"
+                        className="appearance-none availability-input"
                         placeholder="dd/mm/aaaa"
                         {...register("checkout", {
                             required: "La fecha de salida es requerida",
