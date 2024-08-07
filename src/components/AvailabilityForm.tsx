@@ -44,9 +44,9 @@ export default function AvailabilityForm() {
             </p>
             <form
                 onSubmit={handleSubmit(onSubmit)}
-                className="grid grid-cols-2 md:grid-cols-3 items-start justify-start gap-4"
+                className="grid grid-cols-1 md:grid-cols-2 items-start justify-start gap-4"
             >
-                <div className="col-span-2 md:col-span-1">
+                <div>
                     <label className="availability-label" htmlFor="name">
                         Nombres y Apellidos
                     </label>
@@ -156,6 +156,7 @@ export default function AvailabilityForm() {
                         type="date"
                         id="checkin"
                         className="availability-input"
+                        placeholder="dd/mm/aaaa"
                         {...register("checkin", {
                             required: "La fecha de ingreso es requerida",
                             validate: validateDate,
@@ -175,6 +176,7 @@ export default function AvailabilityForm() {
                         type="date"
                         id="checkout"
                         className="availability-input"
+                        placeholder="dd/mm/aaaa"
                         {...register("checkout", {
                             required: "La fecha de salida es requerida",
                             validate: (checkout) =>
@@ -187,7 +189,7 @@ export default function AvailabilityForm() {
                         </span>
                     )}
                 </div>
-                <div className="col-span-2 md:col-span-1">
+                <div>
                     <p className="md:block font-bold mb-2 text-gray-400 hidden">
                         Consultar Ahora
                     </p>
