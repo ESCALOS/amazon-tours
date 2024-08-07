@@ -117,7 +117,7 @@ export default function Navbar({ logoLight, logoDark, routePath }: Props) {
                         }
                     </div>
                     <motion.div
-                        className="lg:hidden p-2 rounded-md text-white hover:bg-primary-500 cursor-pointer"
+                        className="lg:hidden p-2 rounded-md text-white bg-primary-500 hover:bg-primary-500 cursor-pointer"
                         onClick={() => setOpenNav(!openNav)}>
                         {
                             openNav ?

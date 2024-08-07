@@ -6,6 +6,7 @@ const irapayAmazon = defineCollection({
     z.object({
       id: z.number(),
       heroImage: image(),
+      contentImage: image(),
       title: z.string(),
       description: z.string(),
       text: z.string(),
@@ -28,6 +29,7 @@ const heliconiaLodge = defineCollection({
     z.object({
       id: z.number(),
       heroImage: image(),
+      contentImage: image(),
       title: z.string(),
       description: z.string(),
       text: z.string(),
@@ -50,6 +52,7 @@ const cumacebaLodge = defineCollection({
     z.object({
       id: z.number(),
       heroImage: image(),
+      contentImage: image(),
       title: z.string(),
       description: z.string(),
       text: z.string(),
@@ -72,6 +75,7 @@ const pacayaSamiria = defineCollection({
     z.object({
       id: z.number(),
       heroImage: image(),
+      contentImage: image(),
       title: z.string(),
       description: z.string(),
       text: z.string(),
@@ -94,6 +98,7 @@ const dailyTours = defineCollection({
     z.object({
       id: z.number(),
       heroImage: image(),
+      contentImage: image(),
       title: z.string(),
       description: z.string(),
       text: z.string(),

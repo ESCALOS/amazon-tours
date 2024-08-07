@@ -4,6 +4,7 @@ title: "El Encanto Amazónico"
 description: "Tour por Iquitos, Río Nanay, Río Momón, Acuario de Peces"
 text: "Sumérgete en la fascinante biodiversidad de la selva, donde cada rincón revela maravillas naturales y encuentros inolvidables con la fauna local."
 heroImage: "src/images/tours/encantoamazonico.png"
+contentImage: "src/images/tours/toursdiariosencantoamazonico.png"
 recommendedTours:
   [
     {

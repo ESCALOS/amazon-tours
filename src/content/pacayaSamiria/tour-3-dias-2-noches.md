@@ -4,6 +4,7 @@ title: "Tours Reserva Nacional Pacaya Samiria (3D/2N) - Desde Yurimaguas"
 description: "Tours Reserva Nacional Pacaya Samiria (3D/2N) - Desde Yurimaguas"
 text: "Embárcate en una aventura de tres días en la Reserva Nacional Pacaya Samiria, explorando la rica biodiversidad y la belleza natural desde Yurimaguas."
 heroImage: "src/images/tours/pacayasamiria1.png"
+contentImage: "src/images/tours/pacayasamiriadesdeyurimaguas3d2n.png"
 recommendedTours:
   [
     {

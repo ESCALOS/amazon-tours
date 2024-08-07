@@ -4,6 +4,7 @@ title: "Mariposario"
 description: "Tour por el Mariposario, Iquitos"
 text: "Explora un colorido santuario de mariposas, donde podrás observar diversas especies en su hábitat natural y aprender sobre su ciclo de vida y su importancia en el ecosistema."
 heroImage: "src/images/tours/mariposario.png"
+contentImage: "src/images/tours/toursdiariosmariposario.png"
 recommendedTours:
   [
     {

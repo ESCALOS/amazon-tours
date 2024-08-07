@@ -4,6 +4,7 @@ title: "Aventura Extrema (Puentes Colgantes)"
 description: "Tour en Iquitos, actividad por puentes colgantes"
 text: "Disfruta de un emocionante recorrido por impresionantes puentes colgantes en la selva, donde la adrenalina y la belleza natural se fusionan para una experiencia inolvidable."
 heroImage: "src/images/tours/aventuraextrema.png"
+contentImage: "src/images/tours/toursdiariosaventuraextrema.png"
 recommendedTours:
   [
     {

@@ -4,6 +4,7 @@ title: "CREA y Quiticocha"
 description: "Tour por Centro de Rescate (CREA) Manatí, Iquitos - Viaje por Forever Bio Park"
 text: "Explora el Proyecto de Conservación de Manatíes (CREA) y descubre la fauna local en el zoológico de Quistococha, disfrutando de su encantadora playa."
 heroImage: "src/images/tours/quiticocha.png"
+contentImage: "src/images/tours/toursdiarioscreayquicticocha.png"
 recommendedTours:
   [
     {

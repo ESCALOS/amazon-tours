@@ -4,6 +4,7 @@ title: "Inolvidable Río Amazonas (3D/2N)"
 description: "Inolvidable Río Amazonas 3 Días 2 Noches - Heliconia Lodge"
 text: "Vive tres días de magia en la selva, explorando el majestuoso río Amazonas y disfrutando de la naturaleza, el confort y la aventura."
 heroImage: "src/images/tours/inolvidablerioamazonas.png"
+contentImage: "src/images/tours/heliconia3d2n.png"
 recommendedTours:
   [
     {

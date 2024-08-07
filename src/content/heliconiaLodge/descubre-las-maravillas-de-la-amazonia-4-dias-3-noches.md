@@ -4,6 +4,7 @@ title: "Descubre Las Maravillas De La Amazonía (4D/3N)"
 description: "Descubre Las Maravillas De La Amazonía 4 Días 3 Noches. - Heliconia Lodge"
 text: "Explora la selva amazónica en cuatro días llenos de aventuras, biodiversidad y experiencias inolvidables."
 heroImage: "src/images/tours/maravillasdelaamazonia.png"
+contentImage: "src/images/tours/heliconia4d3n.png"
 recommendedTours:
   [
     {

@@ -4,6 +4,7 @@ title: "Cumaceba Lodge (5D/4N)"
 description: "Cumaceba Lodge 5 Días 4 Noches"
 text: "Este recorrido está diseñado para sumergirte en la riqueza y diversidad de la selva peruana, brindándote una experiencia única y memorable que te hará sentir conectado con la naturaleza."
 heroImage: "src/images/tours/cumaceba3.png"
+contentImage: "src/images/tours/cumaceba5d4n.png"
 recommendedTours:
   [
     {

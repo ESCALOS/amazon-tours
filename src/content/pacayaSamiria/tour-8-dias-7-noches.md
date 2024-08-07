@@ -4,6 +4,7 @@ title: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto"
 description: "Tours Pacaya Samiria (8D/7N) - Desde Tarapoto"
 text: "Disfruta de una inmersión total en la Amazonía con un tour de ocho días por la Reserva Nacional Pacaya Samiria, donde la aventura y la naturaleza te esperan desde Tarapoto."
 heroImage: "src/images/tours/pacayasamiria5.png"
+contentImage: "src/images/tours/pacayasamiriadesdeytarapoto.png"
 recommendedTours:
   [
     {

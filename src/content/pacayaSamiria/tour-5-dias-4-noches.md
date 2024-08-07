@@ -4,6 +4,7 @@ title: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos"
 description: "Expedición Pacaya Samiria (5D/4N) - Desde Iquitos"
 text: "Vive una expedición de cinco días en la impresionante Reserva Nacional Pacaya Samiria, disfrutando de la fauna, flora y cultura amazónica desde Iquitos."
 heroImage: "src/images/tours/pacayasamiria3.png"
+contentImage: "src/images/tours/pacayasamiriadesdeiquitos5d4n.png"
 recommendedTours:
   [
     {

@@ -4,6 +4,7 @@ title: "Tours R. N. Pacaya Samiria (6D/5N) - Desde Yurimaguas"
 description: "Tours Reserva Nacional Pacaya Samiria (6D/5N) - Desde Yurimaguas"
 text: "Sumérgete en una experiencia de seis días en la Reserva Nacional Pacaya Samiria, explorando sus maravillas naturales y culturales desde Yurimaguas."
 heroImage: "src/images/tours/pacayasamiria4.png"
+contentImage: "src/images/tours/pacayasamiriadesdeyurimaguas6d5n.png"
 recommendedTours:
   [
     {

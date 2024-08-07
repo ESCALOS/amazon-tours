@@ -4,6 +4,7 @@ title: "Cumaceba Lodge (4D/3N)"
 description: "Cumaceba Lodge 4 Días 3 Noches"
 text: "Sumérgete en una experiencia de cuatro días en Cumaceba Lodge, explorando la selva, disfrutando de actividades emocionantes y relajándote en un entorno natural impresionante."
 heroImage: "src/images/tours/cumaceba2.png"
+contentImage: "src/images/tours/cumaceba4d3n.png"
 recommendedTours:
   [
     {
@@ -37,23 +38,23 @@ pubDate: "Jul 30 2024"
 
 ## Día 1: Traslado del Aeropuerto u Hotel
 
-Traslado del aeropuerto u hotel. Caminata por el centro de la ciudad, conociendo la iglesia matriz, la casa de hierro, el malecón Maldonado y las casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote motor fuera de borda. 
+Traslado del aeropuerto u hotel. Caminata por el centro de la ciudad, conociendo la iglesia matriz, la casa de hierro, el malecón Maldonado y las casas históricas de la época del caucho. Traslado al puerto fluvial para abordar el bote motor fuera de borda.
 
 Navegaremos el río Itaya durante 15 minutos para luego ingresar al río más largo y caudaloso del mundo, el Amazonas. Se proporcionará información sobre el Amazonas y buscaremos delfines grises y bufeos rosados. Navegaremos por el Amazonas hasta el Curaka Expeditions, donde seremos recibidos con un refresco de frutas de la estación. Se brindará información general y se realizará la asignación de bungalows privados.
 
-**Almuerzo:** plato típico Juane. Por la tarde, caminata por la selva, conociendo la flora, fauna y la biodiversidad del área. 
+**Almuerzo:** plato típico Juane. Por la tarde, caminata por la selva, conociendo la flora, fauna y la biodiversidad del área.
 
-Caminata nocturna por la selva, escuchando la variedad de sonidos emitidos por insectos, batracios, aves, entre otros, y excursión en canoa, según la estación. 
+Caminata nocturna por la selva, escuchando la variedad de sonidos emitidos por insectos, batracios, aves, entre otros, y excursión en canoa, según la estación.
 
 **Cena:** historias selváticas narradas por el guía. Noche en el albergue.
 
 ## Día 2: Avistaje de Aves en su Hábitat, Caminando o en Canoa
 
-Avistaje de aves en su hábitat, caminando o en canoa. **Desayuno.** Excursión para visitar a un morador ribereño, donde apreciaremos boas constrictoras no venenosas, osos perezosos y tortugas, entre otros. 
+Avistaje de aves en su hábitat, caminando o en canoa. **Desayuno.** Excursión para visitar a un morador ribereño, donde apreciaremos boas constrictoras no venenosas, osos perezosos y tortugas, entre otros.
 
-También conoceremos la manera de extraer el jugo de la caña de azúcar de forma artesanal, con degustación del jugo y sus derivados, como el ron de caña y la melaza. 
+También conoceremos la manera de extraer el jugo de la caña de azúcar de forma artesanal, con degustación del jugo y sus derivados, como el ron de caña y la melaza.
 
-Retorno al albergue. **Almuerzo:** plato típico de pescado. Por la tarde, visita al pueblo de la ribera “**GALLITO**” para conocer parte de sus actividades diarias. Según las condiciones climatológicas, observaremos una maravillosa puesta de sol. 
+Retorno al albergue. **Almuerzo:** plato típico de pescado. Por la tarde, visita al pueblo de la ribera “**GALLITO**” para conocer parte de sus actividades diarias. Según las condiciones climatológicas, observaremos una maravillosa puesta de sol.
 
 **Cena.** Noche en el albergue.
 

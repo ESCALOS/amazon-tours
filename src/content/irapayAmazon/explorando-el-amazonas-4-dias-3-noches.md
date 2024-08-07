@@ -4,6 +4,7 @@ title: "Explorando el Amazonas (4D/3N)"
 description: "Explorando el Amazonas 4 Días 3 Noches - Irapay Amazon"
 text: "Aventúrate en la selva amazónica y vive una experiencia única donde la biodiversidad, el confort y la emoción se unen."
 heroImage: "src/images/tours/explorandoamazonas.png"
+contentImage: "src/images/tours/irapay4d3n.png"
 recommendedTours:
   [
     {

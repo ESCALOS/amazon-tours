@@ -4,6 +4,7 @@ title: "Isla de los Monos"
 description: "Tour por la frontera del Río Amazonas y el Río Nanay"
 text: "Descubre un refugio natural donde primates viven en libertad, disfrutando de un entorno exuberante y aprendiendo sobre la rica biodiversidad de la región."
 heroImage: "src/images/tours/isladelosmonos.png"
+contentImage: "src/images/tours/toursdiariosisladelosmonos.png"
 recommendedTours:
   [
     {
