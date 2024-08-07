@@ -16,4 +16,8 @@ export const getStaticPaths = (async () => {
 const tour = Astro.props;
 ---
 
-<TourItemLayout sectionName="Heliconia Lodge" tour={tour} />
+<TourItemLayout
+  imageBreadcrumb="bg-heliconia"
+  sectionName="Heliconia Lodge"
+  tour={tour}
+/>

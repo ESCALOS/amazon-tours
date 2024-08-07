@@ -51,6 +51,9 @@ const optimizedImages = await optimizeImages(imagePaths, 831, 552, "webp");
 ---
 
 <Layout>
-  <Breadcrumb title="Galería" />
+  <Breadcrumb
+    imagePath="/src/images/breadcrumb/bg-galeria.png"
+    title="Galería"
+  />
   <GalleryRoom images={optimizedImages} client:visible />
 </Layout>

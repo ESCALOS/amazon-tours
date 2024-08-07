@@ -16,4 +16,8 @@ export const getStaticPaths = (async () => {
 const tour = Astro.props;
 ---
 
-<TourItemLayout sectionName="Cumaceba Lodge" tour={tour} />
+<TourItemLayout
+  imageBreadcrumb="bg-cumaceba"
+  sectionName="Cumaceba Lodge"
+  tour={tour}
+/>
