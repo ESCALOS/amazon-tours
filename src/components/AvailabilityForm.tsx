@@ -21,12 +21,12 @@ export default function AvailabilityForm() {
         ? programs.find(prog => prog.name === selectedProgram)?.activities || []
         : [];
 
-    const onSubmit: SubmitHandler<Form> = data => {
-        const checkinFormatted = formatDate(data.checkin);
-        const checkoutFormatted = formatDate(data.checkout);
+    const onSubmit: SubmitHandler<Form> = ({ name, program, activity, checkin, checkout }) => {
+        const checkinFormatted = formatDate(checkin);
+        const checkoutFormatted = formatDate(checkout);
         const url = getURLToSendMessageToWhatsapp({
             whatsappNumber: `51${import.meta.env.PUBLIC_PHONE_NUMBER}`,
-            message: `Necesito una guía en los días ${checkinFormatted} a ${checkoutFormatted}`
+            message: `Hola, mi nombre es *${name}*. Estoy interesado en el programa *${program}* y me gustaría participar en la actividad *${activity}*. Mi fecha de ingreso sería el *${checkinFormatted}* y la fecha de salida el *${checkoutFormatted}*. ¿Podrías proporcionarme más información?`
         })
         window.open(url, '_blank')
     }
