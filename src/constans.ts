@@ -16,6 +16,7 @@ export const programs = [
   {
     id: 1,
     name: "Irapay Amazon",
+    path: "/tours-irapay-amazon",
     activities: [
       { id: 1, name: "Iquitos Relax (3D/2N)" },
       { id: 2, name: "Explorando el Amazonas (4D/3N)" },
@@ -25,6 +26,7 @@ export const programs = [
   {
     id: 2,
     name: "Heliconia Lodge",
+    path: "/tours-heliconia-lodge",
     activities: [
       { id: 4, name: "Inolvidable Río Amazonas (3D/2N)" },
       { id: 5, name: "Descubre Las Maravillas De La Amazonía (4D/3N)" },
@@ -34,6 +36,7 @@ export const programs = [
   {
     id: 3,
     name: "Cumaceba Lodge",
+    path: "/tours-cumaceba-lodge",
     activities: [
       { id: 7, name: "Cumaceba Lodge (3D/2N)" },
       { id: 8, name: "Cumaceba Lodge (4D/3N)" },
@@ -43,6 +46,7 @@ export const programs = [
   {
     id: 4,
     name: "Pacaya Samiria",
+    path: "/tours-pacaya-samiria",
     activities: [
       {
         id: 10,
@@ -63,6 +67,7 @@ export const programs = [
   {
     id: 5,
     name: "Tours Diarios",
+    path: "/tours-diarios",
     activities: [
       { id: 15, name: "Aventura Extrema (Puentes Colgantes)" },
       { id: 16, name: "CREA y Quiticocha" },
@@ -75,49 +80,20 @@ export const programs = [
 
 export const navItems = [
   {
-    id: 1,
+    name: "Inicio",
     path: "/",
-    text: "Inicio",
   },
   {
-    id: 2,
+    name: "Nosotros",
     path: "/nosotros",
-    text: "Nosotros",
   },
   {
-    id: 3,
-    path: "/tours-irapay-amazon",
-    text: "Irapay Amazon",
-  },
-  {
-    id: 4,
-    path: "/tours-heliconia-lodge",
-    text: "Heliconia Lodge",
-  },
-  {
-    id: 5,
-    path: "/tours-cumaceba-lodge",
-    text: "Cumaceba Lodge",
-  },
-  {
-    id: 6,
-    path: "/tours-pacaya-samiria",
-    text: "Pacaya Samiria",
-  },
-  {
-    id: 7,
-    path: "/tours-diarios",
-    text: "Tours Diarios",
-  },
-  {
-    id: 8,
+    name: "Galería",
     path: "/galeria",
-    text: "Galería",
   },
   {
-    id: 9,
+    name: "Contáctenos",
     path: "/contactenos",
-    text: "Contáctenos",
   },
 ];
 
