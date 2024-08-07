@@ -4,12 +4,30 @@ export const SITE_DESCRIPTION =
   "Descubre los mejores Paquetes Turísticos, junto a nosotros.  Somos tu mejor opción en tus viajes en Pareja, En Familia y amigos. Celebra junto a nosotros tu viaje de Luna de miel, viajes de Cumpleaños, aniversarios. En los Mejores hoteles y Lodge en la Selva.";
 
 export const mainSlides = [
-  "Bienvenidos a la Amazonía",
-  "Monos y aves en su habitat",
-  "Descubramos Pacaya Samiria",
-  "Exploremos el río amazonas",
-  "Heliconia Amazon Lodge",
-  "Irapay Amazon Lodge",
+  {
+    title: "Bienvenidos a la Amazonía",
+    imageStyle: "object-position: 82% 50%;",
+  },
+  {
+    title: "Monos y aves en su habitat",
+    imageStyle: "object-position: 80% 50%;",
+  },
+  {
+    title: "Descubra,mos Pacaya Samiria",
+    imageStyle: "object-position: 80% 50%;",
+  },
+  {
+    title: "Exploremos el río amazonas",
+    imageStyle: "",
+  },
+  {
+    title: "Heliconia Amazon Lodge",
+    imageStyle: "",
+  },
+  {
+    title: "Irapay Amazon Lodge",
+    imageStyle: "",
+  },
 ];
 
 export const programs = [

@@ -5,9 +5,10 @@ import WhatsappButton from "./WhatsappButton.astro";
 
 interface Props {
   imagePath: string;
+  imageStyle?: string;
   title: string;
 }
-const { imagePath, title } = Astro.props;
+const { imagePath, imageStyle = "", title } = Astro.props;
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/images/slide/*.png"
 );
@@ -23,6 +24,7 @@ if (!images[imagePath])
     alt=""
     class:list={["object-cover w-full h-full"]}
     loading="eager"
+    style={imageStyle}
   />
   <div class="absolute inset-0 bg-black opacity-50 mix-blend-multiply"></div>
   <div
