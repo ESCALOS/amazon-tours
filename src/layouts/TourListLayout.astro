@@ -39,7 +39,7 @@ const tours = (await getCollection(collectionName)).sort(
             />
             <div class="w-full">
               <div class="flex flex-col justify-start gap-3 p-4">
-                <h4 class="text-xl font-bold">{title}</h4>
+                <h2 class="text-xl font-bold">{title}</h2>
                 <p class="text-sm text-gray-700">{text}</p>
                 <a href={`/${rootPath}/${slug}`} class="inline-flex">
                   <span class="bg-primary-500 hover:bg-secondary-500 transition-colors duration-300 py-3 px-6 text-sm font-bold text-white rounded-md">
