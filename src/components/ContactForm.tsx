@@ -29,11 +29,11 @@ export default function ContactForm() {
       } else {
         alert('No se pudo enviar el mensaje');
       }
+      reset()
     } catch (error) {
       alert('Hubo un error al enviar el mensaje.');
     } finally {
       setIsSubmitting(false)
-      reset()
     }
   };
 
