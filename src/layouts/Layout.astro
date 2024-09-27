@@ -1,14 +1,16 @@
 ---
+// src/layouts/BaseLayout.astro
 import BaseHead from "@components/BaseHead.astro";
 import Footer from "@components/Footer.astro";
-import "@styles/global.css";
-import { ViewTransitions } from "astro:transitions";
 import Navbar from "@components/Navbar";
+import Loading from "@components/Loading.astro";
+import RadioPlayer from "@components/RadioPlayer.astro";
+import { ViewTransitions } from "astro:transitions";
+import "@styles/global.css";
 import { getImage } from "astro:assets";
 import LogoDark from "@images/logoDark.png";
 import LogoLight from "@images/logoLight.png";
 import { SITE_DESCRIPTION, SITE_TITLE } from "src/constans";
-import Loading from "@components/Loading.astro";
 
 const logoDark = await getImage({
   src: LogoDark,
@@ -30,6 +32,9 @@ const routePath = `/${Astro.url.pathname.split("/")[1]}`;
     <ViewTransitions />
   </head>
   <body>
+    <!-- Reproductor de Radio persistente -->
+    <RadioPlayer />
+    <!-- Contenido principal -->
     <div id="loading-container" class="transition-opacity">
       <Loading />
     </div>
@@ -43,6 +48,7 @@ const routePath = `/${Astro.url.pathname.split("/")[1]}`;
       <slot />
       <Footer />
     </div>
+
     <script is:inline>
       window.addEventListener("load", () => {
         const loader = document.getElementById("loading-container");
@@ -55,6 +61,7 @@ const routePath = `/${Astro.url.pathname.split("/")[1]}`;
           }, 150);
         }
       });
+
       document.addEventListener("astro:after-swap", () => {
         const loader = document.getElementById("loading-container");
         const content = document.getElementById("main-content");
