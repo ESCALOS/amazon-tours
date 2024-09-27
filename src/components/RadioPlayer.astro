@@ -1,6 +1,6 @@
 ---
 // src/components/RadioPlayer.astro
-const streamUrl = "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c?aid=5faaeb72f92d7b07dfe10181&pid=EfUGrsUgMzljSB7Ph2G7ijdAxa4B6Szq&sid=oFljHxYrZd5TmU9X1Vnd3bp43efzRXct&uid=GshcXt0VmXk6KblxhNX5QyXIYuiz1UnS&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1727477677314&ot=JJYqOcZZyjmyXO_kE65o_Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Fwww.radio.es%2F&listenerId=GshcXt0VmXk6KblxhNX5QyXIYuiz1UnS";
+const streamUrl = "https://res.cloudinary.com/defhixtcv/video/upload/v1727475913/audio_iquitos_expedition_ccpj8e.m4a";
 ---
 
 <div class="radio-player fixed bottom-4 right-4 bg-secondary-600 rounded-full shadow-lg z-50 cursor-pointer" transition:persist transition:name="media-player">
@@ -12,7 +12,7 @@ const streamUrl = "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fa
     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 9v6m4-6v6" />
   </svg>
 
-  <audio id="audio-player" autoplay={true}>
+  <audio id="audio-player" autoplay={true} loop={true}>
     <source src={streamUrl} type="audio/aac" />
     Your browser does not support the audio element.
   </audio>
