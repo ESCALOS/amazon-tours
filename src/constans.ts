@@ -13,7 +13,7 @@ export const mainSlides = [
     imageStyle: "object-position: 80% 50%;",
   },
   {
-    title: "Descubra,mos Pacaya Samiria",
+    title: "Descubramos Pacaya Samiria",
     imageStyle: "object-position: 80% 50%;",
   },
   {
